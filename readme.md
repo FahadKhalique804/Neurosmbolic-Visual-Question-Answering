@@ -4,7 +4,7 @@ An intelligent assistive application that enables visually impaired users to und
 
 Designed as a neuro-symbolic AI framework, this project improves interpretability, robustness, and reasoning compared to purely neural VQA systems.
 
-![Project Banner](https://raw.githubusercontent.com/FahadKhalique804/neurosymbolic-visual-question-answering/main/NSVQA.png)
+![Project Banner](https://raw.githubusercontent.com/FahadKhalique804/Neurosmbolic-Visual-Question-Answering/main/NSVQA.png)
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
