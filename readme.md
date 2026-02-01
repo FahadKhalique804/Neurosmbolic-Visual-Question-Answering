@@ -82,8 +82,8 @@ pip install -r requirements.txt
 python app.py
 
 2. Frontend Setup
-Bash# From project root (if not already there)
-cd ../frontend
+# From project root
+cd frontend
 
 # Install Flutter dependencies
 flutter pub get
@@ -93,10 +93,10 @@ flutter run -d chrome             # Web/browser
 # or
 flutter run -d windows            # Desktop
 # or
-flutter run                       # Android/iOS device (if connected)
+flutter run                       # Android/iOS device
 
 📂 Project Structure
-textneurosymbolic-visual-question-answering/
+neurosymbolic-visual-question-answering/
 ├── backend/
 │   ├── Controllers/       # API handlers: question, image, answer
 │   ├── Models/            # Scene graph, logic rules, CFG parser
@@ -114,22 +114,40 @@ textneurosymbolic-visual-question-answering/
 │   └── ...
 ├── README.md
 └── LICENSE
+
 🎯 Use Cases
 
 Daily assistance for visually impaired users (indoor/outdoor scene understanding)
+
 Educational showcase of neuro-symbolic AI principles
+
 Foundation for assistive robotics and embodied AI
+
 Research platform for explainable VQA in accessibility
 
-#Accessibility #AssistiveTech
 🤝 Contributing
 
 Fork the repository
-Create your feature branchBashgit checkout -b feature/amazing-feature
-Commit your changesBashgit commit -m 'Add some amazing feature'
-Push to the branchBashgit push origin feature/amazing-feature
+
+Create your feature branch
+
+git checkout -b feature/amazing-feature
+
+
+Commit your changes
+
+git commit -m 'Add some amazing feature'
+
+
+Push to the branch
+
+git push origin feature/amazing-feature
+
+
 Open a Pull Request
 
 We warmly welcome contributions — bug fixes, new features, better reasoning accuracy, multilingual support, documentation, or model optimizations!
+
 📄 License
+
 Distributed under the MIT License.
