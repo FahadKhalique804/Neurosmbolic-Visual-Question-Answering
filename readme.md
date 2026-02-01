@@ -1,8 +1,6 @@
-# Neuro-Symbolic Visual Question Answering System for Visually Impaired
+# Neuro-Symbolic Visual Question Answering System
 
-An intelligent assistive application that enables visually impaired users to understand their surroundings by asking natural language questions about images. The system combines deep learning–based visual perception with symbolic reasoning and chain-of-thought logic to deliver accurate, explainable answers and grounded actions.
-
-Designed as a neuro-symbolic AI framework, this project improves interpretability, robustness, and reasoning compared to purely neural VQA systems.
+An intelligent assistive application that enables visually impaired users to understand their surroundings by asking natural language questions about images. The system combines deep learning–based visual perception with symbolic reasoning and chain-of-thought logic to deliver accurate, explainable answers.
 
 ![Project Banner](https://raw.githubusercontent.com/FahadKhalique804/Neurosmbolic-Visual-Question-Answering/main/NSVQA.png)
 
@@ -15,139 +13,126 @@ Designed as a neuro-symbolic AI framework, this project improves interpretabilit
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Accessibility](https://img.shields.io/badge/Accessibility-Visually%20Impaired-blueviolet?style=flat)](https://github.com/topics/accessibility)
 
-**Neuro-Symbolic • Explainable AI • Assistive Technology • VQA**
+## 🚀 Features
 
----
+- **Voice-Based Interaction**: Ask questions using speech and receive spoken responses.
+- **Scene Understanding**: Detects objects, their attributes (color, shape), and spatial relationships (left/right, on, near).
+- **Neuro-Symbolic Reasoning**: Uses a hybrid approach (CFG -> Regex -> ML) for robust question answering.
+- **Explainable AI**: Provides transparency into how the answer was derived.
 
-## 🚀 Key Features #VQA #AssistiveAI #NeuroSymbolic
+## 🛠️ Tech Stack
 
-### 👁️ For Visually Impaired Users
-- **Voice-Based Interaction:** Ask questions using speech input and receive spoken responses.
-- **Scene Understanding:** Understand objects, their properties, and relationships in an image.
-- **Natural Language Queries:** Ask complex questions like “Is there a person near the chair?” or “What is on the table?”
-- **Explainable Answers:** Reasoning is grounded in symbolic logic, not just black-box predictions.
+- **Backend**: Python, Flask, OpenCV, YOLO (Ultralytics), NLTK, Scikit-Learn.
+- **Frontend**: Flutter (Mobile/Desktop), Dart.
 
-### 🧠 AI Capabilities #ExplainableAI #ChainOfThought
-- **Neuro-Symbolic VQA:** Combines neural perception (vision + NLP) with symbolic reasoning.
-- **Chain-of-Thought Reasoning:** Logical steps are applied internally to improve multi-hop reasoning.
-- **Scene Graph Generation:** Converts detected objects into structured symbolic representations.
-- **Robotic Command Grounding (Extensible):** Architecture supports grounding answers into executable commands for assistive robots.
+## ⚙️ Prerequisites
 
----
+- **Python 3.9+**
+- **Flutter SDK** (for frontend)
+- **Git**
 
-## 🛠️ Tech Stack #Python #ComputerVision #NLP
-
-- **Backend:** Python (Flask / FastAPI)
-- **Computer Vision:** OpenCV, Object Detection Models (YOLO / Faster R-CNN)
-- **NLP:** Transformer-based Question Parsing
-- **Reasoning Engine:** Symbolic Logic Rules, CFG-based Parsing
-- **AI Architecture:** Neuro-Symbolic Framework with Chain-of-Thought
-- **Frontend:** Flutter (Mobile/Desktop)
-- **Speech:** Speech-to-Text (Whisper), Text-to-Speech
-- **Database:** SQLite / MySQL (for logs & history)
-
----
-
-## ⚙️ System Workflow #AIWorkflow
-
-1. User captures or uploads an image.
-2. User asks a question via voice or text.
-3. Object detection and scene understanding are applied.
-4. A scene graph is constructed.
-5. The question is parsed into symbolic logic.
-6. Chain-of-thought reasoning is applied over the scene graph.
-7. The final grounded answer is generated and spoken back to the user.
-
----
-
-## ⚙️ Setup Instructions
+## 📥 Installation
 
 ### 1. Backend Setup
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/YourUsername/neurosymbolic-visual-question-answering.git
+    cd neurosymbolic-visual-question-answering/Backend
+    ```
+
+2.  **Create a virtual environment (Recommended):**
+    ```bash
+    python -m venv venv
+    # Windows
+    venv\Scripts\activate
+    # Mac/Linux
+    source venv/bin/activate
+    ```
+
+3.  **Install dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4.  **Download NLTK Data:**
+    Run the downloader script to fetch necessary NLTK models:
+    ```bash
+    python download.py
+    ```
+
+### ⚠️ Critical Configuration (Must Read)
+
+The codebase currently contains **hardcoded paths** that match the original developer's machine. You **must** update these paths to point to the correct locations on your system for the application to work.
+
+Please open and edit the following files:
+
+1.  **`Backend/Controllers/ObjectDetectionHandler.py`**
+    -   Locate line ~5: `model_path=r'D:\PyCharm Project\NS_VQA\modelsNSVQA\last.pt'`
+    -   Change this path to point to your `last.pt` model file (located in `Backend/modelsNSVQA/last.pt`).
+    -   *Example*: `model_path=r'absolute/path/to/your/Backend/modelsNSVQA/last.pt'`
+
+2.  **`Backend/Controllers/model_store.py`**
+    -   Update paths for `relation_classifier_fahad.pkl` and `vectorizer_fahad.pkl`.
+
+3.  **`Backend/Controllers/ML_Answer.py`**
+    -   Update `KG_FOLDER`, `model_path`, and `vectorizer_path` variables in the `__init__` method and the `__main__` block.
+
+4.  **`Backend/Controllers/SceneGraphHandler.py`**
+    -   If you run this file directly for testing, update the `model_path` in the `if __name__ == "__main__":` block.
+
+---
+
+### 2. Frontend Setup
+
+1.  **Navigate to the Frontend directory:**
+    ```bash
+    cd ../Frontend
+    ```
+
+2.  **Install Flutter dependencies:**
+    ```bash
+    flutter pub get
+    ```
+
+## 🏃 Usage
+
+### Start the Backend
 ```bash
-# Clone the repository
-git clone https://github.com/FahadKhalique804/neurosymbolic-visual-question-answering.git
-cd neurosymbolic-visual-question-answering
-
-# Navigate to backend
-cd backend
-
-# Create & activate virtual environment
-python -m venv venv
-source venv/bin/activate          # Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Start the server
+# In the Backend directory (with venv activated)
 python app.py
+```
+The server will start at `http://0.0.0.0:5000`.
 
-2. Frontend Setup
-# From project root
-cd frontend
+### Start the Frontend
+```bash
+# In the Frontend directory
+flutter run
+```
+Choose your target device (Chrome, Windows, or a connected Mobile device).
 
-# Install Flutter dependencies
-flutter pub get
+## 📂 Project Structure
 
-# Run the app – choose your target platform
-flutter run -d chrome             # Web/browser
-# or
-flutter run -d windows            # Desktop
-# or
-flutter run                       # Android/iOS device
-
-📂 Project Structure
+```
 neurosymbolic-visual-question-answering/
-├── backend/
-│   ├── Controllers/       # API handlers: question, image, answer
-│   ├── Models/            # Scene graph, logic rules, CFG parser
-│   ├── Services/          # Vision, NLP, speech, reasoning modules
-│   ├── app.py             # Main API server (Flask or FastAPI)
-│   ├── requirements.txt
-│   └── ...
-├── frontend/
-│   ├── lib/
-│   │   ├── screens/       # UI: camera, question input, results, settings
-│   │   ├── services/      # API client, speech STT/TTS
-│   │   ├── widgets/       # Reusable Flutter components
-│   │   └── main.dart
-│   ├── pubspec.yaml
-│   └── ...
-├── README.md
-└── LICENSE
+├── Backend/
+│   ├── Controllers/       # Logic for Vision, NLP, and Reasoning
+│   ├── Models/            # Data models and KG logic
+│   ├── Routes/            # API Endpoints (Flask Blueprints)
+│   ├── Services/          # Helper services
+│   ├── modelsNSVQA/       # ML Models (YOLO, classifiers)
+│   ├── app.py             # Main Entry Point
+│   └── requirements.txt   # Python Dependencies
+├── Frontend/
+│   ├── lib/               # Flutter Source Code
+│   └── pubspec.yaml       # Flutter Dependencies
+└── README.md
+```
 
-🎯 Use Cases
+## 🤝 Contributing
 
-Daily assistance for visually impaired users (indoor/outdoor scene understanding)
+Contributions are welcome! Please open an issue or submit a pull request.
 
-Educational showcase of neuro-symbolic AI principles
-
-Foundation for assistive robotics and embodied AI
-
-Research platform for explainable VQA in accessibility
-
-🤝 Contributing
-
-Fork the repository
-
-Create your feature branch
-
-git checkout -b feature/amazing-feature
-
-
-Commit your changes
-
-git commit -m 'Add some amazing feature'
-
-
-Push to the branch
-
-git push origin feature/amazing-feature
-
-
-Open a Pull Request
-
-We warmly welcome contributions — bug fixes, new features, better reasoning accuracy, multilingual support, documentation, or model optimizations!
-
-📄 License
+## 📄 License
 
 Distributed under the MIT License.
