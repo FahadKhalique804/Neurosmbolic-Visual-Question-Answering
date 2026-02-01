@@ -1,0 +1,30 @@
+{
+    "object": "Laptop",
+    "triplets": [
+        [
+            "Laptop",
+            "subclass of",
+            "Electronics"
+        ],
+        [
+            "Laptop",
+            "used for",
+            "Personal computing"
+        ],
+        [
+            "Laptop",
+            "material used",
+            "Metal, Plastic, Glass"
+        ],
+        [
+            "Laptop",
+            "color",
+            "Varies"
+        ],
+        [
+            "Laptop",
+            "manufacturer",
+            "Various manufacturers"
+        ]
+    ]
+}

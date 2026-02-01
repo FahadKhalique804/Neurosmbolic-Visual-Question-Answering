@@ -1,0 +1,13 @@
+{
+  "object": "Truck",
+  "triplets": [
+    ["Truck", "subclass of", "motor vehicle"],
+    ["Truck", "used for", "transporting goods"],
+    ["Truck", "material used", "steel, aluminum"],
+    ["Truck", "has part", "engine, wheels, cargo bed"],
+    ["Truck", "part of", "transport and logistics"],
+    ["Truck", "manufacturer", "Ford, Volvo, Mercedes-Benz"],
+    ["Truck", "weight", "3,000–40,000 kg"],
+    ["Truck", "height", "2.0–4.0 m"]
+  ]
+}

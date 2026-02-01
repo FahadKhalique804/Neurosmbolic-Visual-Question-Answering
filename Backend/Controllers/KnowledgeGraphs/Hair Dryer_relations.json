@@ -1,0 +1,55 @@
+{
+  "object": "Hair Dryer",
+  "triplets": [
+    [
+      "Hair Dryer",
+      "subclass of",
+      "Electrical personal care appliance"
+    ],
+    [
+      "Hair Dryer",
+      "has part",
+      "Heating element, fan, motor, nozzle, handle"
+    ],
+    [
+      "Hair Dryer",
+      "part of",
+      "Personal grooming and beauty equipment"
+    ],
+    [
+      "Hair Dryer",
+      "used for",
+      "Drying and styling hair using hot or cool air"
+    ],
+    [
+      "Hair Dryer",
+      "material used",
+      "Plastic casing, metal heating coil, copper wiring"
+    ],
+    [
+      "Hair Dryer",
+      "color",
+      "Black, white, pink, or mixed colors"
+    ],
+    [
+      "Hair Dryer",
+      "height",
+      "20 to 25 centimeters"
+    ],
+    [
+      "Hair Dryer",
+      "weight",
+      "500 to 900 grams"
+    ],
+    [
+      "Hair Dryer",
+      "lifespan",
+      "5 to 10 years"
+    ],
+    [
+      "Hair Dryer",
+      "manufacturer",
+      "Electrical and personal care appliance companies"
+    ]
+  ]
+}

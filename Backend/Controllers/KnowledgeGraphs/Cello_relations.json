@@ -1,0 +1,55 @@
+{
+    "object": "Cello",
+    "triplets": [
+        [
+            "Cello",
+            "subclass of",
+            "String musical instrument played with a bow, part of the violin family"
+        ],
+        [
+            "Cello",
+            "used for",
+            "Performing music in orchestras, chamber ensembles, solo performances, and educational settings"
+        ],
+        [
+            "Cello",
+            "material used",
+            "Body made of wood (typically spruce and maple), strings of metal or synthetic material, fingerboard of ebony, and metal fittings"
+        ],
+        [
+            "Cello",
+            "has part",
+            "Body, Neck, Fingerboard, Strings, Bridge, Tailpiece, Endpin, Pegs, Bow"
+        ],
+        [
+            "Cello",
+            "color",
+            "Brown, Black, or natural wood finish depending on manufacturer"
+        ],
+        [
+            "Cello",
+            "part of",
+            "Orchestral instruments, string ensembles, and solo performance setups"
+        ],
+        [
+            "Cello",
+            "manufacturer",
+            "Various manufacturers"
+        ],
+        [
+            "Cello",
+            "weight",
+            "Approximately 2.5–5 kg depending on size and materials"
+        ],
+        [
+            "Cello",
+            "height",
+            "Approximately 1.2 meters (full-size instrument)"
+        ],
+        [
+            "Cello",
+            "lifespan",
+            "not applicable"
+        ]
+    ]
+}

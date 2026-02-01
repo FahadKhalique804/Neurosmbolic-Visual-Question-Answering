@@ -1,0 +1,13 @@
+{
+    "object": "Traffic Sign",
+    "triplets": [
+        ["Traffic Sign", "subclass of", "road signage"],
+        ["Traffic Sign", "used for", "Providing warnings, rules, guidance"],
+        ["Traffic Sign", "material used", "Metal sheet, reflective coating"],
+        ["Traffic Sign", "has part", "Sign plate, pole"],
+        ["Traffic Sign", "part of", "Road infrastructure"],
+        ["Traffic Sign", "manufacturer", "Various companies"],
+        ["Traffic Sign", "weight", "2–10 kg"],
+        ["Traffic Sign", "height", "2–3 m including pole"]
+    ]
+}

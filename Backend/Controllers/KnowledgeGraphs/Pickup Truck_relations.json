@@ -1,0 +1,15 @@
+{
+    "object": "Pickup Truck",
+    "triplets": [
+        ["Pickup Truck", "subclass of", "Light-duty motor vehicle with an open cargo area (bed) at the rear"],
+        ["Pickup Truck", "used for", "Transporting goods, towing, off-road driving, work, and personal use"],
+        ["Pickup Truck", "material used", "Steel, aluminum, plastic, glass, rubber, and electronic components"],
+        ["Pickup Truck", "has part", "Cab, cargo bed, engine, wheels, suspension, and towing hitch"],
+        ["Pickup Truck", "color", "Various colors including white, black, silver, red, and blue"],
+        ["Pickup Truck", "part of", "Transportation systems, construction, agriculture, and lifestyle vehicles"],
+        ["Pickup Truck", "manufacturer", "Ford, Chevrolet, Toyota, Ram, and other automotive companies"],
+        ["Pickup Truck", "weight", "Approximately 2000–3000 kg depending on model and configuration"],
+        ["Pickup Truck", "length", "Approximately 5–6 meters for full-size models"],
+        ["Pickup Truck", "lifespan", "10–20 years with proper maintenance"]
+    ]
+}

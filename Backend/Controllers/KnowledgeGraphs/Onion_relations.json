@@ -1,0 +1,14 @@
+{
+    "object": "Onion",
+    "triplets": [
+        ["Onion", "subclass of", "Bulb vegetable from the genus Allium, used worldwide in cooking"],
+        ["Onion", "used for", "Flavoring dishes, salads, soups, sauces, and raw or cooked preparations"],
+        ["Onion", "material used", "Layered flesh, skin, and sometimes roots and shoots"],
+        ["Onion", "has part", "Outer papery skin, multiple fleshy layers, and core"],
+        ["Onion", "color", "White, yellow, red, or purple"],
+        ["Onion", "part of", "Onion plant, agricultural systems, and culinary traditions globally"],
+        ["Onion", "manufacturer", "Farmers, agricultural cooperatives, and vegetable suppliers"],
+        ["Onion", "weight", "Approximately 50–300g per bulb depending on type"],
+        ["Onion", "lifespan", "Several weeks to months when stored in cool, dry conditions"]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+  "object": "Eggplant",
+  "triplets": [
+    [
+      "Eggplant",
+      "subclass of",
+      "Vegetable plant product"
+    ],
+    [
+      "Eggplant",
+      "has part",
+      "Skin, flesh, seeds, stem"
+    ],
+    [
+      "Eggplant",
+      "part of",
+      "Vegetable-based food and agriculture system"
+    ],
+    [
+      "Eggplant",
+      "used for",
+      "Cooking in various dishes and cuisines"
+    ],
+    [
+      "Eggplant",
+      "material used",
+      "Plant-based fibers, water content, nutrients"
+    ],
+    [
+      "Eggplant",
+      "color",
+      "Purple, green, or white varieties"
+    ],
+    [
+      "Eggplant",
+      "height",
+      "15 to 30 centimeters in length"
+    ],
+    [
+      "Eggplant",
+      "weight",
+      "200 to 800 grams"
+    ],
+    [
+      "Eggplant",
+      "lifespan",
+      "5 to 10 days after harvesting"
+    ],
+    [
+      "Eggplant",
+      "manufacturer",
+      "Grown and supplied by farmers"
+    ]
+  ]
+}

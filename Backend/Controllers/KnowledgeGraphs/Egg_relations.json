@@ -1,0 +1,55 @@
+{
+  "object": "Egg",
+  "triplets": [
+    [
+      "Egg",
+      "subclass of",
+      "Animal-based food product"
+    ],
+    [
+      "Egg",
+      "has part",
+      "Shell, egg white, egg yolk"
+    ],
+    [
+      "Egg",
+      "part of",
+      "Poultry farming and food supply system"
+    ],
+    [
+      "Egg",
+      "used for",
+      "Cooking, baking, and nutritional consumption"
+    ],
+    [
+      "Egg",
+      "material used",
+      "Natural biological nutrients such as proteins and fats"
+    ],
+    [
+      "Egg",
+      "color",
+      "White or brown shell with yellow yolk"
+    ],
+    [
+      "Egg",
+      "height",
+      "Approximately 5 to 6 centimeters"
+    ],
+    [
+      "Egg",
+      "weight",
+      "50 to 70 grams"
+    ],
+    [
+      "Egg",
+      "lifespan",
+      "2 to 4 weeks under refrigeration"
+    ],
+    [
+      "Egg",
+      "manufacturer",
+      "Produced naturally by birds such as chickens"
+    ]
+  ]
+}

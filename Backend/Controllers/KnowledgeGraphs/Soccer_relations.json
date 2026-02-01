@@ -1,0 +1,50 @@
+{
+    "object": "Soccer",
+    "triplets": [
+        [
+            "Soccer",
+            "subclass of",
+            "Sports ball used in association football"
+        ],
+        [
+            "Soccer",
+            "used for",
+            "Playing soccer/football"
+        ],
+        [
+            "Soccer",
+            "material used",
+            "Synthetic leather, rubber bladder"
+        ],
+        [
+            "Soccer",
+            "has part",
+            "Outer panels, stitching, inner bladder"
+        ],
+        [
+            "Soccer",
+            "color",
+            "White and black (common), also varies"
+        ],
+        [
+            "Soccer",
+            "part of",
+            "Sports equipment"
+        ],
+        [
+            "Soccer",
+            "manufacturer",
+            "Adidas, Nike, Puma, Select"
+        ],
+        [
+            "Soccer",
+            "weight",
+            "410–450 grams"
+        ],
+        [
+            "Soccer",
+            "height",
+            "22 cm diameter"
+        ]
+    ]
+}

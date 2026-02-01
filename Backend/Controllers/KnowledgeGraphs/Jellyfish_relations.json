@@ -1,0 +1,46 @@
+{
+  "object": "Jellyfish",
+  "triplets": [
+    ["Jellyfish",
+     "subclass of",
+      "Cnidaria"
+    
+    ],
+    ["Jellyfish",
+     "has part",
+      "Bell, Tentacles, Oral arms"
+    ],
+    ["Jellyfish",
+    "part of",
+     "Ocean ecosystem"
+    ],
+    ["Jellyfish",
+     "used for",
+      "Marine biodiversity, Study of toxins"
+    ],
+    ["Jellyfish",
+    "material used",
+     "Mostly water and protein"
+    ],
+    ["Jellyfish",
+    "color",
+     "Transparent, Pink, Blue"
+    ],
+    ["Jellyfish",
+     "height",
+      "Varies: 2-40 cm bell diameter"
+    ],
+    ["Jellyfish",
+     "weight",
+      "Varies: 0.5-2 kg"
+    ],
+    ["Jellyfish",
+     "lifespan",
+      "1-6 months (species dependent)"
+    ],
+    ["Jellyfish",
+     "manufacturer",
+      "Nature (not manufactured)"
+    ]
+  ]
+}

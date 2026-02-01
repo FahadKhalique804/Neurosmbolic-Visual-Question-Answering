@@ -1,0 +1,65 @@
+{
+    "object": "Blackboard/Whiteboard",
+    "triplets": [
+        [
+            "Blackboard/Whiteboard",
+            "subclass of",
+            "Education equipment used for displaying written or drawn information during teaching and presentations"
+        ],
+        [
+            "Blackboard/Whiteboard",
+            "used for",
+            "Writing, teaching, drawing diagrams, explaining concepts, and presentations in classrooms or offices"
+        ],
+        [
+            "Blackboard/Whiteboard",
+            "material used",
+            "Blackboards typically made of slate or painted wood; whiteboards made of melamine, porcelain, or glass; frames made of wood, metal, or plastic"
+        ],
+        [
+            "Blackboard/Whiteboard",
+            "has part",
+            "Writing Surface for marking with chalk or dry-erase markers"
+        ],
+        [
+            "Blackboard/Whiteboard",
+            "has part",
+            "Frame that provides support and stability"
+        ],
+        [
+            "Blackboard/Whiteboard",
+            "has part",
+            "Stand or mounting hardware (optional) for wall or floor placement"
+        ],
+        [
+            "Blackboard/Whiteboard",
+            "color",
+            "Black for blackboards, White for whiteboards; frames may vary in color"
+        ],
+        [
+            "Blackboard/Whiteboard",
+            "part of",
+            "Classrooms, lecture halls, offices, and training centers"
+        ],
+        [
+            "Blackboard/Whiteboard",
+            "manufacturer",
+            "Various manufacturers producing educational and office equipment"
+        ],
+        [
+            "Blackboard/Whiteboard",
+            "weight",
+            "Typically 5–20 kg depending on size and materials"
+        ],
+        [
+            "Blackboard/Whiteboard",
+            "height",
+            "Approximately 1–1.5 meters depending on model"
+        ],
+        [
+            "Blackboard/Whiteboard",
+            "lifespan",
+            "Typically 5–15 years depending on material quality, usage frequency, and maintenance"
+        ]
+    ]
+}

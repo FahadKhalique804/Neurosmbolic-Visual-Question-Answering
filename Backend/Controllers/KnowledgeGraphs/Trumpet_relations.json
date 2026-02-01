@@ -1,0 +1,13 @@
+{
+  "object": "Trumpet",
+  "triplets": [
+    ["Trumpet", "subclass of", "brass musical instrument"],
+    ["Trumpet", "used for", "producing musical tones"],
+    ["Trumpet", "material used", "brass"],
+    ["Trumpet", "has part", "valves, bell, mouthpiece"],
+    ["Trumpet", "part of", "bands and orchestras"],
+    ["Trumpet", "manufacturer", "Yamaha, Bach, Jupiter"],
+    ["Trumpet", "weight", "1–1.5 kg"],
+    ["Trumpet", "height", "45–50 cm"]
+  ]
+}

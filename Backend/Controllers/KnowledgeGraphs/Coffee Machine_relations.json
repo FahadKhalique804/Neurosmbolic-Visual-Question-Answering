@@ -1,0 +1,55 @@
+{
+    "object": "Coffee Machine",
+    "triplets": [
+        [
+            "Coffee Machine",
+            "subclass of",
+            "Appliance designed for brewing coffee and hot beverages"
+        ],
+        [
+            "Coffee Machine",
+            "used for",
+            "Brewing coffee, making espresso, frothing milk, preparing hot beverages"
+        ],
+        [
+            "Coffee Machine",
+            "material used",
+            "Metal, Plastic, Glass components for durability and heat resistance"
+        ],
+        [
+            "Coffee Machine",
+            "has part",
+            "Water tank, Filter, Heating element, Carafe, Control panel, Drip tray, Steam wand (if applicable)"
+        ],
+        [
+            "Coffee Machine",
+            "color",
+            "Varies depending on model (Black, Silver, White, or combinations)"
+        ],
+        [
+            "Coffee Machine",
+            "part of",
+            "Kitchen appliances, Coffee brewing systems"
+        ],
+        [
+            "Coffee Machine",
+            "manufacturer",
+            "Various manufacturers"
+        ],
+        [
+            "Coffee Machine",
+            "weight",
+            "Varies (typically 2-10 kg depending on size and type)"
+        ],
+        [
+            "Coffee Machine",
+            "height",
+            "Varies (20-40 cm for countertop models, larger for commercial models)"
+        ],
+        [
+            "Coffee Machine",
+            "lifespan",
+            "Not applicable"
+        ]
+    ]
+}

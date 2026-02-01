@@ -1,0 +1,15 @@
+{
+    "object": "Person",
+    "triplets": [
+        ["Person", "subclass of", "Human being, a member of the species Homo sapiens"],
+        ["Person", "used for", "Living, working, social interaction, creativity, reproduction, and contributing to society"],
+        ["Person", "material used", "Biological tissues, bones, organs, and cells"],
+        ["Person", "has part", "Head, torso, limbs, brain, heart, and sensory organs"],
+        ["Person", "color", "Varied skin tones, hair colors, and eye colors depending on genetics and ethnicity"],
+        ["Person", "part of", "Family, community, society, and human civilization"],
+        ["Person", "manufacturer", "Not manufactured; born through biological reproduction"],
+        ["Person", "weight", "Approximately 50–100 kg on average, varying widely"],
+        ["Person", "height", "Approximately 1.5–1.9 meters on average, varying globally"],
+        ["Person", "lifespan", "Approximately 70–80 years on average, depending on region and lifestyle"]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "object": "Power outlet",
+    "triplets": [
+        ["Power outlet", "subclass of", "Electrical device providing access to electricity for plug-in devices"],
+        ["Power outlet", "used for", "Connecting electrical appliances, chargers, and devices to power supply"],
+        ["Power outlet", "material used", "Plastic, metal contacts, wiring, and insulation materials"],
+        ["Power outlet", "has part", "Receptacle slots, faceplate, terminals, and grounding pin"],
+        ["Power outlet", "color", "White, beige, brown, or black faceplates"],
+        ["Power outlet", "part of", "Electrical systems, buildings, and infrastructure"],
+        ["Power outlet", "manufacturer", "Electrical equipment companies like Legrand, Schneider, etc."],
+        ["Power outlet", "voltage", "Typically 110–240 V depending on country"],
+        ["Power outlet", "lifespan", "Decades with proper installation and use"]
+    ]
+}

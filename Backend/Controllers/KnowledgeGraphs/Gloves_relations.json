@@ -1,0 +1,55 @@
+{
+  "object": "Gloves",
+  "triplets": [
+    [
+      "Gloves",
+      "subclass of",
+      "Protective and clothing accessory"
+    ],
+    [
+      "Gloves",
+      "has part",
+      "Finger sections, palm area, cuff or wrist opening"
+    ],
+    [
+      "Gloves",
+      "part of",
+      "Personal protective equipment and clothing"
+    ],
+    [
+      "Gloves",
+      "used for",
+      "Protecting hands from cold, injury, or contamination"
+    ],
+    [
+      "Gloves",
+      "material used",
+      "Leather, fabric, rubber, latex, or synthetic fibers"
+    ],
+    [
+      "Gloves",
+      "color",
+      "Black, white, brown, or various colors"
+    ],
+    [
+      "Gloves",
+      "height",
+      "20 to 30 centimeters in length"
+    ],
+    [
+      "Gloves",
+      "weight",
+      "50 to 200 grams per pair"
+    ],
+    [
+      "Gloves",
+      "lifespan",
+      "6 months to 5 years depending on usage"
+    ],
+    [
+      "Gloves",
+      "manufacturer",
+      "Clothing and safety equipment manufacturers"
+    ]
+  ]
+}

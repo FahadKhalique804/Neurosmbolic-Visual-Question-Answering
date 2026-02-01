@@ -1,0 +1,13 @@
+{
+    "object": "Tomato",
+    "triplets": [
+        ["Tomato", "subclass of", "edible fruit used as vegetable"],
+        ["Tomato", "used for", "Cooking, salads, sauces"],
+        ["Tomato", "material used", "Natural organic plant matter"],
+        ["Tomato", "has part", "Skin, seeds, pulp"],
+        ["Tomato", "part of", "Vegetables/produce"],
+        ["Tomato", "manufacturer", "Grown by farms"],
+        ["Tomato", "weight", "50–200 g"],
+        ["Tomato", "height", "N/A"]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "object": "Potato",
+    "triplets": [
+        ["Potato", "subclass of", "Starchy tuber vegetable from the nightshade family"],
+        ["Potato", "used for", "Boiling, baking, frying, mashing, and as ingredient in countless dishes"],
+        ["Potato", "material used", "Starchy flesh, skin, and sometimes sprouts or eyes"],
+        ["Potato", "has part", "Skin, flesh, eyes (buds), and sometimes sprouts"],
+        ["Potato", "color", "Brown, yellow, red, or purple skin; white or yellow flesh"],
+        ["Potato", "part of", "Global agriculture, staple food crops, and culinary traditions"],
+        ["Potato", "manufacturer", "Farmers and agricultural producers worldwide"],
+        ["Potato", "weight", "Approximately 100–300 grams per tuber"],
+        ["Potato", "size", "Approximately 5–10 cm in length"],
+        ["Potato", "lifespan", "Several weeks to months when stored in cool, dark conditions"]
+    ]
+}

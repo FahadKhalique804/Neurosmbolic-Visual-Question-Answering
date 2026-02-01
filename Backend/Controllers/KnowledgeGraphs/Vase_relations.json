@@ -1,0 +1,13 @@
+{
+  "object": "Vase",
+  "triplets": [
+    ["Vase", "subclass of", "decorative container"],
+    ["Vase", "used for", "holding flowers"],
+    ["Vase", "material used", "glass, ceramic, metal"],
+    ["Vase", "has part", "body, opening, base"],
+    ["Vase", "part of", "home decor"],
+    ["Vase", "manufacturer", "IKEA, Lenox, Waterford"],
+    ["Vase", "weight", "0.5–3 kg"],
+    ["Vase", "height", "15–40 cm"]
+  ]
+}

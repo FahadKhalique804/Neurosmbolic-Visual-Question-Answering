@@ -1,0 +1,65 @@
+{
+    "object": "Bracelet",
+    "triplets": [
+        [
+            "Bracelet",
+            "subclass of",
+            "Jewelry worn around the wrist for decorative, cultural, or symbolic purposes"
+        ],
+        [
+            "Bracelet",
+            "used for",
+            "Fashion accessory, personal adornment, gifts, cultural or religious significance"
+        ],
+        [
+            "Bracelet",
+            "material used",
+            "Metal (gold, silver, stainless steel), leather, plastic, beads, fabric, or gemstones"
+        ],
+        [
+            "Bracelet",
+            "has part",
+            "Band or chain that encircles the wrist"
+        ],
+        [
+            "Bracelet",
+            "has part",
+            "Clasp or closure mechanism for securing it"
+        ],
+        [
+            "Bracelet",
+            "has part",
+            "Decorative elements such as charms, stones, or engravings"
+        ],
+        [
+            "Bracelet",
+            "color",
+            "Varies depending on material, design, and manufacturer; common colors include gold, silver, black, and colorful beads"
+        ],
+        [
+            "Bracelet",
+            "part of",
+            "Fashion accessories, jewelry collections, personal adornment"
+        ],
+        [
+            "Bracelet",
+            "manufacturer",
+            "Various manufacturers producing fashion, luxury, and handmade bracelets"
+        ],
+        [
+            "Bracelet",
+            "weight",
+            "Approximately 10–200 grams depending on material and design"
+        ],
+        [
+            "Bracelet",
+            "height",
+            "Approximately 0.5–2 cm (thickness or width of the band)"
+        ],
+        [
+            "Bracelet",
+            "lifespan",
+            "Typically 2–20 years depending on material quality, usage, and care"
+        ]
+    ]
+}

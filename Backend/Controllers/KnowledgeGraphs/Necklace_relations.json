@@ -1,0 +1,13 @@
+{
+    "object": "Necklace",
+    "triplets": [
+        ["Necklace", "subclass of", "Jewelry worn around the neck for adornment"],
+        ["Necklace", "used for", "Fashion accessory, cultural or religious symbolism, gift-giving"],
+        ["Necklace", "material used", "Gold, silver, platinum, beads, gemstones, pearls, or synthetic materials"],
+        ["Necklace", "has part", "Chain, pendant, clasp, and sometimes charms or lockets"],
+        ["Necklace", "color", "Varies widely depending on materials and design"],
+        ["Necklace", "manufacturer", "Jewelry designers, artisans, and commercial jewelry companies"],
+        ["Necklace", "length", "Typically 40–60 cm, but can range from choker to opera length"],
+        ["Necklace", "lifespan", "Can last decades or centuries with proper care and storage"]
+    ]
+}

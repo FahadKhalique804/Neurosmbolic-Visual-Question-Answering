@@ -1,0 +1,55 @@
+{
+  "object": "Extractor",
+  "triplets": [
+    [
+      "Extractor",
+      "subclass of",
+      "Kitchen ventilation appliance"
+    ],
+    [
+      "Extractor",
+      "has part",
+      "Exhaust fan, motor, filters, outer casing"
+    ],
+    [
+      "Extractor",
+      "part of",
+      "Kitchen ventilation and air circulation system"
+    ],
+    [
+      "Extractor",
+      "used for",
+      "Removing smoke, steam, grease, and odors"
+    ],
+    [
+      "Extractor",
+      "material used",
+      "Stainless steel, aluminum filters, plastic components"
+    ],
+    [
+      "Extractor",
+      "color",
+      "Silver, black, or white"
+    ],
+    [
+      "Extractor",
+      "height",
+      "40 to 60 centimeters"
+    ],
+    [
+      "Extractor",
+      "weight",
+      "8 to 15 kilograms"
+    ],
+    [
+      "Extractor",
+      "lifespan",
+      "10 to 20 years with regular maintenance"
+    ],
+    [
+      "Extractor",
+      "manufacturer",
+      "Home appliance manufacturing companies"
+    ]
+  ]
+}

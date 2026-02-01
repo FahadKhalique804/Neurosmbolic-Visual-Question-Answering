@@ -1,0 +1,55 @@
+{
+  "object": "Giraffe",
+  "triplets": [
+    [
+      "Giraffe",
+      "subclass of",
+      "Large terrestrial mammal"
+    ],
+    [
+      "Giraffe",
+      "has part",
+      "Long neck, legs, tail, horns (ossicones)"
+    ],
+    [
+      "Giraffe",
+      "part of",
+      "Wildlife and savanna ecosystem"
+    ],
+    [
+      "Giraffe",
+      "used for",
+      "Maintaining ecological balance and tourism"
+    ],
+    [
+      "Giraffe",
+      "material used",
+      "Biological tissues such as skin, bone, and muscle"
+    ],
+    [
+      "Giraffe",
+      "color",
+      "Yellowish-brown with dark patches"
+    ],
+    [
+      "Giraffe",
+      "height",
+      "4.5 to 6 meters"
+    ],
+    [
+      "Giraffe",
+      "weight",
+      "800 to 1200 kilograms"
+    ],
+    [
+      "Giraffe",
+      "lifespan",
+      "20 to 25 years"
+    ],
+    [
+      "Giraffe",
+      "manufacturer",
+      "Naturally occurring through biological reproduction"
+    ]
+  ]
+}

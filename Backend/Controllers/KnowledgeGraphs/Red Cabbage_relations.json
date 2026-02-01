@@ -1,0 +1,15 @@
+{
+    "object": "Red Cabbage",
+    "triplets": [
+        ["Red Cabbage", "subclass of", "Leafy vegetable with deep purple-red leaves"],
+        ["Red Cabbage", "used for", "Salads, coleslaw, pickling, cooking, and natural food coloring"],
+        ["Red Cabbage", "material used", "Leaves, core, and sometimes roots"],
+        ["Red Cabbage", "has part", "Layered leaves, stem core, and sometimes outer wrapper leaves"],
+        ["Red Cabbage", "color", "Deep purple-red leaves; can turn blue when cooked with alkaline ingredients"],
+        ["Red Cabbage", "part of", "Vegetable agriculture, healthy diets, and culinary traditions"],
+        ["Red Cabbage", "manufacturer", "Farmers and vegetable producers"],
+        ["Red Cabbage", "weight", "Approximately 1–2 kg per head"],
+        ["Red Cabbage", "diameter", "Approximately 15–20 cm"],
+        ["Red Cabbage", "lifespan", "Several weeks refrigerated"]
+    ]
+}

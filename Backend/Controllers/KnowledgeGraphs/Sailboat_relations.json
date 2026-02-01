@@ -1,0 +1,15 @@
+{
+    "object": "Sailboat",
+    "triplets": [
+        ["Sailboat", "subclass of", "Watercraft propelled primarily by sails using wind power"],
+        ["Sailboat", "used for", "Recreation, racing, cruising, fishing, transportation, and sport"],
+        ["Sailboat", "material used", "Fiberglass, wood, aluminum, carbon fiber, sails, ropes, and metal fittings"],
+        ["Sailboat", "has part", "Hull, mast, sails, rudder, keel, rigging, and cockpit"],
+        ["Sailboat", "color", "White hull common; sails often white or colored with logos"],
+        ["Sailboat", "part of", "Maritime recreation, sailing clubs, and nautical transportation"],
+        ["Sailboat", "manufacturer", "Boat builders like Beneteau, Jeanneau, Hunter, Catalina, and custom boatyards"],
+        ["Sailboat", "length", "Small sailboats 3–8 meters; cruising sailboats 8–15 meters"],
+        ["Sailboat", "weight", "Approximately 500–5000 kg depending on size and materials"],
+        ["Sailboat", "lifespan", "20–50 years with proper maintenance and care"]
+    ]
+}

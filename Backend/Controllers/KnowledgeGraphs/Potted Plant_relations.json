@@ -1,0 +1,14 @@
+{
+    "object": "Potted Plant",
+    "triplets": [
+        ["Potted Plant", "subclass of", "Plant grown in a container for decorative or functional purposes"],
+        ["Potted Plant", "used for", "Home decor, air purification, gardening, gifts, and landscaping"],
+        ["Potted Plant", "material used", "Soil, plant, pot, and sometimes decorative elements"],
+        ["Potted Plant", "has part", "Plant, pot, soil, roots, and sometimes drainage holes"],
+        ["Potted Plant", "color", "Green leaves; pot color varies widely"],
+        ["Potted Plant", "part of", "Interior design, gardens, and horticulture"],
+        ["Potted Plant", "manufacturer", "Nurseries, garden centers, and plant growers"],
+        ["Potted Plant", "height", "Varies from small succulents (10 cm) to large indoor trees (2+ meters)"],
+        ["Potted Plant", "lifespan", "Months to years depending on plant type and care"]
+    ]
+}

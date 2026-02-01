@@ -1,0 +1,13 @@
+{
+    "object": "Tissue",
+    "triplets": [
+        ["Tissue", "subclass of", "soft disposable paper product"],
+        ["Tissue", "used for", "Cleaning, wiping, hygiene"],
+        ["Tissue", "material used", "Paper pulp"],
+        ["Tissue", "has part", "Ply layers"],
+        ["Tissue", "part of", "Hygiene products"],
+        ["Tissue", "manufacturer", "Various paper companies"],
+        ["Tissue", "weight", "1–5 g per sheet"],
+        ["Tissue", "height", "N/A"]
+    ]
+}

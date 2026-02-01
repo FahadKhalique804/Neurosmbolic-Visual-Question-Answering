@@ -1,0 +1,13 @@
+{
+    "object": "Napkin",
+    "triplets": [
+        ["Napkin", "subclass of", "Piece of cloth or paper used for wiping the mouth or hands while eating"],
+        ["Napkin", "used for", "Wiping hands and mouth during meals, cleaning spills, and decorative table setting"],
+        ["Napkin", "material used", "Cotton, linen, paper, or synthetic fibers"],
+        ["Napkin", "color", "White, beige, patterned, or dyed in various colors"],
+        ["Napkin", "part of", "Table setting, dining etiquette, and restaurant service"],
+        ["Napkin", "manufacturer", "Textile companies, paper product manufacturers, and hospitality suppliers"],
+        ["Napkin", "size", "Approximately 30–50 cm square for cloth napkins, varying for disposable ones"],
+        ["Napkin", "lifespan", "Disposable: single use; cloth: several years with proper care"]
+    ]
+}

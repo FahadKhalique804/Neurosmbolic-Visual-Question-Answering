@@ -1,0 +1,50 @@
+{
+    "object": "Slide",
+    "triplets": [
+        [
+            "Slide",
+            "subclass of",
+            "Playground equipment used for sliding down"
+        ],
+        [
+            "Slide",
+            "used for",
+            "Children’s play, recreational activity"
+        ],
+        [
+            "Slide",
+            "material used",
+            "Plastic, metal, fiberglass"
+        ],
+        [
+            "Slide",
+            "has part",
+            "Ladder, platform, sliding surface, support frame"
+        ],
+        [
+            "Slide",
+            "color",
+            "Varies (often bright colors)"
+        ],
+        [
+            "Slide",
+            "part of",
+            "Playground equipment"
+        ],
+        [
+            "Slide",
+            "manufacturer",
+            "Little Tikes, Step2, Playground companies"
+        ],
+        [
+            "Slide",
+            "weight",
+            "10–80 kg depending on size"
+        ],
+        [
+            "Slide",
+            "height",
+            "1–3 meters for typical playground slides"
+        ]
+    ]
+}

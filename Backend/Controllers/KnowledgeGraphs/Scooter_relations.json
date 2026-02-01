@@ -1,0 +1,50 @@
+{
+    "object": "Scooter",
+    "triplets": [
+        [
+            "Scooter",
+            "subclass of",
+            "Two-wheeled or three-wheeled vehicle designed for personal transportation"
+        ],
+        [
+            "Scooter",
+            "used for",
+            "Short-distance travel, commuting, delivery services, and personal mobility"
+        ],
+        [
+            "Scooter",
+            "material used",
+            "Metal frame (steel or aluminum), rubber tires, plastic body panels"
+        ],
+        [
+            "Scooter",
+            "has part",
+            "Handlebars, wheels, deck/footboard, seat (if seated model), brakes, engine or electric motor, lights"
+        ],
+        [
+            "Scooter",
+            "color",
+            "Varies"
+        ],
+        [
+            "Scooter",
+            "part of",
+            "Urban transport system, personal vehicle category"
+        ],
+        [
+            "Scooter",
+            "manufacturer",
+            "Honda, Yamaha, Vespa, Suzuki, Piaggio, Xiaomi (electric), and many others"
+        ],
+        [
+            "Scooter",
+            "weight",
+            "80–150 kg for fuel scooters; 12–25 kg for electric kick scooters"
+        ],
+        [
+            "Scooter",
+            "height",
+            "90–120 cm depending on model"
+        ]
+    ]
+}

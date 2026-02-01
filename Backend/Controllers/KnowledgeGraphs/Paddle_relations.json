@@ -1,0 +1,13 @@
+{
+    "object": "Paddle",
+    "triplets": [
+        ["Paddle", "subclass of", "Tool with a broad, flat blade used for propelling or stirring"],
+        ["Paddle", "used for", "Rowing canoes/kayaks, mixing food, spanking, or sports like table tennis"],
+        ["Paddle", "material used", "Wood, plastic, fiberglass, carbon fiber, or aluminum"],
+        ["Paddle", "has part", "Blade, shaft, grip, and sometimes T-handle"],
+        ["Paddle", "color", "Varies: natural wood, painted, or synthetic colors"],
+        ["Paddle", "length", "Approximately 1–2.5 meters for boat paddles; shorter for kitchen use"],
+        ["Paddle", "manufacturer", "Sporting goods companies, kitchenware makers, and crafters"],
+        ["Paddle", "lifespan", "Years to decades depending on material and use"]
+    ]
+}

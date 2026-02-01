@@ -1,0 +1,55 @@
+{
+  "object": "Golf Ball",
+  "triplets": [
+    [
+      "Golf Ball",
+      "subclass of",
+      "Sports equipment"
+    ],
+    [
+      "Golf Ball",
+      "has part",
+      "Core, cover, dimples"
+    ],
+    [
+      "Golf Ball",
+      "part of",
+      "Golf sports gear"
+    ],
+    [
+      "Golf Ball",
+      "used for",
+      "Striking in the sport of golf"
+    ],
+    [
+      "Golf Ball",
+      "material used",
+      "Rubber core with plastic or urethane cover"
+    ],
+    [
+      "Golf Ball",
+      "color",
+      "White, yellow, or colored variants"
+    ],
+    [
+      "Golf Ball",
+      "height",
+      "Approximately 4.3 centimeters in diameter"
+    ],
+    [
+      "Golf Ball",
+      "weight",
+      "45.9 grams"
+    ],
+    [
+      "Golf Ball",
+      "lifespan",
+      "Several rounds of play"
+    ],
+    [
+      "Golf Ball",
+      "manufacturer",
+      "Sports equipment manufacturing companies"
+    ]
+  ]
+}

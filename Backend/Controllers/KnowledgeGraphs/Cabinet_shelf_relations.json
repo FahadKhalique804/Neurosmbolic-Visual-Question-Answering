@@ -1,0 +1,65 @@
+{
+    "object": "Cabinet/shelf",
+    "triplets": [
+        [
+            "Cabinet/shelf",
+            "subclass of",
+            "Furniture used for organizing, storing, and displaying items in homes, offices, or commercial spaces"
+        ],
+        [
+            "Cabinet/shelf",
+            "used for",
+            "Storing books, utensils, clothes, documents, decorative items, or other household and office objects"
+        ],
+        [
+            "Cabinet/shelf",
+            "material used",
+            "Wood, metal, glass, MDF, or composite materials depending on design and use"
+        ],
+        [
+            "Cabinet/shelf",
+            "has part",
+            "Shelves for placing items"
+        ],
+        [
+            "Cabinet/shelf",
+            "has part",
+            "Doors (optional) for enclosed storage"
+        ],
+        [
+            "Cabinet/shelf",
+            "has part",
+            "Drawers (optional) for smaller items"
+        ],
+        [
+            "Cabinet/shelf",
+            "color",
+            "Varies depending on material, finish, and design; commonly brown, black, white, or multicolor"
+        ],
+        [
+            "Cabinet/shelf",
+            "part of",
+            "Home or office furniture sets, storage systems"
+        ],
+        [
+            "Cabinet/shelf",
+            "manufacturer",
+            "Various furniture manufacturers and custom carpentry shops"
+        ],
+        [
+            "Cabinet/shelf",
+            "weight",
+            "Varies depending on material, size, and design"
+        ],
+        [
+            "Cabinet/shelf",
+            "height",
+            "Typically 50 cm to 2 meters depending on type (low shelf, standard cabinet, tall storage unit)"
+        ],
+        [
+            "Cabinet/shelf",
+            "lifespan",
+            "Typically 10–20 years depending on material quality, usage, and maintenance"
+        ]
+    ]
+}

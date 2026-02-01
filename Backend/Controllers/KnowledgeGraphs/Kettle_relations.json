@@ -1,0 +1,45 @@
+{
+  "object": "Kettle",
+  "triplets": [
+    ["Kettle",
+     "subclass of",
+      "Kitchen Appliance"
+    ],
+    ["Kettle",
+     "has part",
+      "Body, Lid, Handle, Spout, Heating element"
+    ],
+    ["Kettle",
+     "part of", 
+     "Kitchenware"
+    ],
+    ["Kettle",
+     "used for",
+      "Boiling water"
+    ],
+    ["Kettle", 
+    "material used",
+     "Stainless steel, Plastic, Glass"
+    ],
+    ["Kettle", 
+    "color",
+     "Silver, Black, White"
+    ],
+    ["Kettle",
+     "height",
+      "20-30 cm"
+    ],
+    ["Kettle", 
+    "weight", 
+    "0.8-1.5 kg"
+],
+    ["Kettle",
+     "lifespan",
+      "5-10 years"
+    ],
+    ["Kettle", 
+    "manufacturer", 
+    "Philips, Prestige, Bajaj"
+]
+  ]
+}

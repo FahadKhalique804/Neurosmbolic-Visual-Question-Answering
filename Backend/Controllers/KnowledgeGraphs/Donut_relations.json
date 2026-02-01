@@ -1,0 +1,55 @@
+{
+  "object": "Donut",
+  "triplets": [
+    [
+      "Donut",
+      "subclass of",
+      "Baked or fried food item"
+    ],
+    [
+      "Donut",
+      "has part",
+      "Dough base, glaze, toppings"
+    ],
+    [
+      "Donut",
+      "part of",
+      "Dessert and snack category"
+    ],
+    [
+      "Donut",
+      "used for",
+      "Eating as a sweet snack or dessert"
+    ],
+    [
+      "Donut",
+      "material used",
+      "Flour, sugar, oil, milk, flavoring agents"
+    ],
+    [
+      "Donut",
+      "color",
+      "Brown, pink, chocolate, or white glazed"
+    ],
+    [
+      "Donut",
+      "height",
+      "Approximately 4 to 6 centimeters"
+    ],
+    [
+      "Donut",
+      "weight",
+      "70 to 120 grams"
+    ],
+    [
+      "Donut",
+      "lifespan",
+      "1 to 2 days"
+    ],
+    [
+      "Donut",
+      "manufacturer",
+      "Bakeries and food production companies"
+    ]
+  ]
+}

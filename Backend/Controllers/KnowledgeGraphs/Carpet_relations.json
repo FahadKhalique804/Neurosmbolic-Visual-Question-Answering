@@ -1,0 +1,65 @@
+{
+    "object": "Carpet",
+    "triplets": [
+        [
+            "Carpet",
+            "subclass of",
+            "Floor covering made from woven or tufted fibers designed to provide comfort, insulation, and aesthetic appeal"
+        ],
+        [
+            "Carpet",
+            "used for",
+            "Covering floors for decoration, insulation, soundproofing, and comfort"
+        ],
+        [
+            "Carpet",
+            "material used",
+            "Natural fibers (wool, cotton) or synthetic fibers (nylon, polyester, polypropylene)"
+        ],
+        [
+            "Carpet",
+            "has part",
+            "Pile (surface fibers)"
+        ],
+        [
+            "Carpet",
+            "has part",
+            "Backing (support layer)"
+        ],
+        [
+            "Carpet",
+            "has part",
+            "Edge binding or fringe"
+        ],
+        [
+            "Carpet",
+            "color",
+            "Varies widely depending on design and material"
+        ],
+        [
+            "Carpet",
+            "part of",
+            "Interior decoration, flooring systems, home or commercial spaces"
+        ],
+        [
+            "Carpet",
+            "manufacturer",
+            "Various manufacturers and carpet makers"
+        ],
+        [
+            "Carpet",
+            "weight",
+            "Varies depending on size, thickness, and material used"
+        ],
+        [
+            "Carpet",
+            "height",
+            "0.5–2 cm pile height depending on type"
+        ],
+        [
+            "Carpet",
+            "lifespan",
+            "5–15 years depending on usage, material, and maintenance"
+        ]
+    ]
+}

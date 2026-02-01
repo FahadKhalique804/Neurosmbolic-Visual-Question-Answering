@@ -1,0 +1,65 @@
+{
+    "object": "Briefcase",
+    "triplets": [
+        [
+            "Briefcase",
+            "subclass of",
+            "Accessory designed for carrying documents, laptops, and personal items, often used in professional settings"
+        ],
+        [
+            "Briefcase",
+            "used for",
+            "Carrying documents, laptops, office supplies, personal items; commonly used for business, legal, or professional purposes"
+        ],
+        [
+            "Briefcase",
+            "material used",
+            "Leather, fabric, metal, synthetic materials, or combinations; may include zippers, clasps, and handles"
+        ],
+        [
+            "Briefcase",
+            "has part",
+            "Main compartment for documents or devices"
+        ],
+        [
+            "Briefcase",
+            "has part",
+            "Handle or strap for carrying"
+        ],
+        [
+            "Briefcase",
+            "has part",
+            "Locks, clasps, or zippers for security"
+        ],
+        [
+            "Briefcase",
+            "color",
+            "Varies depending on style and manufacturer; common colors include black, brown, navy, and gray"
+        ],
+        [
+            "Briefcase",
+            "part of",
+            "Professional accessories, office supplies, and business attire"
+        ],
+        [
+            "Briefcase",
+            "manufacturer",
+            "Various manufacturers producing leather goods, office accessories, and fashion items"
+        ],
+        [
+            "Briefcase",
+            "weight",
+            "Approximately 1–5 kg depending on material and size"
+        ],
+        [
+            "Briefcase",
+            "height",
+            "Typically 25–40 cm depending on style and capacity"
+        ],
+        [
+            "Briefcase",
+            "lifespan",
+            "Typically 3–15 years depending on material quality, usage, and care"
+        ]
+    ]
+}

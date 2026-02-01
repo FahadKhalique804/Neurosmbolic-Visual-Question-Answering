@@ -1,0 +1,65 @@
+{
+    "object": "Bear",
+    "triplets": [
+        [
+            "Bear",
+            "subclass of",
+            "Large mammal belonging to the family Ursidae, found in various habitats including forests, mountains, and tundra"
+        ],
+        [
+            "Bear",
+            "used for",
+            "Wildlife viewing, ecological studies, and in some cultures, symbolic or conservation purposes"
+        ],
+        [
+            "Bear",
+            "material used",
+            "Natural animal body composed of fur, muscles, bones, and internal organs"
+        ],
+        [
+            "Bear",
+            "has part",
+            "Fur that provides insulation and camouflage"
+        ],
+        [
+            "Bear",
+            "has part",
+            "Claws used for digging, climbing, and hunting"
+        ],
+        [
+            "Bear",
+            "has part",
+            "Teeth adapted for omnivorous diet, including molars for grinding and canines for tearing"
+        ],
+        [
+            "Bear",
+            "color",
+            "Varies by species; common colors include brown, black, white (polar bear), and shades in between"
+        ],
+        [
+            "Bear",
+            "part of",
+            "Ecosystems as apex predators or omnivores, food chains, and wildlife biodiversity"
+        ],
+        [
+            "Bear",
+            "manufacturer",
+            "Not applicable"
+        ],
+        [
+            "Bear",
+            "weight",
+            "Ranges from 100–700 kg depending on species and age"
+        ],
+        [
+            "Bear",
+            "height",
+            "Approximately 1.2–3 meters when standing on hind legs"
+        ],
+        [
+            "Bear",
+            "lifespan",
+            "Typically 20–30 years in the wild; may live longer in captivity"
+        ]
+    ]
+}

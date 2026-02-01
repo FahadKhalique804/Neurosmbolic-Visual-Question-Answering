@@ -1,0 +1,60 @@
+{
+    "object": "Book",
+    "triplets": [
+        [
+            "Book",
+            "subclass of",
+            "Reading material consisting of bound pages containing written, printed, or illustrated content"
+        ],
+        [
+            "Book",
+            "used for",
+            "Reading, gaining knowledge, storytelling, education, research, and entertainment"
+        ],
+        [
+            "Book",
+            "material used",
+            "Paper for pages, cardboard or paperboard for cover; ink for text and illustrations; sometimes fabric or leather for binding"
+        ],
+        [
+            "Book",
+            "has part",
+            "Pages containing written or printed content"
+        ],
+        [
+            "Book",
+            "has part",
+            "Cover providing protection and support for pages, may include front, back, and spine"
+        ],
+        [
+            "Book",
+            "color",
+            "Varies depending on cover design, printing, and publisher; pages are typically white or cream"
+        ],
+        [
+            "Book",
+            "part of",
+            "Libraries, schools, personal collections, bookstores, and educational institutions"
+        ],
+        [
+            "Book",
+            "manufacturer",
+            "Various publishers, printing companies, and authors"
+        ],
+        [
+            "Book",
+            "weight",
+            "Approximately 0.1–2 kg depending on size, page count, and material quality"
+        ],
+        [
+            "Book",
+            "height",
+            "Typically 20–30 cm depending on book format and publisher"
+        ],
+        [
+            "Book",
+            "lifespan",
+            "Typically 5–50 years depending on paper quality, usage, storage, and care"
+        ]
+    ]
+}

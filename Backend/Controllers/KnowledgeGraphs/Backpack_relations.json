@@ -1,0 +1,70 @@
+{
+    "object": "Backpack",
+    "triplets": [
+        [
+            "Backpack",
+            "subclass of",
+            "Bag designed to be carried on the back using two shoulder straps, suitable for transporting personal items and supplies"
+        ],
+        [
+            "Backpack",
+            "used for",
+            "Carrying personal belongings, books, laptops, clothing, outdoor gear, or school/work essentials"
+        ],
+        [
+            "Backpack",
+            "material used",
+            "Durable fabrics such as nylon, polyester, canvas, or leather; metal or plastic components for zippers, buckles, and adjusters"
+        ],
+        [
+            "Backpack",
+            "has part",
+            "Shoulder straps for comfortable carrying on the back"
+        ],
+        [
+            "Backpack",
+            "has part",
+            "Zippers for securely closing compartments"
+        ],
+        [
+            "Backpack",
+            "has part",
+            "Pockets and compartments for organization of items"
+        ],
+        [
+            "Backpack",
+            "has part",
+            "Top handle for carrying by hand"
+        ],
+        [
+            "Backpack",
+            "color",
+            "Varies widely; available in solid colors, patterns, and custom designs"
+        ],
+        [
+            "Backpack",
+            "part of",
+            "Everyday carry items, school or work supplies, travel and outdoor equipment"
+        ],
+        [
+            "Backpack",
+            "manufacturer",
+            "Various manufacturers producing fashion, outdoor, and utility backpacks"
+        ],
+        [
+            "Backpack",
+            "weight",
+            "Typically 0.5–2 kg depending on size, materials, and design"
+        ],
+        [
+            "Backpack",
+            "height",
+            "Approximately 30–50 cm depending on style and intended use"
+        ],
+        [
+            "Backpack",
+            "lifespan",
+            "Approximately 3–10 years depending on material quality, usage, and maintenance"
+        ]
+    ]
+}

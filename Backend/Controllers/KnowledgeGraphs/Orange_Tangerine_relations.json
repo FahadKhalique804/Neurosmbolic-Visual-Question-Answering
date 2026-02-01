@@ -1,0 +1,14 @@
+{
+    "object": "Orange_Tangerine",
+    "triplets": [
+        ["Orange_Tangerine", "subclass of", "Citrus fruits known for juicy segments and sweet-tart flavor"],
+        ["Orange_Tangerine", "used for", "Eating fresh, juicing, desserts, marmalade, and flavoring"],
+        ["Orange_Tangerine", "material used", "Juicy pulp, peel, seeds, and segment membranes"],
+        ["Orange_Tangerine", "has part", "Peel, segments, seeds, and pith"],
+        ["Orange_Tangerine", "color", "Orange when ripe; green when unripe"],
+        ["Orange_Tangerine", "part of", "Citrus orchards, fruit baskets, and vitamin C sources"],
+        ["Orange_Tangerine", "manufacturer", "Citrus growers, agricultural companies, and cooperatives"],
+        ["Orange_Tangerine", "weight", "Approximately 80–150g per fruit"],
+        ["Orange_Tangerine", "lifespan", "1–3 weeks at room temperature; longer if refrigerated"]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+  "object": "Deer",
+  "triplets": [
+    [
+      "Deer",
+      "subclass of",
+      "Wild terrestrial mammal"
+    ],
+    [
+      "Deer",
+      "has part",
+      "Antlers, legs, hooves, tail, fur"
+    ],
+    [
+      "Deer",
+      "part of",
+      "Forest and grassland ecosystems"
+    ],
+    [
+      "Deer",
+      "used for",
+      "Maintaining ecological balance and food chain"
+    ],
+    [
+      "Deer",
+      "material used",
+      "Living biological tissues such as muscles and bones"
+    ],
+    [
+      "Deer",
+      "color",
+      "Brown, light brown, or tan"
+    ],
+    [
+      "Deer",
+      "height",
+      "Approximately 1 to 1.2 meters at shoulder"
+    ],
+    [
+      "Deer",
+      "weight",
+      "Ranges from 30 to 300 kilograms"
+    ],
+    [
+      "Deer",
+      "lifespan",
+      "10 to 20 years in natural habitat"
+    ],
+    [
+      "Deer",
+      "manufacturer",
+      "Naturally produced by biological reproduction"
+    ]
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "object": "Headphone",
+  "triplets": [
+    [
+      "Headphone",
+      "subclass of",
+      "Audio output electronic device"
+    ],
+    [
+      "Headphone",
+      "has part",
+      "Ear cups or earbuds, headband, speakers, cable or battery"
+    ],
+    [
+      "Headphone",
+      "part of",
+      "Personal audio and entertainment devices"
+    ],
+    [
+      "Headphone",
+      "used for",
+      "Listening to audio privately"
+    ],
+    [
+      "Headphone",
+      "material used",
+      "Plastic, metal, foam padding, electronic components"
+    ],
+    [
+      "Headphone",
+      "color",
+      "Black, white, silver, or custom colors"
+    ],
+    [
+      "Headphone",
+      "height",
+      "18 to 22 centimeters"
+    ],
+    [
+      "Headphone",
+      "weight",
+      "150 to 400 grams"
+    ],
+    [
+      "Headphone",
+      "lifespan",
+      "3 to 7 years"
+    ],
+    [
+      "Headphone",
+      "manufacturer",
+      "Audio and electronics manufacturing companies"
+    ]
+  ]
+}

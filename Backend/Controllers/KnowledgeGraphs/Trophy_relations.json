@@ -1,0 +1,13 @@
+{
+  "object": "Trophy",
+  "triplets": [
+    ["Trophy", "subclass of", "award or recognition item"],
+    ["Trophy", "used for", "honoring achievement"],
+    ["Trophy", "material used", "plastic, metal, wood"],
+    ["Trophy", "has part", "base, plaque, figure"],
+    ["Trophy", "part of", "award ceremonies"],
+    ["Trophy", "manufacturer", "Crown Awards, Trophy Depot"],
+    ["Trophy", "weight", "0.3–3 kg"],
+    ["Trophy", "height", "15–60 cm"]
+  ]
+}

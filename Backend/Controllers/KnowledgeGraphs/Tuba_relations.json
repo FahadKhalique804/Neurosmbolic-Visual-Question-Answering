@@ -1,0 +1,13 @@
+{
+  "object": "Tuba",
+  "triplets": [
+    ["Tuba", "subclass of", "brass instrument"],
+    ["Tuba", "used for", "producing bass notes"],
+    ["Tuba", "material used", "brass"],
+    ["Tuba", "has part", "bell, valves, tubing"],
+    ["Tuba", "part of", "orchestras and bands"],
+    ["Tuba", "manufacturer", "Miraphone, Yamaha, Conn"],
+    ["Tuba", "weight", "10–15 kg"],
+    ["Tuba", "height", "80–100 cm"]
+  ]
+}

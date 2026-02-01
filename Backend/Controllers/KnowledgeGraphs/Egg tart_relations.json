@@ -1,0 +1,55 @@
+{
+  "object": "Egg Tart",
+  "triplets": [
+    [
+      "Egg Tart",
+      "subclass of",
+      "Baked dessert food item"
+    ],
+    [
+      "Egg Tart",
+      "has part",
+      "Pastry crust, egg custard filling"
+    ],
+    [
+      "Egg Tart",
+      "part of",
+      "Bakery and dessert category"
+    ],
+    [
+      "Egg Tart",
+      "used for",
+      "Eating as a sweet snack or dessert"
+    ],
+    [
+      "Egg Tart",
+      "material used",
+      "Eggs, milk, sugar, flour, butter"
+    ],
+    [
+      "Egg Tart",
+      "color",
+      "Golden yellow custard with light brown crust"
+    ],
+    [
+      "Egg Tart",
+      "height",
+      "Approximately 4 to 6 centimeters"
+    ],
+    [
+      "Egg Tart",
+      "weight",
+      "80 to 120 grams per piece"
+    ],
+    [
+      "Egg Tart",
+      "lifespan",
+      "1 to 2 days when freshly baked"
+    ],
+    [
+      "Egg Tart",
+      "manufacturer",
+      "Bakeries and pastry chefs"
+    ]
+  ]
+}

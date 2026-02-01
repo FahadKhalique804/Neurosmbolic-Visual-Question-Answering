@@ -1,0 +1,14 @@
+{
+    "object": "Surveillance Camera",
+    "triplets": [
+        ["Surveillance Camera","subclass of","Security device"],
+        ["Surveillance Camera","used for","Monitoring and recording areas for security"],
+        ["Surveillance Camera","material used","Plastic/metal casing, lens, sensors"],
+        ["Surveillance Camera","has part","Lens, housing, wiring, mount, sensors"],
+        ["Surveillance Camera","color","White, black, gray"],
+        ["Surveillance Camera","part of","Security systems"],
+        ["Surveillance Camera","manufacturer","Multiple CCTV manufacturers"],
+        ["Surveillance Camera","weight","200g–2kg"],
+        ["Surveillance Camera","height","5–15 cm"]
+    ]
+}

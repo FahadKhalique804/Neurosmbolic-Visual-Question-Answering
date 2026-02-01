@@ -1,0 +1,55 @@
+{
+  "object": "Gas Stove",
+  "triplets": [
+    [
+      "Gas Stove",
+      "subclass of",
+      "Kitchen cooking appliance"
+    ],
+    [
+      "Gas Stove",
+      "has part",
+      "Burners, knobs, gas inlet, pan supports"
+    ],
+    [
+      "Gas Stove",
+      "part of",
+      "Household kitchen appliances"
+    ],
+    [
+      "Gas Stove",
+      "used for",
+      "Cooking and heating food using gas fuel"
+    ],
+    [
+      "Gas Stove",
+      "material used",
+      "Stainless steel, cast iron, glass"
+    ],
+    [
+      "Gas Stove",
+      "color",
+      "Silver, black, or glass-finish"
+    ],
+    [
+      "Gas Stove",
+      "height",
+      "15 to 25 centimeters"
+    ],
+    [
+      "Gas Stove",
+      "weight",
+      "10 to 25 kilograms"
+    ],
+    [
+      "Gas Stove",
+      "lifespan",
+      "10 to 15 years"
+    ],
+    [
+      "Gas Stove",
+      "manufacturer",
+      "Home appliance manufacturing companies"
+    ]
+  ]
+}

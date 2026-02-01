@@ -1,0 +1,55 @@
+{
+  "object": "Fire Truck",
+  "triplets": [
+    [
+      "Fire Truck",
+      "subclass of",
+      "Emergency response vehicle"
+    ],
+    [
+      "Fire Truck",
+      "has part",
+      "Water tank, hose, ladder, engine, siren"
+    ],
+    [
+      "Fire Truck",
+      "part of",
+      "Fire department emergency response system"
+    ],
+    [
+      "Fire Truck",
+      "used for",
+      "Transporting firefighters and firefighting equipment"
+    ],
+    [
+      "Fire Truck",
+      "material used",
+      "Steel body, aluminum components, rubber tires"
+    ],
+    [
+      "Fire Truck",
+      "color",
+      "Red with reflective markings"
+    ],
+    [
+      "Fire Truck",
+      "height",
+      "3 to 4 meters"
+    ],
+    [
+      "Fire Truck",
+      "weight",
+      "10,000 to 30,000 kilograms"
+    ],
+    [
+      "Fire Truck",
+      "lifespan",
+      "20 to 30 years"
+    ],
+    [
+      "Fire Truck",
+      "manufacturer",
+      "Specialized emergency vehicle manufacturers"
+    ]
+  ]
+}

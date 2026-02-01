@@ -1,0 +1,55 @@
+{
+  "object": "Goose",
+  "triplets": [
+    [
+      "Goose",
+      "subclass of",
+      "Aquatic bird"
+    ],
+    [
+      "Goose",
+      "has part",
+      "Beak, wings, feathers, webbed feet"
+    ],
+    [
+      "Goose",
+      "part of",
+      "Wetland and farm animal ecosystem"
+    ],
+    [
+      "Goose",
+      "used for",
+      "Egg production, meat, and ecological balance"
+    ],
+    [
+      "Goose",
+      "material used",
+      "Living biological tissues"
+    ],
+    [
+      "Goose",
+      "color",
+      "White, gray, or brown"
+    ],
+    [
+      "Goose",
+      "height",
+      "75 to 110 centimeters"
+    ],
+    [
+      "Goose",
+      "weight",
+      "3 to 8 kilograms"
+    ],
+    [
+      "Goose",
+      "lifespan",
+      "10 to 25 years"
+    ],
+    [
+      "Goose",
+      "manufacturer",
+      "Naturally bred through reproduction"
+    ]
+  ]
+}

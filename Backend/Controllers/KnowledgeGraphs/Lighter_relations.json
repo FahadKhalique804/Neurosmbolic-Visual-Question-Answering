@@ -1,0 +1,15 @@
+{
+    "object": "Lighter",
+    "triplets": [
+        ["Lighter", "subclass of", "Portable ignition device used to produce a flame"],
+        ["Lighter", "used for", "Lighting cigarettes, candles, stoves, and small fires"],
+        ["Lighter", "material used", "Plastic or metal casing, flint, fuel gas or liquid"],
+        ["Lighter", "has part", "Ignition mechanism such as flint wheel or electric spark"],
+        ["Lighter", "has part", "Fuel chamber storing gas or liquid fuel"],
+        ["Lighter", "color", "Available in various colors and finishes"],
+        ["Lighter", "part of", "Everyday utility tools and personal accessories"],
+        ["Lighter", "manufacturer", "Various consumer goods manufacturers"],
+        ["Lighter", "weight", "Approximately 15–30 grams"],
+        ["Lighter", "lifespan", "Disposable: single-use; refillable: several years"]
+    ]
+}

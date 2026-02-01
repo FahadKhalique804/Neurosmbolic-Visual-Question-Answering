@@ -1,0 +1,75 @@
+{
+    "object": "Bicycle",
+    "triplets": [
+        [
+            "Bicycle",
+            "subclass of",
+            "Human-powered vehicle with two wheels, used for personal transportation, exercise, and recreation"
+        ],
+        [
+            "Bicycle",
+            "used for",
+            "Commuting, leisure rides, sport cycling, exercise, and competitive racing"
+        ],
+        [
+            "Bicycle",
+            "material used",
+            "Frame typically made of steel, aluminum, carbon fiber, or titanium; tires made of rubber; components include metal and plastic"
+        ],
+        [
+            "Bicycle",
+            "has part",
+            "Frame providing structural support and holding all components together"
+        ],
+        [
+            "Bicycle",
+            "has part",
+            "Wheels, including rims, spokes, tires, and hubs for mobility"
+        ],
+        [
+            "Bicycle",
+            "has part",
+            "Handlebars for steering and control"
+        ],
+        [
+            "Bicycle",
+            "has part",
+            "Pedals for propulsion"
+        ],
+        [
+            "Bicycle",
+            "has part",
+            "Seat for rider comfort"
+        ],
+        [
+            "Bicycle",
+            "color",
+            "Varies widely depending on manufacturer and model; common colors include black, red, blue, and metallic finishes"
+        ],
+        [
+            "Bicycle",
+            "part of",
+            "Personal transportation, recreational equipment, sports equipment, and fitness activities"
+        ],
+        [
+            "Bicycle",
+            "manufacturer",
+            "Various manufacturers producing road bikes, mountain bikes, hybrid bikes, and specialty bicycles"
+        ],
+        [
+            "Bicycle",
+            "weight",
+            "Typically 10–25 kg depending on frame material, size, and accessories"
+        ],
+        [
+            "Bicycle",
+            "height",
+            "Approximately 1–1.2 meters from seat to ground; overall dimensions vary by type"
+        ],
+        [
+            "Bicycle",
+            "lifespan",
+            "Typically 5–15 years depending on quality, frequency of use, and maintenance"
+        ]
+    ]
+}

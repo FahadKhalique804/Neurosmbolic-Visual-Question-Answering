@@ -1,0 +1,15 @@
+{
+    "object": "Pie",
+    "triplets": [
+        ["Pie", "subclass of", "Baked dish with pastry crust and sweet or savory filling"],
+        ["Pie", "used for", "Desserts, main courses, snacks, celebrations, and holiday meals"],
+        ["Pie", "material used", "Flour, butter, water, sugar, fruits, meats, vegetables, and spices"],
+        ["Pie", "has part", "Crust, filling, and sometimes top crust or lattice"],
+        ["Pie", "color", "Golden-brown crust; filling varies by ingredients (fruit pies: red, purple, etc.)"],
+        ["Pie", "part of", "Culinary traditions, bakeries, home cooking, and festive meals"],
+        ["Pie", "manufacturer", "Bakeries, food companies, and home cooks"],
+        ["Pie", "weight", "Approximately 500–1000 grams for a standard pie"],
+        ["Pie", "diameter", "Typically 20–25 cm for a standard pie"],
+        ["Pie", "lifespan", "2–4 days at room temperature; longer if refrigerated"]
+    ]
+}

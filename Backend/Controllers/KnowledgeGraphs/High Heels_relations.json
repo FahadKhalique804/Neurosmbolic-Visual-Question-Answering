@@ -1,0 +1,53 @@
+{
+    "object": "High Heels",
+    "triplets": [
+        [
+            "High Heels",
+            "subclass of",
+            "Footwear"
+        ],
+        
+        ["High Heels", 
+        "has part", 
+        "Heel, Sole, Straps"
+        ],
+          ["High Heels",
+           "part of", 
+           "Fashion Outfit"
+        ],
+        
+        [
+            "High Heels",
+            "used for",
+            "Fashion, Formal occasions"
+        ],
+        [
+            "High Heels",
+            "material used",
+            "Leather, Plastic, Metal"
+        ],
+        [
+            "High Heels",
+            "color",
+            "Varies ,Black, Red, Beige, White"
+        ],
+           ["High Heels",
+            "height", 
+            "0.1 m (heel 0.08-0.12 m)"
+        ],
+            ["High Heels",
+             "weight",
+              "0.5 kg per pair"
+            ],
+
+                ["High Heels", 
+                "lifespan", 
+                "3 years"
+            ],
+        [
+            "High Heels",
+            "manufacturer",
+            "Various manufacturers"
+        ]
+    ]
+}

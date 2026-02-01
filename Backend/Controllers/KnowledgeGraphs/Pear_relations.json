@@ -1,0 +1,14 @@
+{
+    "object": "Pear",
+    "triplets": [
+        ["Pear", "subclass of", "Sweet, bell-shaped fruit from the genus Pyrus, grown in temperate climates"],
+        ["Pear", "used for", "Eating fresh, salads, baking, canning, and making juices or ciders"],
+        ["Pear", "material used", "Fleshy fruit, skin, seeds, and core"],
+        ["Pear", "has part", "Skin, sweet flesh, core with seeds, and sometimes stem"],
+        ["Pear", "color", "Green, yellow, red, or brown depending on variety"],
+        ["Pear", "part of", "Orchard ecosystems, fruit baskets, and healthy diets"],
+        ["Pear", "manufacturer", "Orchard farmers and fruit distributors"],
+        ["Pear", "weight", "Approximately 150–250g per fruit"],
+        ["Pear", "lifespan", "Ripe: a few days; unripe can ripen over 1–2 weeks"]
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "object": "Wild Bird",
+  "triplets": [
+    ["Wild Bird", "subclass of", "animal"],
+    ["Wild Bird", "used for", "maintaining ecological balance"],
+    ["Wild Bird", "material used", "biological tissues"],
+    ["Wild Bird", "has part", "wings, beak, feathers"],
+    ["Wild Bird", "part of", "ecosystems"],
+    ["Wild Bird", "manufacturer", "nature"],
+    ["Wild Bird", "weight", "0.02–15 kg"],
+    ["Wild Bird", "height", "10–150 cm"]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+    "object": "Soap",
+    "triplets": [
+        [
+            "Soap",
+            "subclass of",
+            "Cleaning and hygiene product"
+        ],
+        [
+            "Soap",
+            "used for",
+            "Washing, cleaning, hand hygiene, bathing"
+        ],
+        [
+            "Soap",
+            "material used",
+            "Fatty acids, oils, lye, fragrance, colorants"
+        ],
+        [
+            "Soap",
+            "has part",
+            "Bar or liquid form, bubbles, scent"
+        ],
+        [
+            "Soap",
+            "color",
+            "Varies"
+        ],
+        [
+            "Soap",
+            "part of",
+            "Personal care products"
+        ],
+        [
+            "Soap",
+            "manufacturer",
+            "Dove, Lux, Safeguard, Dettol, Palmolive"
+        ],
+        [
+            "Soap",
+            "weight",
+            "50–150 grams (bar)"
+        ],
+        [
+            "Soap",
+            "height",
+            "2–4 cm (bar shape)"
+        ]
+    ]
+}

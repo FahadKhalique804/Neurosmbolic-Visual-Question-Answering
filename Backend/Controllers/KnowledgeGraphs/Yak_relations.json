@@ -1,0 +1,13 @@
+{
+  "object": "Yak",
+  "triplets": [
+    ["Yak", "subclass of", "mammal"],
+    ["Yak", "used for", "transportation, milk, wool"],
+    ["Yak", "material used", "biological tissues"],
+    ["Yak", "has part", "horns, hooves, fur"],
+    ["Yak", "part of", "mountain ecosystems"],
+    ["Yak", "manufacturer", "nature"],
+    ["Yak", "weight", "300–1,000 kg"],
+    ["Yak", "height", "1.6–2 m"]
+  ]
+}

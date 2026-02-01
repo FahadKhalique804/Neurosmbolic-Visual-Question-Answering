@@ -1,0 +1,12 @@
+{
+    "object": "Notepaper",
+    "triplets": [
+        ["Notepaper", "subclass of", "Paper used for writing notes, memos, or lists"],
+        ["Notepaper", "used for", "Writing reminders, letters, sketches, and informal communication"],
+        ["Notepaper", "material used", "Wood pulp, recycled paper, cotton fiber, or specialty paper blends"],
+        ["Notepaper", "color", "Typically white, but also available in pastels and colors"],
+        ["Notepaper", "size", "Commonly A5, A4, or custom small pads"],
+        ["Notepaper", "part of", "Stationery sets, office supplies, and personal organization tools"],
+        ["Notepaper", "manufacturer", "Paper mills, stationery brands, and printing companies"]
+    ]
+}

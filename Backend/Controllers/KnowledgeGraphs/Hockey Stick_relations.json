@@ -1,0 +1,45 @@
+{
+  "object": "Hockey Stick",
+  "triplets": [
+    ["Hockey Stick",
+     "subclass of",
+      "Sports Equipment"
+    ],
+    ["Hockey Stick",
+     "has part", 
+     "Shaft, Blade, Grip"
+    ],
+    ["Hockey Stick",
+     "part of", 
+     "Hockey Kit"
+    ],
+    ["Hockey Stick",
+     "used for", 
+     "Playing hockey"
+    ],
+    ["Hockey Stick", 
+    "material used",
+     "Wood, Fiberglass, Carbon Fiber"
+    ],
+    ["Hockey Stick",
+     "color", 
+     "Black, Yellow, Blue, Red"
+    ],
+    ["Hockey Stick",
+     "height",
+      "1.2 m"
+    ],
+    ["Hockey Stick", 
+    "weight", 
+    "0.5 kg"
+],
+    ["Hockey Stick",
+     "lifespan",
+      "5 years"
+    ],
+    ["Hockey Stick",
+     "manufacturer",
+      "Bauer, CCM, Warrior"
+    ]
+  ]
+}

@@ -1,0 +1,55 @@
+{
+    "object": "Cigar/Cigarette",
+    "triplets": [
+        [
+            "Cigar/Cigarette",
+            "subclass of",
+            "Tobacco product intended for smoking"
+        ],
+        [
+            "Cigar/Cigarette",
+            "used for",
+            "Smoking for leisure, social, or cultural purposes"
+        ],
+        [
+            "Cigar/Cigarette",
+            "material used",
+            "Tobacco, Paper, sometimes filters and additives"
+        ],
+        [
+            "Cigar/Cigarette",
+            "has part",
+            "Tobacco filler, Paper wrapper, Filter (for cigarettes)"
+        ],
+        [
+            "Cigar/Cigarette",
+            "color",
+            "Brown (tobacco), White (cigarette paper)"
+        ],
+        [
+            "Cigar/Cigarette",
+            "part of",
+            "Tobacco consumption, Smoking culture"
+        ],
+        [
+            "Cigar/Cigarette",
+            "manufacturer",
+            "Various manufacturers"
+        ],
+        [
+            "Cigar/Cigarette",
+            "weight",
+            "1-15 g depending on size and type"
+        ],
+        [
+            "Cigar/Cigarette",
+            "height",
+            "Not applicable"
+        ],
+        [
+            "Cigar/Cigarette",
+            "lifespan",
+            "Not applicable (consumable product)"
+        ]
+    ]
+}

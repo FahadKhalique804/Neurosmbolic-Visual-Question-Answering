@@ -1,0 +1,50 @@
+{
+    "object": "Airplane",
+    "triplets": [
+        [
+            "Airplane",
+            "subclass of",
+            "Aircraft designed for powered flight using wings, engines, and aerodynamic lift"
+        ],
+        [
+            "Airplane",
+            "used for",
+            "Air travel, transporting passengers and cargo, military operations, aerial surveillance, rescue missions, and long-distance transportation"
+        ],
+        [
+            "Airplane",
+            "material used",
+            "Aluminum alloys, carbon fiber composites, titanium, steel, plastic components, and glass for cockpit windows"
+        ],
+        [
+            "Airplane",
+            "has part",
+            "Fuselage, wings, tail/empennage, cockpit, landing gear, jet engines or propellers, fuel tanks, flaps, ailerons, rudder, elevators"
+        ],
+        [
+            "Airplane",
+            "color",
+            "Varies depending on airline livery"
+        ],
+        [
+            "Airplane",
+            "part of",
+            "Aviation systems, airport operations, airline fleets, military air forces"
+        ],
+        [
+            "Airplane",
+            "manufacturer",
+            "Various manufacturers"
+        ],
+        [
+            "Airplane",
+            "weight",
+            "500 kg to over 300,000 kg depending on type (small aircraft to large commercial jets)"
+        ],
+        [
+            "Airplane",
+            "height",
+            "3–25 meters depending on model"
+        ]
+    ]
+}

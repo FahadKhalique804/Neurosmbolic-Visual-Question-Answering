@@ -1,0 +1,55 @@
+{
+  "object": "Cutting Board",
+  "triplets": [
+    [
+      "Cutting Board",
+      "subclass of",
+      "Kitchen utensil used for food preparation"
+    ],
+    [
+      "Cutting Board",
+      "has part",
+      "Flat cutting surface, edges, sometimes juice groove"
+    ],
+    [
+      "Cutting Board",
+      "part of",
+      "Kitchen setup and cooking environment"
+    ],
+    [
+      "Cutting Board",
+      "used for",
+      "Cutting, chopping, slicing vegetables, meat, and fruits"
+    ],
+    [
+      "Cutting Board",
+      "material used",
+      "Wood, bamboo, plastic, or composite materials"
+    ],
+    [
+      "Cutting Board",
+      "color",
+      "Brown, white, green, or multicolored"
+    ],
+    [
+      "Cutting Board",
+      "height",
+      "Approximately 2 to 5 centimeters thick"
+    ],
+    [
+      "Cutting Board",
+      "weight",
+      "Ranges between 1 to 3 kilograms depending on material"
+    ],
+    [
+      "Cutting Board",
+      "lifespan",
+      "3 to 10 years depending on usage and maintenance"
+    ],
+    [
+      "Cutting Board",
+      "manufacturer",
+      "Kitchenware manufacturing companies"
+    ]
+  ]
+}

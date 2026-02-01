@@ -1,0 +1,65 @@
+{
+    "object": "Cosmetics",
+    "triplets": [
+        [
+            "Cosmetics",
+            "subclass of",
+            "Personal Care products for beauty enhancement and grooming"
+        ],
+        [
+            "Cosmetics",
+            "used for",
+            "Beauty enhancement, Skincare, Grooming, Fragrance application"
+        ],
+        [
+            "Cosmetics",
+            "material used",
+            "Creams, Lotions, Powders, Oils, Pigments"
+        ],
+        [
+            "Cosmetics",
+            "color",
+            "Varies depending on type and product"
+        ],
+        [
+            "Cosmetics",
+            "manufacturer",
+            "Various manufacturers"
+        ],
+        [
+            "Cosmetics",
+            "has types",
+            "Makeup, Skincare, Haircare, Fragrance"
+        ],
+        [
+            "Cosmetics",
+            "found in",
+            "Beauty stores, Makeup kits, Personal care shelves"
+        ],
+        [
+            "Cosmetics",
+            "weight",
+            "Not applicable"
+        ],
+        [
+            "Cosmetics",
+            "height",
+            "Not applicable"
+        ],
+        [
+            "Cosmetics",
+            "has part",
+            "Not applicable"
+        ],
+        [
+            "Cosmetics",
+            "part of",
+            "Personal care routines, Beauty kits"
+        ],
+        [
+            "Cosmetics",
+            "lifespan",
+            "Varies depending on product type and shelf life"
+        ]
+    ]
+}

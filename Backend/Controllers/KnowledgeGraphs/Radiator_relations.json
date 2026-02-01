@@ -1,0 +1,15 @@
+{
+    "object": "Radiator",
+    "triplets": [
+        ["Radiator", "subclass of", "Heat exchanger that radiates thermal energy to warm a space"],
+        ["Radiator", "used for", "Heating rooms, drying clothes, and part of central heating systems"],
+        ["Radiator", "material used", "Cast iron, steel, aluminum, or copper with water/steam passages"],
+        ["Radiator", "has part", "Fins, valves, pipes, brackets, and sometimes thermostat controls"],
+        ["Radiator", "color", "Typically white, silver, or metallic"],
+        ["Radiator", "part of", "Heating systems, buildings, and HVAC infrastructure"],
+        ["Radiator", "manufacturer", "Heating equipment companies like Runtal, Zehnder, etc."],
+        ["Radiator", "height", "Approximately 50–80 cm for standard residential radiators"],
+        ["Radiator", "weight", "Approximately 15–50 kg depending on material and size"],
+        ["Radiator", "lifespan", "20–50 years with maintenance"]
+    ]
+}

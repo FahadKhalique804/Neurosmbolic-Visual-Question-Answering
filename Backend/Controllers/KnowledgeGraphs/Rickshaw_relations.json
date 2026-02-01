@@ -1,0 +1,15 @@
+{
+    "object": "Rickshaw",
+    "triplets": [
+        ["Rickshaw", "subclass of", "Lightweight two or three-wheeled passenger vehicle, often human-pulled"],
+        ["Rickshaw", "used for", "Transporting passengers short distances, tourism, and local transit"],
+        ["Rickshaw", "material used", "Bamboo, metal, wood, fabric canopy, and sometimes bicycle parts"],
+        ["Rickshaw", "has part", "Seat, wheels, canopy, pulling handles or pedals, and sometimes motor"],
+        ["Rickshaw", "color", "Varied: often brightly painted with decorative patterns"],
+        ["Rickshaw", "part of", "Urban transport in some Asian countries, tourist attractions"],
+        ["Rickshaw", "manufacturer", "Local artisans, small workshops, and vehicle manufacturers"],
+        ["Rickshaw", "capacity", "Typically 1–3 passengers"],
+        ["Rickshaw", "weight", "Approximately 80–150 kg depending on type"],
+        ["Rickshaw", "lifespan", "5–15 years with maintenance"]
+    ]
+}

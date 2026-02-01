@@ -1,0 +1,13 @@
+{
+  "object": "Trombone",
+  "triplets": [
+    ["Trombone", "subclass of", "brass musical instrument"],
+    ["Trombone", "used for", "producing music through sliding mechanism"],
+    ["Trombone", "material used", "brass"],
+    ["Trombone", "has part", "slide, bell, mouthpiece"],
+    ["Trombone", "part of", "orchestras and bands"],
+    ["Trombone", "manufacturer", "Yamaha, Bach, Conn"],
+    ["Trombone", "weight", "1.8–3 kg"],
+    ["Trombone", "height", "110–120 cm"]
+  ]
+}

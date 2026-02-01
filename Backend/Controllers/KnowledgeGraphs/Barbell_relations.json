@@ -1,0 +1,65 @@
+{
+    "object": "Barbell",
+    "triplets": [
+        [
+            "Barbell",
+            "subclass of",
+            "Fitness equipment designed for strength training, consisting of a long bar with adjustable or fixed weights at each end"
+        ],
+        [
+            "Barbell",
+            "used for",
+            "Weightlifting exercises including squats, deadlifts, bench press, and Olympic lifting for strength and muscle development"
+        ],
+        [
+            "Barbell",
+            "material used",
+            "Steel or iron for the bar and weight plates; rubber or urethane coating may be used on plates to protect floors and reduce noise"
+        ],
+        [
+            "Barbell",
+            "has part",
+            "Bar, the long central rod that holds the weight plates and is gripped by the user"
+        ],
+        [
+            "Barbell",
+            "has part",
+            "Weight plates that are loaded onto the bar to adjust resistance"
+        ],
+        [
+            "Barbell",
+            "has part",
+            "Collars or clamps to secure weight plates on the bar"
+        ],
+        [
+            "Barbell",
+            "color",
+            "Varies depending on materials and manufacturer; bars are usually metallic gray or black, plates may be black, colored, or coated"
+        ],
+        [
+            "Barbell",
+            "part of",
+            "Gym equipment, home fitness setups, strength training programs, and competitive weightlifting"
+        ],
+        [
+            "Barbell",
+            "manufacturer",
+            "Various fitness equipment manufacturers producing standard, Olympic, and specialty barbells"
+        ],
+        [
+            "Barbell",
+            "weight",
+            "Varies depending on bar and plates; standard bars range from 5–20 kg, Olympic bars 20–25 kg, with plates adding 1–50 kg or more each"
+        ],
+        [
+            "Barbell",
+            "height",
+            "Approximately 1.2–2.2 meters in length depending on type (standard or Olympic)"
+        ],
+        [
+            "Barbell",
+            "lifespan",
+            "Typically 10–20 years or more with proper maintenance, depending on material quality, usage frequency, and storage conditions"
+        ]
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "object": "Urinal",
+  "triplets": [
+    ["Urinal", "subclass of", "sanitary fixture"],
+    ["Urinal", "used for", "urination in restrooms"],
+    ["Urinal", "material used", "ceramic or stainless steel"],
+    ["Urinal", "has part", "bowl, flush mechanism"],
+    ["Urinal", "part of", "bathroom infrastructure"],
+    ["Urinal", "manufacturer", "Kohler, American Standard, TOTO"],
+    ["Urinal", "weight", "15–40 kg"],
+    ["Urinal", "height", "50–80 cm"]
+  ]
+}

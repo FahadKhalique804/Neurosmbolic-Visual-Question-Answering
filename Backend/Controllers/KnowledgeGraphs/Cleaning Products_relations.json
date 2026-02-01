@@ -1,0 +1,55 @@
+{
+    "object": "Cleaning Products",
+    "triplets": [
+        [
+            "Cleaning Products",
+            "subclass of",
+            "Household products designed for cleaning surfaces, objects, and environments"
+        ],
+        [
+            "Cleaning Products",
+            "used for",
+            "Cleaning, disinfecting, removing dirt, grease, or stains from various surfaces"
+        ],
+        [
+            "Cleaning Products",
+            "material used",
+            "Varies: chemical agents, water, surfactants, abrasives, or solvents depending on product type"
+        ],
+        [
+            "Cleaning Products",
+            "has part",
+            "Not applicable"
+        ],
+        [
+            "Cleaning Products",
+            "color",
+            "Varies depending on formulation and brand"
+        ],
+        [
+            "Cleaning Products",
+            "part of",
+            "Household cleaning supplies, Janitorial equipment"
+        ],
+        [
+            "Cleaning Products",
+            "manufacturer",
+            "Various manufacturers"
+        ],
+        [
+            "Cleaning Products",
+            "weight",
+            "Varies depending on product type and packaging"
+        ],
+        [
+            "Cleaning Products",
+            "height",
+            "Not applicable"
+        ],
+        [
+            "Cleaning Products",
+            "lifespan",
+            "Varies (shelf life depending on product)"
+        ]
+    ]
+}

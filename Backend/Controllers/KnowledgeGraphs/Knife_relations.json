@@ -1,0 +1,45 @@
+{
+  "object": "Knife",
+  "triplets": [
+    ["Knife",
+     "subclass of", 
+     "Cutlery/Tool"
+    ],
+    ["Knife",
+     "has part",
+      "Blade, Handle, Tang, Point, Edge"
+    ],
+    ["Knife",
+     "part of",
+      "Kitchen or Toolkit"
+    ],
+    ["Knife",
+     "used for",
+      "Cutting or slicing"
+    ],
+    ["Knife",
+     "material used",
+      "Stainless steel, Plastic, Wood"
+    ],
+    ["Knife",
+     "color",
+      "Silver blade, Various handle colors"
+    ],
+    ["Knife",
+     "height", 
+     "20-30 cm"
+    ],
+    ["Knife", 
+    "weight",
+     "100-300 grams"
+    ],
+    ["Knife",
+     "lifespan",
+      "5-15 years"
+    ],
+    ["Knife",
+     "manufacturer", 
+     "Victorinox, Wüsthof, Local brands"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+    "object": "Snowboard",
+    "triplets": [
+        [
+            "Snowboard",
+            "subclass of",
+            "Snow sport board used for riding on snow"
+        ],
+        [
+            "Snowboard",
+            "used for",
+            "Snowboarding, tricks, mountain riding"
+        ],
+        [
+            "Snowboard",
+            "material used",
+            "Wood core, fiberglass, steel edges, plastic base"
+        ],
+        [
+            "Snowboard",
+            "has part",
+            "Board, bindings, edges, base"
+        ],
+        [
+            "Snowboard",
+            "color",
+            "Varies"
+        ],
+        [
+            "Snowboard",
+            "part of",
+            "Winter sports equipment"
+        ],
+        [
+            "Snowboard",
+            "manufacturer",
+            "Burton, K2, Salomon, Nitro"
+        ],
+        [
+            "Snowboard",
+            "weight",
+            "2.5–5 kg"
+        ],
+        [
+            "Snowboard",
+            "height",
+            "140–170 cm"
+        ]
+    ]
+}

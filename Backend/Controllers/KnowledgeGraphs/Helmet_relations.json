@@ -1,0 +1,53 @@
+{
+    "object": "Helmet",
+    "triplets": [
+        [
+            "Helmet",
+            "subclass of",
+            "Protective Gear"
+        ],
+         ["Helmet",
+            "has part", 
+            "Visor, Straps, Padding"
+        ],
+        [ "Helmet", 
+          "part of", 
+         "Safety Gear Set, Sports Kit"
+         ],
+
+
+        [
+            "Helmet",
+            "used for",
+            "Head protection"
+        ],
+        [
+            "Helmet",
+            "material used",
+            "Plastic, Metal"
+        ],
+        [
+            "Helmet",
+            "color",
+            "Varies , Black, Red, Blue, White"
+        ],
+         ["Helmet", 
+         "height", 
+         "0.25 m"
+        ],
+           ["Helmet",
+            "weight",
+             "1 kg"
+            ],
+                ["Helmet",
+                 "lifespan",
+                  "5 years"
+                ],
+        [
+            "Helmet",
+            "manufacturer",
+            "Various manufacturers, Giro, Bell, LS2"
+        ]
+    ]
+}
+

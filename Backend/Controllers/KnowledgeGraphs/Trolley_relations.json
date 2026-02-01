@@ -1,0 +1,13 @@
+{
+  "object": "Trolley",
+  "triplets": [
+    ["Trolley", "subclass of", "wheeled transport equipment"],
+    ["Trolley", "used for", "carrying goods or luggage"],
+    ["Trolley", "material used", "steel, aluminum, plastic"],
+    ["Trolley", "has part", "wheels, handle, platform"],
+    ["Trolley", "part of", "transport and storage systems"],
+    ["Trolley", "manufacturer", "Samsonite, American Tourister, Delsey"],
+    ["Trolley", "weight", "3–7 kg"],
+    ["Trolley", "height", "80–120 cm"]
+  ]
+}

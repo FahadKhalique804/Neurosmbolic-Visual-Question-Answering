@@ -1,0 +1,55 @@
+{
+  "object": "Dog",
+  "triplets": [
+    [
+      "Dog",
+      "subclass of",
+      "Domesticated mammal animal"
+    ],
+    [
+      "Dog",
+      "has part",
+      "Head, legs, tail, ears, fur"
+    ],
+    [
+      "Dog",
+      "part of",
+      "Human household and social environment"
+    ],
+    [
+      "Dog",
+      "used for",
+      "Companionship, guarding, herding, and assistance tasks"
+    ],
+    [
+      "Dog",
+      "material used",
+      "Living biological tissues such as muscles and bones"
+    ],
+    [
+      "Dog",
+      "color",
+      "Various colors including black, brown, white, or mixed"
+    ],
+    [
+      "Dog",
+      "height",
+      "Approximately 30 to 60 centimeters at shoulder"
+    ],
+    [
+      "Dog",
+      "weight",
+      "Ranges from 5 to 40 kilograms"
+    ],
+    [
+      "Dog",
+      "lifespan",
+      "10 to 15 years on average"
+    ],
+    [
+      "Dog",
+      "manufacturer",
+      "Naturally produced through biological reproduction"
+    ]
+  ]
+}

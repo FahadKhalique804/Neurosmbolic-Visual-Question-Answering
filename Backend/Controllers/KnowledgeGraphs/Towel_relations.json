@@ -1,0 +1,13 @@
+{
+    "object": "Towel",
+    "triplets": [
+        ["Towel", "subclass of", "absorbent drying fabric"],
+        ["Towel", "used for", "Drying body or surfaces"],
+        ["Towel", "material used", "Cotton, microfiber, bamboo"],
+        ["Towel", "has part", "Fabric loops"],
+        ["Towel", "part of", "Bathroom textiles"],
+        ["Towel", "manufacturer", "Various textile companies"],
+        ["Towel", "weight", "200–700 g"],
+        ["Towel", "height", "70–150 cm length"]
+    ]
+}

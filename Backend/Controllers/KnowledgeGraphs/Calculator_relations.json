@@ -1,0 +1,70 @@
+{
+    "object": "Calculator",
+    "triplets": [
+        [
+            "Calculator",
+            "subclass of",
+            "Electronic device designed to perform arithmetic operations, ranging from basic calculations to advanced scientific and financial functions"
+        ],
+        [
+            "Calculator",
+            "used for",
+            "Performing arithmetic calculations, solving mathematical problems, scientific computations, financial analysis, and educational purposes"
+        ],
+        [
+            "Calculator",
+            "material used",
+            "Plastic casing, metal components, electronic circuits, LCD or LED display, rubber or plastic keys"
+        ],
+        [
+            "Calculator",
+            "has part",
+            "Display screen for showing numbers and results"
+        ],
+        [
+            "Calculator",
+            "has part",
+            "Keypad or buttons for inputting numbers and operations"
+        ],
+        [
+            "Calculator",
+            "has part",
+            "Internal processor and memory"
+        ],
+        [
+            "Calculator",
+            "has part",
+            "Battery compartment or solar panel for power"
+        ],
+        [
+            "Calculator",
+            "color",
+            "Commonly black, silver, gray, or colorful depending on brand and design"
+        ],
+        [
+            "Calculator",
+            "part of",
+            "Educational tools, office equipment, and personal electronics"
+        ],
+        [
+            "Calculator",
+            "manufacturer",
+            "Various electronics manufacturers including Casio, Texas Instruments, Sharp, and others"
+        ],
+        [
+            "Calculator",
+            "weight",
+            "Typically 50–300 grams depending on size and type"
+        ],
+        [
+            "Calculator",
+            "height",
+            "Typically 1–3 cm; overall dimensions vary with model"
+        ],
+        [
+            "Calculator",
+            "lifespan",
+            "5–15 years depending on build quality, usage, and battery maintenance"
+        ]
+    ]
+}

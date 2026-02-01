@@ -1,0 +1,60 @@
+{
+    "object": "Candle",
+    "triplets": [
+        [
+            "Candle",
+            "subclass of",
+            "Portable source of light made from wax and a wick, often used for illumination, decoration, or ceremonial purposes"
+        ],
+        [
+            "Candle",
+            "used for",
+            "Providing light, decoration, aromatherapy, religious and ceremonial purposes, ambiance creation"
+        ],
+        [
+            "Candle",
+            "material used",
+            "Wax (paraffin, beeswax, soy, or palm), cotton or synthetic wick, sometimes added dyes or fragrances"
+        ],
+        [
+            "Candle",
+            "has part",
+            "Wax body that melts to sustain the flame"
+        ],
+        [
+            "Candle",
+            "has part",
+            "Wick that carries fuel to the flame"
+        ],
+        [
+            "Candle",
+            "color",
+            "Varies widely: white, red, blue, yellow, green, and multicolored"
+        ],
+        [
+            "Candle",
+            "part of",
+            "Home decor, ceremonial items, emergency lighting kits, and aromatherapy products"
+        ],
+        [
+            "Candle",
+            "manufacturer",
+            "Various manufacturers including artisanal candle makers and industrial producers"
+        ],
+        [
+            "Candle",
+            "height",
+            "Typically 5–30 cm depending on type and purpose"
+        ],
+        [
+            "Candle",
+            "weight",
+            "50–500 grams depending on size and wax density"
+        ],
+        [
+            "Candle",
+            "lifespan",
+            "Burn time typically 2–10 hours depending on size, wax type, and wick"
+        ]
+    ]
+}

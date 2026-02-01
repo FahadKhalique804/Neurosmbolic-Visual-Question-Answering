@@ -1,0 +1,55 @@
+{
+  "object": "Grapefruit",
+  "triplets": [
+    [
+      "Grapefruit",
+      "subclass of",
+      "Citrus fruit"
+    ],
+    [
+      "Grapefruit",
+      "has part",
+      "Rind, pulp, juice sacs, seeds"
+    ],
+    [
+      "Grapefruit",
+      "part of",
+      "Citrus fruit category"
+    ],
+    [
+      "Grapefruit",
+      "used for",
+      "Eating fresh and juice preparation"
+    ],
+    [
+      "Grapefruit",
+      "material used",
+      "Organic plant matter"
+    ],
+    [
+      "Grapefruit",
+      "color",
+      "Yellow outer skin with pink or red flesh"
+    ],
+    [
+      "Grapefruit",
+      "height",
+      "10 to 15 centimeters in diameter"
+    ],
+    [
+      "Grapefruit",
+      "weight",
+      "300 to 500 grams"
+    ],
+    [
+      "Grapefruit",
+      "lifespan",
+      "2 to 3 weeks when stored properly"
+    ],
+    [
+      "Grapefruit",
+      "manufacturer",
+      "Agricultural growers and fruit producers"
+    ]
+  ]
+}

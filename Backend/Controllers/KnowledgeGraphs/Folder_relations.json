@@ -1,0 +1,55 @@
+{
+  "object": "Folder",
+  "triplets": [
+    [
+      "Folder",
+      "subclass of",
+      "Office and stationery storage item"
+    ],
+    [
+      "Folder",
+      "has part",
+      "Covers, inner pockets, clips or fasteners"
+    ],
+    [
+      "Folder",
+      "part of",
+      "Office, school, and document management system"
+    ],
+    [
+      "Folder",
+      "used for",
+      "Organizing, storing, and protecting papers and documents"
+    ],
+    [
+      "Folder",
+      "material used",
+      "Paperboard, plastic, or polypropylene"
+    ],
+    [
+      "Folder",
+      "color",
+      "Various colors such as blue, red, or transparent"
+    ],
+    [
+      "Folder",
+      "height",
+      "Approximately 30 to 35 centimeters"
+    ],
+    [
+      "Folder",
+      "weight",
+      "200 to 500 grams"
+    ],
+    [
+      "Folder",
+      "lifespan",
+      "1 to 5 years depending on usage"
+    ],
+    [
+      "Folder",
+      "manufacturer",
+      "Stationery and office supply companies"
+    ]
+  ]
+}

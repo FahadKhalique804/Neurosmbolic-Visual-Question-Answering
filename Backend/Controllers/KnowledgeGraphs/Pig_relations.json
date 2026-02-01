@@ -1,0 +1,15 @@
+{
+    "object": "Pig",
+    "triplets": [
+        ["Pig", "subclass of", "Domesticated mammal raised for meat, leather, and other products"],
+        ["Pig", "used for", "Pork production, leather, medical research, and as pets in some cases"],
+        ["Pig", "material used", "Flesh (pork), skin (leather), bones, and bristles"],
+        ["Pig", "has part", "Snout, hooves, tail, ears, and thick body with fat layers"],
+        ["Pig", "color", "Pink, black, spotted, or brown depending on breed"],
+        ["Pig", "part of", "Livestock farming, agriculture, and food supply chains"],
+        ["Pig", "manufacturer", "Not manufactured; bred on farms and raised for agriculture"],
+        ["Pig", "weight", "Approximately 100–350 kg when fully grown"],
+        ["Pig", "length", "Approximately 1–2 meters from snout to tail"],
+        ["Pig", "lifespan", "6–10 years in captivity; slaughtered earlier for meat"]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "object": "Pliers",
+    "triplets": [
+        ["Pliers", "subclass of", "Hand tool used for gripping, bending, or cutting objects"],
+        ["Pliers", "used for", "Electrical work, mechanical repair, crafting, and DIY projects"],
+        ["Pliers", "material used", "Steel, rubber grips, and sometimes plastic or coated handles"],
+        ["Pliers", "has part", "Jaws, pivot, handles, and sometimes cutting edges"],
+        ["Pliers", "color", "Typically silver/metallic with colored (red, blue, black) rubber grips"],
+        ["Pliers", "part of", "Toolkits, workshops, and professional trades"],
+        ["Pliers", "manufacturer", "Tool brands like Stanley, Knipex, Craftsman, etc."],
+        ["Pliers", "length", "Approximately 15–25 cm overall"],
+        ["Pliers", "weight", "Approximately 200–500 grams"],
+        ["Pliers", "lifespan", "Years to decades with proper maintenance"]
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "object": "Pencil Case",
+    "triplets": [
+        ["Pencil Case", "subclass of", "Container used to store writing and drawing instruments"],
+        ["Pencil Case", "used for", "Organizing pens, pencils, erasers, sharpeners, and other small stationery"],
+        ["Pencil Case", "material used", "Fabric, leather, plastic, vinyl, or metal"],
+        ["Pencil Case", "has part", "Zipper, compartments, pockets, and sometimes handles or straps"],
+        ["Pencil Case", "color", "Any color or pattern, often bright or decorated for appeal"],
+        ["Pencil Case", "size", "Typically 15–25 cm long, 5–10 cm wide"],
+        ["Pencil Case", "manufacturer", "Stationery brands, bag makers, and school supply companies"],
+        ["Pencil Case", "lifespan", "Several years with normal use"]
+    ]
+}

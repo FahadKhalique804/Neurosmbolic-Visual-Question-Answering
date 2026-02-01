@@ -1,0 +1,14 @@
+{
+    "object": "Sushi",
+    "triplets": [
+        ["Sushi","subclass of","Japanese dish"],
+        ["Sushi","used for","Eating"],
+        ["Sushi","material used","Rice, fish, seaweed, vegetables"],
+        ["Sushi","has part","Rice base, topping, seaweed (optional)"],
+        ["Sushi","color","Varies based on ingredients"],
+        ["Sushi","part of","Japanese cuisine"],
+        ["Sushi","manufacturer","Prepared in restaurants or homes"],
+        ["Sushi","weight","20–60 grams per piece"],
+        ["Sushi","height","2–4 cm"]
+    ]
+}

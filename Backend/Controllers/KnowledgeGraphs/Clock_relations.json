@@ -1,0 +1,55 @@
+{
+    "object": "Clock",
+    "triplets": [
+        [
+            "Clock",
+            "subclass of",
+            "Timekeeping device designed to measure and display time accurately"
+        ],
+        [
+            "Clock",
+            "used for",
+            "Measuring, tracking, and displaying time for daily activities"
+        ],
+        [
+            "Clock",
+            "material used",
+            "Wood, Metal, Glass, Plastic (depending on design and type)"
+        ],
+        [
+            "Clock",
+            "has part",
+            "Face, Hands, Movement mechanism, Battery compartment or winding mechanism, Casing"
+        ],
+        [
+            "Clock",
+            "color",
+            "Varies depending on design and manufacturer"
+        ],
+        [
+            "Clock",
+            "part of",
+            "Home or office furnishings, Timekeeping systems"
+        ],
+        [
+            "Clock",
+            "manufacturer",
+            "Various manufacturers"
+        ],
+        [
+            "Clock",
+            "weight",
+            "Varies depending on type (wall, desk, mantel, or grandfather clock)"
+        ],
+        [
+            "Clock",
+            "height",
+            "Varies depending on type and design"
+        ],
+        [
+            "Clock",
+            "lifespan",
+            "10-20 years depending on quality and maintenance"
+        ]
+    ]
+}

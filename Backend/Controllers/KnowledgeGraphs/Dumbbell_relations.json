@@ -1,0 +1,55 @@
+{
+  "object": "Dumbbell",
+  "triplets": [
+    [
+      "Dumbbell",
+      "subclass of",
+      "Fitness and exercise equipment"
+    ],
+    [
+      "Dumbbell",
+      "has part",
+      "Handle, fixed or adjustable weights"
+    ],
+    [
+      "Dumbbell",
+      "part of",
+      "Gym and workout environment"
+    ],
+    [
+      "Dumbbell",
+      "used for",
+      "Strength training and muscle development"
+    ],
+    [
+      "Dumbbell",
+      "material used",
+      "Cast iron, steel, rubber coating"
+    ],
+    [
+      "Dumbbell",
+      "color",
+      "Black, gray, or colored rubber coating"
+    ],
+    [
+      "Dumbbell",
+      "height",
+      "20 to 40 centimeters"
+    ],
+    [
+      "Dumbbell",
+      "weight",
+      "2 to 50 kilograms"
+    ],
+    [
+      "Dumbbell",
+      "lifespan",
+      "20 or more years"
+    ],
+    [
+      "Dumbbell",
+      "manufacturer",
+      "Fitness equipment manufacturing companies"
+    ]
+  ]
+}

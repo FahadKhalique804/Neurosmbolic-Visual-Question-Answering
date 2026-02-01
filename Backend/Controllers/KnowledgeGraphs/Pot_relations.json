@@ -1,0 +1,15 @@
+{
+    "object": "Pot",
+    "triplets": [
+        ["Pot", "subclass of", "Cooking vessel with handles and often a lid"],
+        ["Pot", "used for", "Boiling, stewing, soup-making, and cooking various dishes"],
+        ["Pot", "material used", "Stainless steel, cast iron, aluminum, ceramic, or non-stick coatings"],
+        ["Pot", "has part", "Body, handles, lid, and sometimes non-stick interior"],
+        ["Pot", "color", "Metallic silver, black, or colored enamel finishes"],
+        ["Pot", "part of", "Kitchen cookware, culinary tools, and home cooking"],
+        ["Pot", "manufacturer", "Cookware brands like All-Clad, Le Creuset, T-fal, etc."],
+        ["Pot", "capacity", "Typically 2–8 liters for household pots"],
+        ["Pot", "weight", "Approximately 1–5 kg depending on material and size"],
+        ["Pot", "lifespan", "Years to decades with proper care"]
+    ]
+}

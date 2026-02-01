@@ -1,0 +1,75 @@
+{
+    "object": "Cat",
+    "triplets": [
+        [
+            "Cat",
+            "subclass of",
+            "Mammal, domesticated animal kept as a pet"
+        ],
+        [
+            "Cat",
+            "used for",
+            "Companionship, pest control (hunting rodents), showing in exhibitions"
+        ],
+        [
+            "Cat",
+            "material used",
+            "Fur, Muscle, Bone (biological components)"
+        ],
+        [
+            "Cat",
+            "has part",
+            "Fur"
+        ],
+        [
+            "Cat",
+            "has part",
+            "Tail"
+        ],
+        [
+            "Cat",
+            "has part",
+            "Whiskers"
+        ],
+        [
+            "Cat",
+            "has part",
+            "Claws"
+        ],
+        [
+            "Cat",
+            "has part",
+            "Teeth"
+        ],
+        [
+            "Cat",
+            "color",
+            "Varies: Black, White, Gray, Orange, Calico, Tabby"
+        ],
+        [
+            "Cat",
+            "part of",
+            "Domestic environment, Pet care systems"
+        ],
+        [
+            "Cat",
+            "manufacturer",
+            "Not applicable"
+        ],
+        [
+            "Cat",
+            "weight",
+            "2.5–7 kg depending on breed"
+        ],
+        [
+            "Cat",
+            "height",
+            "Approximately 20–25 cm at shoulder"
+        ],
+        [
+            "Cat",
+            "lifespan",
+            "12–15 years on average, some live up to 20 years"
+        ]
+    ]
+}

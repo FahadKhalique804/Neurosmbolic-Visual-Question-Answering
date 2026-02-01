@@ -1,0 +1,15 @@
+{
+    "object": "Machinery Vehicle",
+    "triplets": [
+        ["Machinery Vehicle", "subclass of", "Heavy vehicle designed for industrial and construction tasks"],
+        ["Machinery Vehicle", "used for", "Construction, mining, agriculture, and material handling"],
+        ["Machinery Vehicle", "material used", "Steel, rubber, hydraulic systems, and engines"],
+        ["Machinery Vehicle", "has part", "Engine providing mechanical power"],
+        ["Machinery Vehicle", "has part", "Hydraulic arms or tools"],
+        ["Machinery Vehicle", "color", "Typically yellow, orange, or industrial colors"],
+        ["Machinery Vehicle", "part of", "Industrial and construction infrastructure"],
+        ["Machinery Vehicle", "manufacturer", "Heavy equipment manufacturers"],
+        ["Machinery Vehicle", "weight", "Several tons depending on type"],
+        ["Machinery Vehicle", "lifespan", "10–30 years with maintenance"]
+    ]
+}

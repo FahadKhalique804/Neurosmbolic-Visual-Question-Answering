@@ -1,0 +1,55 @@
+{
+  "object": "Extension Cord",
+  "triplets": [
+    [
+      "Extension Cord",
+      "subclass of",
+      "Electrical power accessory"
+    ],
+    [
+      "Extension Cord",
+      "has part",
+      "Power cable, plug, socket outlets, insulation layer"
+    ],
+    [
+      "Extension Cord",
+      "part of",
+      "Electrical supply and safety system"
+    ],
+    [
+      "Extension Cord",
+      "used for",
+      "Extending electrical power to distant devices"
+    ],
+    [
+      "Extension Cord",
+      "material used",
+      "Copper wire, plastic or rubber insulation"
+    ],
+    [
+      "Extension Cord",
+      "color",
+      "White, black, or orange"
+    ],
+    [
+      "Extension Cord",
+      "height",
+      "Cable thickness around 1 to 2 centimeters"
+    ],
+    [
+      "Extension Cord",
+      "weight",
+      "0.5 to 3 kilograms depending on length"
+    ],
+    [
+      "Extension Cord",
+      "lifespan",
+      "5 to 10 years with safe usage"
+    ],
+    [
+      "Extension Cord",
+      "manufacturer",
+      "Electrical accessory manufacturing companies"
+    ]
+  ]
+}

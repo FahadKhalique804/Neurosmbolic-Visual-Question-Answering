@@ -1,0 +1,14 @@
+{
+    "object": "Picture_Frame",
+    "triplets": [
+        ["Picture_Frame", "subclass of", "Decorative edging used to display and protect pictures or artwork"],
+        ["Picture_Frame", "used for", "Displaying photographs, paintings, certificates, and memorabilia"],
+        ["Picture_Frame", "material used", "Wood, metal, plastic, glass, and cardboard backing"],
+        ["Picture_Frame", "has part", "Frame border, glass/acrylic front, backing, and hanging hardware"],
+        ["Picture_Frame", "color", "Varied: natural wood, gold, silver, black, white, or painted colors"],
+        ["Picture_Frame", "part of", "Home decor, galleries, offices, and personal memorabilia displays"],
+        ["Picture_Frame", "manufacturer", "Frame manufacturers, craft stores, and custom framing shops"],
+        ["Picture_Frame", "size", "Varies from small (10x15 cm) to large (over 1 meter)"],
+        ["Picture_Frame", "lifespan", "Years to decades depending on material and care"]
+    ]
+}

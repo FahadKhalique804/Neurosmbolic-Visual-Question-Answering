@@ -1,0 +1,55 @@
+{
+  "object": "Flask",
+  "triplets": [
+    [
+      "Flask",
+      "subclass of",
+      "Liquid storage and laboratory container"
+    ],
+    [
+      "Flask",
+      "has part",
+      "Container body, neck, lid or stopper"
+    ],
+    [
+      "Flask",
+      "part of",
+      "Laboratory equipment or personal beverage storage"
+    ],
+    [
+      "Flask",
+      "used for",
+      "Storing and carrying liquids safely"
+    ],
+    [
+      "Flask",
+      "material used",
+      "Glass, stainless steel, or plastic"
+    ],
+    [
+      "Flask",
+      "color",
+      "Transparent, silver, or colored"
+    ],
+    [
+      "Flask",
+      "height",
+      "15 to 30 centimeters"
+    ],
+    [
+      "Flask",
+      "weight",
+      "300 to 800 grams"
+    ],
+    [
+      "Flask",
+      "lifespan",
+      "5 to 15 years depending on material"
+    ],
+    [
+      "Flask",
+      "manufacturer",
+      "Laboratory and container manufacturing companies"
+    ]
+  ]
+}

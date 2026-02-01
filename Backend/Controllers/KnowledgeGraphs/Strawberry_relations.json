@@ -1,0 +1,14 @@
+{
+    "object": "Strawberry",
+    "triplets": [
+        ["Strawberry","subclass of","Edible fruit"],
+        ["Strawberry","used for","Eating fresh, desserts, drinks, jams"],
+        ["Strawberry","material used","Not applicable (fruit)"],
+        ["Strawberry","has part","Seeds, green cap, flesh"],
+        ["Strawberry","color","Red with yellow seeds"],
+        ["Strawberry","part of","Berry plants, fruit bowls, desserts"],
+        ["Strawberry","manufacturer","Grown on farms"],
+        ["Strawberry","weight","10–20 grams"],
+        ["Strawberry","height","2–5 cm"]
+    ]
+}

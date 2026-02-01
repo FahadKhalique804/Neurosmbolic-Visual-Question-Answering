@@ -1,0 +1,13 @@
+{
+    "object": "Parrot",
+    "triplets": [
+        ["Parrot", "subclass of", "Tropical and subtropical bird known for intelligence, bright colors, and mimicry"],
+        ["Parrot", "used for", "Companionship, entertainment, research, and symbolic representation"],
+        ["Parrot", "material used", "Feathers, beak, bones, and flesh (though rarely eaten)"],
+        ["Parrot", "has part", "Beak, wings, colorful feathers, feet, and vocal organs"],
+        ["Parrot", "color", "Bright greens, reds, blues, yellows, and multi-colored patterns"],
+        ["Parrot", "part of", "Rainforest ecosystems, aviculture, and pet trade"],
+        ["Parrot", "manufacturer", "Not manufactured; bred in captivity or wild-caught (regulated)"],
+        ["Parrot", "lifespan", "20–80 years depending on species and care"]
+    ]
+}

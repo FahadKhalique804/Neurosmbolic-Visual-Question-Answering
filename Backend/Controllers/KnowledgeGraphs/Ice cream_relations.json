@@ -1,0 +1,45 @@
+{
+  "object": "Ice Cream",
+  "triplets": [
+    ["Ice Cream", 
+    "subclass of",
+     "Food"
+    ],
+    ["Ice Cream",
+     "has part",
+      "Cone, Scoop, Topping"
+    ],
+    ["Ice Cream",
+     "part of",
+     "Dessert"
+    ],
+    ["Ice Cream",
+     "used for", 
+     "Eating as a sweet treat"
+    ],
+    ["Ice Cream",
+     "material used", 
+     "Milk, Sugar, Cream, Flavorings"
+    ],
+    ["Ice Cream", 
+    "color",
+     "Varies: White, Brown, Pink, etc."
+    ],
+    ["Ice Cream",
+     "height",
+      "5 cm (typical scoop)"
+    ],
+    ["Ice Cream",
+     "weight",
+      "100 grams per serving"
+    ],
+    ["Ice Cream", 
+    "lifespan", 
+    "Few days if stored frozen"
+],
+    ["Ice Cream",
+    "manufacturer", 
+    "Ben & Jerry's, Häagen-Dazs, Local brands"
+]
+  ]
+}

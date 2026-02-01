@@ -1,0 +1,50 @@
+{
+    "object": "Slippers",
+    "triplets": [
+        [
+            "Slippers",
+            "subclass of",
+            "Soft footwear used indoors"
+        ],
+        [
+            "Slippers",
+            "used for",
+            "Comfort, protection, indoor walking"
+        ],
+        [
+            "Slippers",
+            "material used",
+            "Fabric, foam, rubber, cotton, leather"
+        ],
+        [
+            "Slippers",
+            "has part",
+            "Sole, strap or cover, padding"
+        ],
+        [
+            "Slippers",
+            "color",
+            "Varies"
+        ],
+        [
+            "Slippers",
+            "part of",
+            "Footwear category"
+        ],
+        [
+            "Slippers",
+            "manufacturer",
+            "Bata, Adidas, local brands"
+        ],
+        [
+            "Slippers",
+            "weight",
+            "100–300 grams per pair"
+        ],
+        [
+            "Slippers",
+            "height",
+            "5–12 cm"
+        ]
+    ]
+}

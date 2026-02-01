@@ -1,0 +1,55 @@
+{
+    "object": "Couch",
+    "triplets": [
+        [
+            "Couch",
+            "subclass of",
+            "Furniture designed for seating and lounging"
+        ],
+        [
+            "Couch",
+            "used for",
+            "Sitting, Lounging, Relaxation, Social seating"
+        ],
+        [
+            "Couch",
+            "material used",
+            "Fabric, Leather, Wood, Foam (for cushions)"
+        ],
+        [
+            "Couch",
+            "color",
+            "Varies depending on upholstery"
+        ],
+        [
+            "Couch",
+            "manufacturer",
+            "Various manufacturers"
+        ],
+        [
+            "Couch",
+            "has part",
+            "Cushions, Armrests, Backrest, Legs, Frame"
+        ],
+        [
+            "Couch",
+            "weight",
+            "Varies depending on size and materials"
+        ],
+        [
+            "Couch",
+            "height",
+            "0.7-1 meters (seat to floor), overall height varies"
+        ],
+        [
+            "Couch",
+            "part of",
+            "Living room furniture sets, Home interiors"
+        ],
+        [
+            "Couch",
+            "lifespan",
+            "10-20 years depending on use and material quality"
+        ]
+    ]
+}

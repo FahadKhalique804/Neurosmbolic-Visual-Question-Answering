@@ -1,0 +1,13 @@
+{
+    "object": "Other Fish",
+    "triplets": [
+        ["Other Fish", "subclass of", "Aquatic vertebrates with gills and fins, diverse in species"],
+        ["Other Fish", "used for", "Food, aquarium keeping, fishing sport, and ecological balance"],
+        ["Other Fish", "material used", "Flesh, scales, bones, and sometimes extracted oils or collagen"],
+        ["Other Fish", "has part", "Fins, gills, scales, eyes, and internal organs"],
+        ["Other Fish", "color", "Varies widely: silver, gold, striped, spotted, etc."],
+        ["Other Fish", "part of", "Aquatic ecosystems, fisheries, and seafood industry"],
+        ["Other Fish", "manufacturer", "Fisheries, aquaculture farms, and seafood suppliers"],
+        ["Other Fish", "lifespan", "Varies by species: from months to several decades"]
+    ]
+}

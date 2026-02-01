@@ -1,0 +1,55 @@
+{
+    "object": "Cow",
+    "triplets": [
+        [
+            "Cow",
+            "subclass of",
+            "Domesticated animal raised for agricultural purposes"
+        ],
+        [
+            "Cow",
+            "used for",
+            "Milk production, Farming, Leather, Meat (in some cultures)"
+        ],
+        [
+            "Cow",
+            "material used",
+            "Not applicable"
+        ],
+        [
+            "Cow",
+            "color",
+            "Varies (white, black, brown, spotted)"
+        ],
+        [
+            "Cow",
+            "manufacturer",
+            "Not applicable"
+        ],
+        [
+            "Cow",
+            "has part",
+            "Horns, Udder, Hooves, Tail, Ears, Eyes"
+        ],
+        [
+            "Cow",
+            "weight",
+            "500-800 kg depending on breed and age"
+        ],
+        [
+            "Cow",
+            "height",
+            "1.4-1.6 meters at the shoulder"
+        ],
+        [
+            "Cow",
+            "part of",
+            "Farms, Livestock systems"
+        ],
+        [
+            "Cow",
+            "lifespan",
+            "15-20 years depending on care and breed"
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "object": "Stapler",
+    "triplets": [
+        [
+            "Stapler",
+            "subclass of",
+            "Office tool for binding papers"
+        ],
+        [
+            "Stapler",
+            "used for",
+            "Stapling papers together"
+        ],
+        [
+            "Stapler",
+            "material used",
+            "Metal, plastic"
+        ],
+        [
+            "Stapler",
+            "has part",
+            "Base, handle, staple tray, anvil"
+        ],
+        [
+            "Stapler",
+            "color",
+            "Black, gray, varies"
+        ],
+        [
+            "Stapler",
+            "part of",
+            "Office supplies"
+        ],
+        [
+            "Stapler",
+            "manufacturer",
+            "Kangaro, Max, Swingline"
+        ],
+        [
+            "Stapler",
+            "weight",
+            "150–400 grams"
+        ],
+        [
+            "Stapler",
+            "height",
+            "5–7 cm"
+        ]
+    ]
+}

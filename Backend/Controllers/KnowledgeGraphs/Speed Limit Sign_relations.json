@@ -1,0 +1,50 @@
+{
+    "object": "Speed Limit Sign",
+    "triplets": [
+        [
+            "Speed Limit Sign",
+            "subclass of",
+            "Traffic regulatory sign"
+        ],
+        [
+            "Speed Limit Sign",
+            "used for",
+            "Indicating maximum legal driving speed"
+        ],
+        [
+            "Speed Limit Sign",
+            "material used",
+            "Aluminum plate, reflective coating"
+        ],
+        [
+            "Speed Limit Sign",
+            "has part",
+            "Signboard, pole, reflective paint"
+        ],
+        [
+            "Speed Limit Sign",
+            "color",
+            "White, black, red"
+        ],
+        [
+            "Speed Limit Sign",
+            "part of",
+            "Road traffic system"
+        ],
+        [
+            "Speed Limit Sign",
+            "manufacturer",
+            "Traffic sign manufacturing companies"
+        ],
+        [
+            "Speed Limit Sign",
+            "weight",
+            "2–10 kg"
+        ],
+        [
+            "Speed Limit Sign",
+            "height",
+            "60–90 cm (signboard)"
+        ]
+    ]
+}

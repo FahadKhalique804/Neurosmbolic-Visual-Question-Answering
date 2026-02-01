@@ -1,0 +1,55 @@
+{
+    "object": "Chips",
+    "triplets": [
+        [
+            "Chips",
+            "subclass of",
+            "Food, typically thinly sliced and fried or baked"
+        ],
+        [
+            "Chips",
+            "used for",
+            "Eating as snacks, Accompanying meals, Fast food side dishes"
+        ],
+        [
+            "Chips",
+            "material used",
+            "Potatoes, Oil, Salt, sometimes seasonings"
+        ],
+        [
+            "Chips",
+            "has part",
+            "Slices, Salt coating, Optional flavoring"
+        ],
+        [
+            "Chips",
+            "color",
+            "Golden Brown, varies with cooking method and flavor"
+        ],
+        [
+            "Chips",
+            "part of",
+            "Snack packs, Fast food meals, Party platters"
+        ],
+        [
+            "Chips",
+            "manufacturer",
+            "Various snack companies"
+        ],
+        [
+            "Chips",
+            "weight",
+            "Varies, typically 1–50 grams per serving"
+        ],
+        [
+            "Chips",
+            "height",
+            "Not applicable"
+        ],
+        [
+            "Chips",
+            "lifespan",
+            "Several weeks to months if packaged; 1–2 days if freshly made"
+        ]
+    ]
+}

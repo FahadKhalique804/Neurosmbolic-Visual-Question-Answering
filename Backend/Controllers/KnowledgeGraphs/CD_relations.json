@@ -1,0 +1,55 @@
+{
+    "object": "CD",
+    "triplets": [
+        [
+            "CD",
+            "subclass of",
+            "Optical storage media designed for storing digital data and audio information"
+        ],
+        [
+            "CD",
+            "used for",
+            "Storing digital data, music, software, and multimedia content for playback or backup"
+        ],
+        [
+            "CD",
+            "material used",
+            "Polycarbonate plastic disc with a reflective aluminum layer, protective lacquer coating, and printed label surface"
+        ],
+        [
+            "CD",
+            "has part",
+            "Data layer, protective layer, label surface, central hole"
+        ],
+        [
+            "CD",
+            "color",
+            "Silver, Black, Gold, or colored labels depending on design and manufacturer"
+        ],
+        [
+            "CD",
+            "part of",
+            "Media libraries, digital storage systems, audio collections, software distribution"
+        ],
+        [
+            "CD",
+            "manufacturer",
+            "Various manufacturers"
+        ],
+        [
+            "CD",
+            "weight",
+            "Approximately 15–20 grams"
+        ],
+        [
+            "CD",
+            "height",
+            "1.2 mm"
+        ],
+        [
+            "CD",
+            "lifespan",
+            "5–10 years depending on handling, storage conditions, and exposure to sunlight or scratches"
+        ]
+    ]
+}

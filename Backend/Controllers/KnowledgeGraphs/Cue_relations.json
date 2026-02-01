@@ -1,0 +1,55 @@
+{
+    "object": "Cue",
+    "triplets": [
+        [
+            "Cue",
+            "subclass of",
+            "Sports equipment designed for striking billiard balls in games such as pool, snooker, or carom"
+        ],
+        [
+            "Cue",
+            "used for",
+            "Playing billiards, guiding the cue ball, and making precise shots"
+        ],
+        [
+            "Cue",
+            "material used",
+            "Wood for the shaft, leather or synthetic tip, sometimes metal or fiberglass reinforcements"
+        ],
+        [
+            "Cue",
+            "has part",
+            "Shaft, Tip, Butt, Ferrule, Wrap"
+        ],
+        [
+            "Cue",
+            "color",
+            "Varies depending on design, wood type, and manufacturer"
+        ],
+        [
+            "Cue",
+            "part of",
+            "Billiards or snooker equipment sets, sports clubs, home game rooms"
+        ],
+        [
+            "Cue",
+            "manufacturer",
+            "Various manufacturers"
+        ],
+        [
+            "Cue",
+            "weight",
+            "Typically 480–600 grams depending on model and material"
+        ],
+        [
+            "Cue",
+            "height",
+            "Approximately 1.4–1.5 meters"
+        ],
+        [
+            "Cue",
+            "lifespan",
+            "5–20 years depending on usage, maintenance, and quality of materials"
+        ]
+    ]
+}

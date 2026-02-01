@@ -1,0 +1,50 @@
+{
+    "object": "Spoon",
+    "triplets": [
+        [
+            "Spoon",
+            "subclass of",
+            "Utensils used for eating and serving food"
+        ],
+        [
+            "Spoon",
+            "used for",
+            "Eating, stirring, serving"
+        ],
+        [
+            "Spoon",
+            "material used",
+            "Stainless steel, plastic, wood"
+        ],
+        [
+            "Spoon",
+            "has part",
+            "Handle, bowl"
+        ],
+        [
+            "Spoon",
+            "color",
+            "Silver, white, varies"
+        ],
+        [
+            "Spoon",
+            "part of",
+            "Cutlery set"
+        ],
+        [
+            "Spoon",
+            "manufacturer",
+            "Kitchenware brands"
+        ],
+        [
+            "Spoon",
+            "weight",
+            "10–40 grams"
+        ],
+        [
+            "Spoon",
+            "height",
+            "12–20 cm"
+        ]
+    ]
+}

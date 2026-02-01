@@ -1,0 +1,65 @@
+{
+    "object": "Barrel/bucket",
+    "triplets": [
+        [
+            "Barrel/bucket",
+            "subclass of",
+            "Container designed to hold liquids, granular materials, or other goods, available in various sizes and shapes"
+        ],
+        [
+            "Barrel/bucket",
+            "used for",
+            "Storing, transporting, and handling liquids, grains, chemicals, or other goods in domestic, industrial, or agricultural contexts"
+        ],
+        [
+            "Barrel/bucket",
+            "material used",
+            "Wood, plastic, metal, or composite materials depending on intended use and durability requirements"
+        ],
+        [
+            "Barrel/bucket",
+            "has part",
+            "Lid or cover to protect contents and prevent spillage"
+        ],
+        [
+            "Barrel/bucket",
+            "has part",
+            "Body or shell that forms the main container for holding materials"
+        ],
+        [
+            "Barrel/bucket",
+            "has part",
+            "Handles (optional) for easier carrying and transport"
+        ],
+        [
+            "Barrel/bucket",
+            "color",
+            "Varies depending on material and manufacturer; can be natural, painted, or color-coded for contents"
+        ],
+        [
+            "Barrel/bucket",
+            "part of",
+            "Storage systems, industrial and domestic supply chains, agricultural handling, and waste management"
+        ],
+        [
+            "Barrel/bucket",
+            "manufacturer",
+            "Various manufacturers specializing in containers for household, industrial, and agricultural use"
+        ],
+        [
+            "Barrel/bucket",
+            "weight",
+            "Varies depending on material, size, and whether empty or filled"
+        ],
+        [
+            "Barrel/bucket",
+            "height",
+            "Typically 30–100 cm depending on size and purpose"
+        ],
+        [
+            "Barrel/bucket",
+            "lifespan",
+            "Typically 2–20 years depending on material, usage conditions, and maintenance"
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "object": "Skiboard",
+    "triplets": [
+        [
+            "Skiboard",
+            "subclass of",
+            "Snow sport equipment similar to skis but shorter"
+        ],
+        [
+            "Skiboard",
+            "used for",
+            "Snow riding, performing tricks, recreational skiing"
+        ],
+        [
+            "Skiboard",
+            "material used",
+            "Wood core, fiberglass, metal edges, plastic base"
+        ],
+        [
+            "Skiboard",
+            "has part",
+            "Board, bindings, edges, base"
+        ],
+        [
+            "Skiboard",
+            "color",
+            "Varies"
+        ],
+        [
+            "Skiboard",
+            "part of",
+            "Snow sports equipment"
+        ],
+        [
+            "Skiboard",
+            "manufacturer",
+            "Salomon, Snowjam, Head, Atomic"
+        ],
+        [
+            "Skiboard",
+            "weight",
+            "1.5–3 kg per pair"
+        ],
+        [
+            "Skiboard",
+            "height",
+            "70–120 cm"
+        ]
+    ]
+}

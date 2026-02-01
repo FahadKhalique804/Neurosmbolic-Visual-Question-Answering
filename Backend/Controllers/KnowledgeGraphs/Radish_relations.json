@@ -1,0 +1,15 @@
+{
+    "object": "Radish",
+    "triplets": [
+        ["Radish", "subclass of", "Root vegetable with crisp texture and peppery flavor"],
+        ["Radish", "used for", "Salads, garnishes, pickling, and raw snacks"],
+        ["Radish", "material used", "Root, skin, leaves (sometimes edible), and flesh"],
+        ["Radish", "has part", "Root bulb, skin, leaves, and sometimes small roots"],
+        ["Radish", "color", "Red skin with white interior most common; also white, black, or purple"],
+        ["Radish", "part of", "Vegetable gardens, salads, and culinary garnishes"],
+        ["Radish", "manufacturer", "Farmers and vegetable growers"],
+        ["Radish", "weight", "Approximately 10–50 grams per radish"],
+        ["Radish", "diameter", "Approximately 2–5 cm"],
+        ["Radish", "lifespan", "1–2 weeks refrigerated; leaves wilt quickly"]
+    ]
+}

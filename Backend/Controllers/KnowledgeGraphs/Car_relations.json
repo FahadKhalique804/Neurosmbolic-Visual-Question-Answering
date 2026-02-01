@@ -1,0 +1,80 @@
+{
+    "object": "Car",
+    "triplets": [
+        [
+            "Car",
+            "subclass of",
+            "Motor vehicle designed for transporting passengers and small amounts of cargo on roads"
+        ],
+        [
+            "Car",
+            "used for",
+            "Personal transportation, commuting, travel, carrying small cargo, and emergency response in certain vehicles"
+        ],
+        [
+            "Car",
+            "material used",
+            "Steel or aluminum body, glass windows, rubber tires, plastic interior components, leather or fabric seats"
+        ],
+        [
+            "Car",
+            "has part",
+            "Engine"
+        ],
+        [
+            "Car",
+            "has part",
+            "Wheels and tires"
+        ],
+        [
+            "Car",
+            "has part",
+            "Chassis"
+        ],
+        [
+            "Car",
+            "has part",
+            "Doors"
+        ],
+        [
+            "Car",
+            "has part",
+            "Windows"
+        ],
+        [
+            "Car",
+            "has part",
+            "Seats"
+        ],
+        [
+            "Car",
+            "color",
+            "Varies widely: white, black, silver, red, blue, and custom colors"
+        ],
+        [
+            "Car",
+            "part of",
+            "Transportation systems, personal mobility solutions, automotive industry"
+        ],
+        [
+            "Car",
+            "manufacturer",
+            "Various automotive manufacturers worldwide"
+        ],
+        [
+            "Car",
+            "weight",
+            "Typically 800–2500 kg depending on model and type"
+        ],
+        [
+            "Car",
+            "height",
+            "1.2–1.8 meters depending on model"
+        ],
+        [
+            "Car",
+            "lifespan",
+            "10–20 years depending on maintenance and usage"
+        ]
+    ]
+}

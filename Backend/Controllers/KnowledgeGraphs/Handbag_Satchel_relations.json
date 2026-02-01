@@ -1,0 +1,55 @@
+{
+  "object": "Handbag",
+  "triplets": [
+    [
+      "Handbag",
+      "subclass of",
+      "Fashion accessory and personal storage item"
+    ],
+    [
+      "Handbag",
+      "has part",
+      "Main compartment, handles or strap, zipper, pockets"
+    ],
+    [
+      "Handbag",
+      "part of",
+      "Personal accessories and fashion items"
+    ],
+    [
+      "Handbag",
+      "used for",
+      "Carrying personal belongings"
+    ],
+    [
+      "Handbag",
+      "material used",
+      "Leather, fabric, synthetic materials"
+    ],
+    [
+      "Handbag",
+      "color",
+      "Black, brown, white, or various colors"
+    ],
+    [
+      "Handbag",
+      "height",
+      "20 to 35 centimeters"
+    ],
+    [
+      "Handbag",
+      "weight",
+      "500 grams to 2 kilograms"
+    ],
+    [
+      "Handbag",
+      "lifespan",
+      "3 to 10 years"
+    ],
+    [
+      "Handbag",
+      "manufacturer",
+      "Fashion and accessory brands"
+    ]
+  ]
+}

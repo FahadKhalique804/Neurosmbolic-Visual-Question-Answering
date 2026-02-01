@@ -1,0 +1,45 @@
+{
+  "object": "Jug",
+  "triplets": [
+    ["Jug",
+     "subclass of",
+      "Container"
+    ],
+    ["Jug",
+     "has part",
+      "Body, Handle, Spout, Lid"
+    ],
+    ["Jug",
+     "part of",
+      "Kitchenware"
+    ],
+    ["Jug",
+     "used for", 
+     "Storing and pouring liquids"
+    ],
+    ["Jug", 
+    "material used",
+     "Plastic, Glass, Stainless steel, Ceramic"
+    ],
+    ["Jug", 
+    "color",
+     "Transparent, White, Blue, Red"
+    ],
+    ["Jug",
+     "height",
+      "15-25 cm"
+    ],
+    ["Jug",
+     "weight",
+      "0.5-1 kg"
+    ],
+    ["Jug",
+     "lifespan",
+      "2-10 years depending on material"
+    ],
+    ["Jug",
+     "manufacturer", 
+     "Tupperware, Lock & Lock, Local brands"
+    ]
+  ]
+}

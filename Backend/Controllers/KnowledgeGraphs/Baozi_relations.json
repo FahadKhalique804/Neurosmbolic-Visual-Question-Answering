@@ -1,0 +1,60 @@
+{
+    "object": "Baozi",
+    "triplets": [
+        [
+            "Baozi",
+            "subclass of",
+            "Steamed filled bun originating from Chinese cuisine, classified as a type of food"
+        ],
+        [
+            "Baozi",
+            "used for",
+            "Eating as a snack, breakfast item, or part of a meal"
+        ],
+        [
+            "Baozi",
+            "material used",
+            "Wheat flour dough for the bun exterior and various fillings such as meat, vegetables, or sweet pastes"
+        ],
+        [
+            "Baozi",
+            "has part",
+            "Dough that forms the outer bun and holds the filling inside"
+        ],
+        [
+            "Baozi",
+            "has part",
+            "Filling made from meat, vegetables, or sweet ingredients depending on the type"
+        ],
+        [
+            "Baozi",
+            "color",
+            "Typically white due to steamed dough, sometimes slightly yellowish or brown depending on ingredients or baking variations"
+        ],
+        [
+            "Baozi",
+            "part of",
+            "Chinese cuisine, dim sum menus, street food offerings, and snack culture"
+        ],
+        [
+            "Baozi",
+            "manufacturer",
+            "Various restaurants, street vendors, and commercial food producers specializing in steamed buns"
+        ],
+        [
+            "Baozi",
+            "weight",
+            "Approximately 50–150 grams per piece depending on size and filling"
+        ],
+        [
+            "Baozi",
+            "height",
+            "Approximately 5–8 cm, varying with type and preparation"
+        ],
+        [
+            "Baozi",
+            "lifespan",
+            "Short-lived; typically consumed fresh within a few hours after steaming, or up to 1–2 days if refrigerated and reheated"
+        ]
+    ]
+}

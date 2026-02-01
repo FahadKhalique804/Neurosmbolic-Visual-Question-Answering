@@ -1,0 +1,55 @@
+{
+  "object": "Dining Table",
+  "triplets": [
+    [
+      "Dining Table",
+      "subclass of",
+      "Household furniture designed for dining purposes"
+    ],
+    [
+      "Dining Table",
+      "has part",
+      "Tabletop, supporting legs, joints, and sometimes drawers or extensions"
+    ],
+    [
+      "Dining Table",
+      "part of",
+      "Dining room or kitchen furniture arrangement"
+    ],
+    [
+      "Dining Table",
+      "used for",
+      "Placing food and eating meals with family or guests"
+    ],
+    [
+      "Dining Table",
+      "material used",
+      "Solid wood, engineered wood, glass, or metal frames"
+    ],
+    [
+      "Dining Table",
+      "color",
+      "Brown, white, black, or natural wood finish"
+    ],
+    [
+      "Dining Table",
+      "height",
+      "Approximately 75 centimeters standard height"
+    ],
+    [
+      "Dining Table",
+      "weight",
+      "Ranges from 40 to 100 kilograms depending on size"
+    ],
+    [
+      "Dining Table",
+      "lifespan",
+      "15 to 30 years with proper care"
+    ],
+    [
+      "Dining Table",
+      "manufacturer",
+      "Furniture manufacturing and carpentry companies"
+    ]
+  ]
+}

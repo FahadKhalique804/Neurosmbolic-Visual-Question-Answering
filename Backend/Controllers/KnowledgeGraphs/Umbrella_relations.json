@@ -1,0 +1,13 @@
+{
+  "object": "Umbrella",
+  "triplets": [
+    ["Umbrella", "subclass of", "weather protection item"],
+    ["Umbrella", "used for", "shielding from rain or sunlight"],
+    ["Umbrella", "material used", "fabric, metal, plastic"],
+    ["Umbrella", "has part", "canopy, ribs, handle"],
+    ["Umbrella", "part of", "personal accessories"],
+    ["Umbrella", "manufacturer", "Totes, Senz, Samsonite"],
+    ["Umbrella", "weight", "0.3–0.7 kg"],
+    ["Umbrella", "height", "60–100 cm"]
+  ]
+}

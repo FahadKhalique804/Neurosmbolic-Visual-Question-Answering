@@ -1,0 +1,13 @@
+{
+    "object": "Traffic Light",
+    "triplets": [
+        ["Traffic Light", "subclass of", "road signaling device"],
+        ["Traffic Light", "used for", "Controlling intersection traffic"],
+        ["Traffic Light", "material used", "Metal housing, LEDs, wiring"],
+        ["Traffic Light", "has part", "Red, yellow, green lights, controller"],
+        ["Traffic Light", "part of", "Traffic control system"],
+        ["Traffic Light", "manufacturer", "Various companies"],
+        ["Traffic Light", "weight", "10–25 kg"],
+        ["Traffic Light", "height", "2–4 m including pole"]
+    ]
+}

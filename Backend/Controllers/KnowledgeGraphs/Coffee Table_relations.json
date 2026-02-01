@@ -1,0 +1,60 @@
+{
+    "object": "Coffee Table",
+    "triplets": [
+        [
+            "Coffee Table",
+            "subclass of",
+            "Furniture designed for living rooms to hold items such as books, drinks, and decorations"
+        ],
+        [
+            "Coffee Table",
+            "used for",
+            "Holding items like beverages, magazines, decorative objects, and providing a centerpiece in living rooms"
+        ],
+        [
+            "Coffee Table",
+            "material used",
+            "Wood, Metal, Glass depending on design and style"
+        ],
+        [
+            "Coffee Table",
+            "has part",
+            "Tabletop, Legs, Optional drawers or shelves depending on design"
+        ],
+        [
+            "Coffee Table",
+            "color",
+            "Varies depending on material and finish"
+        ],
+        [
+            "Coffee Table",
+            "part of",
+            "Living room furniture sets, Interior decor"
+        ],
+        [
+            "Coffee Table",
+            "manufacturer",
+            "Various manufacturers"
+        ],
+        [
+            "Coffee Table",
+            "shape",
+            "Rectangular, Round, Square, or other custom shapes"
+        ],
+        [
+            "Coffee Table",
+            "weight",
+            "Varies depending on material and size"
+        ],
+        [
+            "Coffee Table",
+            "height",
+            "Varies (typically 40-50 cm)"
+        ],
+        [
+            "Coffee Table",
+            "lifespan",
+            "Not applicable"
+        ]
+    ]
+}

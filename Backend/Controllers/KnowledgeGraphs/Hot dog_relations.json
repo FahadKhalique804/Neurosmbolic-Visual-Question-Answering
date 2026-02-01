@@ -1,0 +1,45 @@
+{
+  "object": "Hot Dog",
+  "triplets": [
+    ["Hot Dog", 
+    "subclass of",
+     "Food"
+    ],
+    ["Hot Dog",
+     "has part",
+      "Bun, Sausage, Condiments"
+    ],
+    ["Hot Dog",
+     "part of", 
+     "Meal, Fast Food"
+    ],
+    ["Hot Dog",
+     "used for",
+      "Eating, Snack"
+    ],
+    ["Hot Dog",
+     "material used",
+      "Wheat Flour, Meat, Spices"
+    ],
+    ["Hot Dog",
+     "color", 
+     "Brown, Yellow, Red"
+    ],
+    ["Hot Dog",
+     "height",
+      "0.1 m"
+    ],
+    ["Hot Dog",
+     "weight",
+      "0.15 kg"
+    ],
+    ["Hot Dog", 
+    "lifespan", 
+    "1 day (fresh)"
+],
+    ["Hot Dog",
+     "manufacturer", 
+     "Oscar Mayer, Ball Park, Nathan's"
+    ]
+  ]
+}

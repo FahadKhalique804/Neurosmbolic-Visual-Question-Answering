@@ -1,0 +1,55 @@
+{
+    "object": "Cheese",
+    "triplets": [
+        [
+            "Cheese",
+            "subclass of",
+            "Food made from milk, often fermented or aged"
+        ],
+        [
+            "Cheese",
+            "used for",
+            "Eating, Cooking, Topping dishes"
+        ],
+        [
+            "Cheese",
+            "material used",
+            "Milk, Salt, Enzymes, Bacterial cultures"
+        ],
+        [
+            "Cheese",
+            "has part",
+            "Rind, Paste, Sometimes veins or holes depending on type"
+        ],
+        [
+            "Cheese",
+            "color",
+            "Varies depending on type: white, yellow, orange"
+        ],
+        [
+            "Cheese",
+            "part of",
+            "Dairy products, Meals, Snacks"
+        ],
+        [
+            "Cheese",
+            "manufacturer",
+            "Various dairies and cheese producers"
+        ],
+        [
+            "Cheese",
+            "weight",
+            "0.2–2 kg depending on type and size"
+        ],
+        [
+            "Cheese",
+            "height",
+            "Varies depending on type"
+        ],
+        [
+            "Cheese",
+            "lifespan",
+            "Varies: typically 1 week to several months depending on storage"
+        ]
+    ]
+}

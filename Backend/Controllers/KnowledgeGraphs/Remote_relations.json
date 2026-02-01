@@ -1,0 +1,15 @@
+{
+    "object": "Remote",
+    "triplets": [
+        ["Remote", "subclass of", "Handheld device for wirelessly controlling electronic equipment"],
+        ["Remote", "used for", "Controlling TVs, audio systems, air conditioners, and other devices"],
+        ["Remote", "material used", "Plastic, electronic circuits, buttons, infrared/LED emitter, batteries"],
+        ["Remote", "has part", "Buttons, battery compartment, circuit board, and infrared/bluetooth transmitter"],
+        ["Remote", "color", "Typically black, silver, or dark gray"],
+        ["Remote", "part of", "Home entertainment systems, smart home devices, and electronics"],
+        ["Remote", "manufacturer", "Electronics companies like Samsung, Sony, Logitech, etc."],
+        ["Remote", "length", "Approximately 15–20 cm"],
+        ["Remote", "weight", "Approximately 100–200 grams with batteries"],
+        ["Remote", "lifespan", "Several years; batteries need periodic replacement"]
+    ]
+}

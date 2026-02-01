@@ -1,0 +1,50 @@
+{
+    "object": "Steak",
+    "triplets": [
+        [
+            "Steak",
+            "subclass of",
+            "Cut of meat"
+        ],
+        [
+            "Steak",
+            "used for",
+            "Eating as food"
+        ],
+        [
+            "Steak",
+            "material used",
+            "Beef or other meat"
+        ],
+        [
+            "Steak",
+            "has part",
+            "Muscle fibers, fat (marbling)"
+        ],
+        [
+            "Steak",
+            "color",
+            "Red (raw), brown (cooked)"
+        ],
+        [
+            "Steak",
+            "part of",
+            "Meals, cuisine dishes"
+        ],
+        [
+            "Steak",
+            "manufacturer",
+            "Butchers, meat companies"
+        ],
+        [
+            "Steak",
+            "weight",
+            "150–400 grams"
+        ],
+        [
+            "Steak",
+            "height",
+            "2–4 cm thickness"
+        ]
+    ]
+}

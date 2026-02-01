@@ -1,0 +1,55 @@
+{
+    "object": "Cherry",
+    "triplets": [
+        [
+            "Cherry",
+            "subclass of",
+            "Fruit, small and typically red or dark-colored"
+        ],
+        [
+            "Cherry",
+            "used for",
+            "Eating fresh, Desserts, Cooking, Garnishing drinks"
+        ],
+        [
+            "Cherry",
+            "material used",
+            "Fruit, natural plant matter"
+        ],
+        [
+            "Cherry",
+            "has part",
+            "Skin, Pulp, Pit (seed), Stem"
+        ],
+        [
+            "Cherry",
+            "color",
+            "Red, Dark red, Yellowish depending on variety"
+        ],
+        [
+            "Cherry",
+            "part of",
+            "Fruit baskets, Orchard crops, Desserts"
+        ],
+        [
+            "Cherry",
+            "manufacturer",
+            "Various farmers and orchards"
+        ],
+        [
+            "Cherry",
+            "weight",
+            "5–10 grams per fruit"
+        ],
+        [
+            "Cherry",
+            "height",
+            "Varies (on tree)"
+        ],
+        [
+            "Cherry",
+            "lifespan",
+            "3–7 days after harvest if fresh, longer if preserved"
+        ]
+    ]
+}

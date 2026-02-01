@@ -1,0 +1,55 @@
+{
+    "object": "Cell Phone",
+    "triplets": [
+        [
+            "Cell Phone",
+            "subclass of",
+            "Portable electronic device designed for wireless communication and multimedia functionality"
+        ],
+        [
+            "Cell Phone",
+            "used for",
+            "Making phone calls, sending messages, internet browsing, taking photos and videos, gaming, and running mobile applications"
+        ],
+        [
+            "Cell Phone",
+            "material used",
+            "Outer casing of metal, plastic, or glass; internal components including battery, circuit boards, camera modules, display screens, and sensors"
+        ],
+        [
+            "Cell Phone",
+            "has part",
+            "Display screen, battery, camera, speakers, microphone, buttons, SIM card slot, processor, antenna"
+        ],
+        [
+            "Cell Phone",
+            "color",
+            "Varies: Black, White, Silver, Gold, Blue, Red, and other manufacturer-specific colors"
+        ],
+        [
+            "Cell Phone",
+            "part of",
+            "Personal electronics, mobile communication networks, smartphones ecosystem"
+        ],
+        [
+            "Cell Phone",
+            "manufacturer",
+            "Various manufacturers"
+        ],
+        [
+            "Cell Phone",
+            "weight",
+            "Approximately 150–250 grams depending on model"
+        ],
+        [
+            "Cell Phone",
+            "height",
+            "Approximately 0.7–1 cm thickness; other dimensions vary by model"
+        ],
+        [
+            "Cell Phone",
+            "lifespan",
+            "2–5 years depending on usage, battery life, and software support"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "object": "Medal",
+    "triplets": [
+        ["Medal", "subclass of", "Award object recognizing achievement"],
+        ["Medal", "used for", "Honoring excellence in sports, military, or academics"],
+        ["Medal", "material used", "Metal such as gold, silver, or bronze"],
+        ["Medal", "has part", "Engraved medallion"],
+        ["Medal", "has part", "Ribbon or chain"],
+        ["Medal", "color", "Gold, silver, or bronze"],
+        ["Medal", "part of", "Award and recognition systems"],
+        ["Medal", "manufacturer", "Minting and award manufacturers"],
+        ["Medal", "weight", "50–200 grams"],
+        ["Medal", "lifespan", "Indefinite with proper care"]
+    ]
+}

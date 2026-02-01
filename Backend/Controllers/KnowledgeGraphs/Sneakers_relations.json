@@ -1,0 +1,50 @@
+{
+    "object": "Sneakers",
+    "triplets": [
+        [
+            "Sneakers",
+            "subclass of",
+            "Sports and casual footwear"
+        ],
+        [
+            "Sneakers",
+            "used for",
+            "Walking, running, casual wear, sports"
+        ],
+        [
+            "Sneakers",
+            "material used",
+            "Fabric, mesh, rubber sole, foam cushioning, leather or synthetic overlays"
+        ],
+        [
+            "Sneakers",
+            "has part",
+            "Sole, laces, upper, tongue, heel support"
+        ],
+        [
+            "Sneakers",
+            "color",
+            "Varies"
+        ],
+        [
+            "Sneakers",
+            "part of",
+            "Footwear, sportswear"
+        ],
+        [
+            "Sneakers",
+            "manufacturer",
+            "Nike, Adidas, Puma, Reebok, Converse"
+        ],
+        [
+            "Sneakers",
+            "weight",
+            "300–600 grams per pair"
+        ],
+        [
+            "Sneakers",
+            "height",
+            "10–16 cm"
+        ]
+    ]
+}

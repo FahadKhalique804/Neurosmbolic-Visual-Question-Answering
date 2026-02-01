@@ -1,0 +1,55 @@
+{
+  "object": "Earphone",
+  "triplets": [
+    [
+      "Earphone",
+      "subclass of",
+      "Personal audio listening device"
+    ],
+    [
+      "Earphone",
+      "has part",
+      "Earbuds, speaker drivers, wire or wireless module, microphone"
+    ],
+    [
+      "Earphone",
+      "part of",
+      "Audio and communication accessories"
+    ],
+    [
+      "Earphone",
+      "used for",
+      "Listening to music, calls, and multimedia privately"
+    ],
+    [
+      "Earphone",
+      "material used",
+      "Plastic casing, metal mesh, copper wiring, rubber coating"
+    ],
+    [
+      "Earphone",
+      "color",
+      "Black, white, or various custom colors"
+    ],
+    [
+      "Earphone",
+      "height",
+      "Approximately 2 to 4 centimeters per earbud"
+    ],
+    [
+      "Earphone",
+      "weight",
+      "20 to 50 grams including cable or charging case"
+    ],
+    [
+      "Earphone",
+      "lifespan",
+      "2 to 5 years depending on usage and build quality"
+    ],
+    [
+      "Earphone",
+      "manufacturer",
+      "Consumer electronics manufacturing companies"
+    ]
+  ]
+}

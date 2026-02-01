@@ -1,0 +1,45 @@
+{
+  "object": "Induction Cooker",
+  "triplets": [
+    ["Induction Cooker", 
+    "subclass of",
+     "Cooker"
+    ],
+    ["Induction Cooker", 
+    "has part", 
+    "Cooktop, Control panel, Power cord"
+],
+    ["Induction Cooker", 
+    "part of",
+     "Kitchen appliance"
+    ],
+    ["Induction Cooker", 
+    "used for", 
+    "Cooking food using induction heating"
+],
+    ["Induction Cooker",
+     "material used",
+      "Stainless steel, Glass, Plastic, Copper coil"
+    ],
+    ["Induction Cooker",
+     "color",
+     "Black, Silver"
+    ],
+    ["Induction Cooker",
+     "height",
+      "7 cm"
+    ],
+    ["Induction Cooker",
+     "weight",
+      "3-5 kg"
+    ],
+    ["Induction Cooker", 
+    "lifespan", 
+    "5-10 years"
+],
+    ["Induction Cooker",
+     "manufacturer",
+      "Philips, Prestige, Bajaj"
+    ]
+  ]
+}

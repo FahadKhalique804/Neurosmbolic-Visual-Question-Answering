@@ -1,0 +1,55 @@
+{
+  "object": "Green Vegetables",
+  "triplets": [
+    [
+      "Green Vegetables",
+      "subclass of",
+      "Edible plant-based food category"
+    ],
+    [
+      "Green Vegetables",
+      "has part",
+      "Leaves, stems, roots, or pods depending on type"
+    ],
+    [
+      "Green Vegetables",
+      "part of",
+      "Human diet and nutrition system"
+    ],
+    [
+      "Green Vegetables",
+      "used for",
+      "Providing nutrition, vitamins, and minerals"
+    ],
+    [
+      "Green Vegetables",
+      "material used",
+      "Organic plant matter"
+    ],
+    [
+      "Green Vegetables",
+      "color",
+      "Various shades of green"
+    ],
+    [
+      "Green Vegetables",
+      "height",
+      "Varies depending on vegetable type"
+    ],
+    [
+      "Green Vegetables",
+      "weight",
+      "Varies depending on vegetable type"
+    ],
+    [
+      "Green Vegetables",
+      "lifespan",
+      "Few days to several weeks when stored properly"
+    ],
+    [
+      "Green Vegetables",
+      "manufacturer",
+      "Agricultural farms and plant growers"
+    ]
+  ]
+}

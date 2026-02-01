@@ -1,0 +1,15 @@
+{
+    "object": "Marker",
+    "triplets": [
+        ["Marker", "subclass of", "Writing and drawing instrument using ink"],
+        ["Marker", "used for", "Writing, drawing, labeling, and highlighting"],
+        ["Marker", "material used", "Plastic body, ink, felt tip"],
+        ["Marker", "has part", "Ink reservoir"],
+        ["Marker", "has part", "Felt or fiber tip"],
+        ["Marker", "color", "Various ink colors"],
+        ["Marker", "part of", "Stationery and office supplies"],
+        ["Marker", "manufacturer", "Stationery manufacturers"],
+        ["Marker", "weight", "10–20 grams"],
+        ["Marker", "lifespan", "Months to years depending on usage"]
+    ]
+}

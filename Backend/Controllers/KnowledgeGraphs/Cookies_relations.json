@@ -1,0 +1,70 @@
+{
+    "object": "Cookies",
+    "triplets": [
+        [
+            "Cookies",
+            "subclass of",
+            "Food item typically baked from flour, sugar, butter, and other ingredients"
+        ],
+        [
+            "Cookies",
+            "used for",
+            "Eating as snacks or desserts"
+        ],
+        [
+            "Cookies",
+            "material used",
+            "Flour, Sugar, Butter, Eggs, Chocolate, and other ingredients depending on type"
+        ],
+        [
+            "Cookies",
+            "has type",
+            "Chocolate chip, Sugar cookies, Oatmeal cookies, Butter cookies"
+        ],
+        [
+            "Cookies",
+            "taste",
+            "Sweet"
+        ],
+        [
+            "Cookies",
+            "color",
+            "Brown, varies with ingredients"
+        ],
+        [
+            "Cookies",
+            "manufacturer",
+            "Various bakeries and manufacturers"
+        ],
+        [
+            "Cookies",
+            "origin",
+            "Various cultures"
+        ],
+        [
+            "Cookies",
+            "stored in",
+            "Cookie jar, Packet, Box"
+        ],
+        [
+            "Cookies",
+            "shape",
+            "Round, Square, or other shapes depending on type"
+        ],
+        [
+            "Cookies",
+            "weight",
+            "Not applicable"
+        ],
+        [
+            "Cookies",
+            "height",
+            "Not applicable"
+        ],
+        [
+            "Cookies",
+            "part of",
+            "Not applicable"
+        ]
+    ]
+}

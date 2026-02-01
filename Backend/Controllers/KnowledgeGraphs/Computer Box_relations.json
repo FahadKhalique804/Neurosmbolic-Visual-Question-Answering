@@ -1,0 +1,60 @@
+{
+    "object": "Computer Box",
+    "triplets": [
+        [
+            "Computer Box",
+            "subclass of",
+            "Electronics enclosure designed to house computer hardware components"
+        ],
+        [
+            "Computer Box",
+            "used for",
+            "Protecting and organizing computer components such as motherboard, CPU, GPU, storage, and power supply"
+        ],
+        [
+            "Computer Box",
+            "material used",
+            "Metal, Plastic, Glass (sometimes tempered) depending on model and design"
+        ],
+        [
+            "Computer Box",
+            "has part",
+            "Slots, Panels, Case Fans, Front I/O Ports, Drive Bays"
+        ],
+        [
+            "Computer Box",
+            "color",
+            "Varies depending on model and manufacturer"
+        ],
+        [
+            "Computer Box",
+            "part of",
+            "Desktop computer systems"
+        ],
+        [
+            "Computer Box",
+            "manufacturer",
+            "Various manufacturers"
+        ],
+        [
+            "Computer Box",
+            "shape",
+            "Rectangular"
+        ],
+        [
+            "Computer Box",
+            "weight",
+            "Varies depending on size and material"
+        ],
+        [
+            "Computer Box",
+            "height",
+            "Not applicable"
+        ],
+        [
+            "Computer Box",
+            "lifespan",
+            "Not applicable"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+  "object": "Drum",
+  "triplets": [
+    [
+      "Drum",
+      "subclass of",
+      "Percussion musical instrument"
+    ],
+    [
+      "Drum",
+      "has part",
+      "Drumhead, shell, tuning lugs"
+    ],
+    [
+      "Drum",
+      "part of",
+      "Musical band and rhythm section"
+    ],
+    [
+      "Drum",
+      "used for",
+      "Producing rhythm and beats in music"
+    ],
+    [
+      "Drum",
+      "material used",
+      "Wood, metal shell, synthetic or animal skin head"
+    ],
+    [
+      "Drum",
+      "color",
+      "Various depending on design"
+    ],
+    [
+      "Drum",
+      "height",
+      "40 to 60 centimeters"
+    ],
+    [
+      "Drum",
+      "weight",
+      "5 to 20 kilograms"
+    ],
+    [
+      "Drum",
+      "lifespan",
+      "10 to 25 years"
+    ],
+    [
+      "Drum",
+      "manufacturer",
+      "Musical instrument manufacturers"
+    ]
+  ]
+}

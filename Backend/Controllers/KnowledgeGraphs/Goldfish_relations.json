@@ -1,0 +1,55 @@
+{
+  "object": "Goldfish",
+  "triplets": [
+    [
+      "Goldfish",
+      "subclass of",
+      "Freshwater ornamental fish"
+    ],
+    [
+      "Goldfish",
+      "has part",
+      "Fins, scales, gills, tail, eyes"
+    ],
+    [
+      "Goldfish",
+      "part of",
+      "Aquatic ecosystem and pet category"
+    ],
+    [
+      "Goldfish",
+      "used for",
+      "Pet keeping and ornamental display"
+    ],
+    [
+      "Goldfish",
+      "material used",
+      "Living biological tissues"
+    ],
+    [
+      "Goldfish",
+      "color",
+      "Orange, gold, white, or patterned"
+    ],
+    [
+      "Goldfish",
+      "height",
+      "5 to 15 centimeters"
+    ],
+    [
+      "Goldfish",
+      "weight",
+      "30 to 300 grams"
+    ],
+    [
+      "Goldfish",
+      "lifespan",
+      "10 to 20 years with proper care"
+    ],
+    [
+      "Goldfish",
+      "manufacturer",
+      "Naturally bred by fish breeders"
+    ]
+  ]
+}

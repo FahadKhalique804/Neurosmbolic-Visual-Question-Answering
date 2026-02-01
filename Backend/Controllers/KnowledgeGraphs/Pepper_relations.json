@@ -1,0 +1,14 @@
+{
+    "object": "Pepper",
+    "triplets": [
+        ["Pepper", "subclass of", "Spice or vegetable from the Capsicum genus, ranging from sweet to spicy"],
+        ["Pepper", "used for", "Seasoning food, adding heat to dishes, salads, sauces, and pickling"],
+        ["Pepper", "material used", "Flesh, seeds, membrane, and sometimes dried and ground into powder"],
+        ["Pepper", "has part", "Outer skin, seeds, stem, and inner placenta (where capsaicin is concentrated)"],
+        ["Pepper", "color", "Green, red, yellow, orange, or purple depending on variety and ripeness"],
+        ["Pepper", "part of", "Culinary traditions worldwide, gardens, and agricultural markets"],
+        ["Pepper", "manufacturer", "Farmers, spice companies, and food processors"],
+        ["Pepper", "weight", "Approximately 10–200g per pepper depending on type"],
+        ["Pepper", "lifespan", "Fresh: 1–2 weeks refrigerated; dried: months to years"]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "object": "Speaker",
+    "triplets": [
+        [
+            "Speaker",
+            "subclass of",
+            "Audio output device"
+        ],
+        [
+            "Speaker",
+            "used for",
+            "Playing sound, music, voice output"
+        ],
+        [
+            "Speaker",
+            "material used",
+            "Plastic, metal, magnets, electronic components"
+        ],
+        [
+            "Speaker",
+            "has part",
+            "Driver, cone, coil, magnet, enclosure"
+        ],
+        [
+            "Speaker",
+            "color",
+            "Black, white, varies"
+        ],
+        [
+            "Speaker",
+            "part of",
+            "Audio systems, computers, home theaters"
+        ],
+        [
+            "Speaker",
+            "manufacturer",
+            "Sony, JBL, Bose, Logitech"
+        ],
+        [
+            "Speaker",
+            "weight",
+            "200 g – 10 kg depending on type"
+        ],
+        [
+            "Speaker",
+            "height",
+            "10–40 cm"
+        ]
+    ]
+}

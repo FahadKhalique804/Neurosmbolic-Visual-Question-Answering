@@ -1,0 +1,55 @@
+{
+  "object": "Fan",
+  "triplets": [
+    [
+      "Fan",
+      "subclass of",
+      "Electrical appliance used for air circulation"
+    ],
+    [
+      "Fan",
+      "has part",
+      "Blades, motor, protective grill, control switch"
+    ],
+    [
+      "Fan",
+      "part of",
+      "Home and office cooling system"
+    ],
+    [
+      "Fan",
+      "used for",
+      "Circulating air to provide cooling and ventilation"
+    ],
+    [
+      "Fan",
+      "material used",
+      "Metal or plastic blades, electric motor, wiring"
+    ],
+    [
+      "Fan",
+      "color",
+      "White, black, or metallic shades"
+    ],
+    [
+      "Fan",
+      "height",
+      "40 to 140 centimeters depending on type"
+    ],
+    [
+      "Fan",
+      "weight",
+      "3 to 10 kilograms"
+    ],
+    [
+      "Fan",
+      "lifespan",
+      "8 to 15 years with regular maintenance"
+    ],
+    [
+      "Fan",
+      "manufacturer",
+      "Electrical appliance manufacturing companies"
+    ]
+  ]
+}

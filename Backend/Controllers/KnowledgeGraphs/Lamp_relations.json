@@ -1,0 +1,45 @@
+{
+  "object": "Lamp",
+  "triplets": [
+    ["Lamp",
+     "subclass of",
+      "Lighting Equipment"
+    ],
+    ["Lamp", 
+    "has part",
+     "Bulb, Shade, Base, Switch, Cord"
+    ],
+    ["Lamp", 
+    "part of",
+     "Home or Office Furniture"
+    ],
+    ["Lamp",
+     "used for", 
+     "Illumination"
+    ],
+    ["Lamp",
+     "material used",
+      "Metal, Glass, Plastic, Fabric"
+    ],
+    ["Lamp",
+     "color",
+      "White, Black, Multicolor"
+    ],
+    ["Lamp",
+     "height",
+      "15-60 cm"
+    ],
+    ["Lamp", 
+    "weight", 
+    "1-5 kg"
+],
+    ["Lamp",
+     "lifespan", 
+     "5-10 years"
+    ],
+    ["Lamp",
+     "manufacturer",
+      "Philips, IKEA, Local brands"
+    ]
+  ]
+}

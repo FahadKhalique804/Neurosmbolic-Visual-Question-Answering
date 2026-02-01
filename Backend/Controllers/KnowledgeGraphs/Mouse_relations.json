@@ -1,0 +1,15 @@
+{
+    "object": "Mouse",
+    "triplets": [
+        ["Mouse", "subclass of", "Computer input device"],
+        ["Mouse", "used for", "Cursor control and interaction with computers"],
+        ["Mouse", "material used", "Plastic casing and electronic sensors"],
+        ["Mouse", "has part", "Buttons for clicking"],
+        ["Mouse", "has part", "Optical or laser sensor"],
+        ["Mouse", "color", "Black, white, or colored"],
+        ["Mouse", "part of", "Computer peripherals"],
+        ["Mouse", "manufacturer", "Electronics manufacturers"],
+        ["Mouse", "weight", "80–150 grams"],
+        ["Mouse", "lifespan", "3–7 years"]
+    ]
+}

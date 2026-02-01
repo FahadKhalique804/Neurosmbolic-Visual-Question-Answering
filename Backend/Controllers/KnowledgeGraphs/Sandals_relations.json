@@ -1,0 +1,15 @@
+{
+    "object": "Sandals",
+    "triplets": [
+        ["Sandals", "subclass of", "Open-toe footwear consisting of a sole held to the foot by straps"],
+        ["Sandals", "used for", "Casual wear, warm weather, beach activities, indoor use, and fashion"],
+        ["Sandals", "material used", "Leather, rubber, synthetic materials, foam, fabric, and plastic"],
+        ["Sandals", "has part", "Sole, straps, buckle/closure, footbed, and sometimes heel"],
+        ["Sandals", "color", "Brown, black, white, or various colors and patterns"],
+        ["Sandals", "part of", "Summer footwear, casual fashion, and beachwear"],
+        ["Sandals", "manufacturer", "Footwear brands like Birkenstock, Teva, Nike, Adidas, and local manufacturers"],
+        ["Sandals", "weight", "Approximately 200–500 grams per sandal"],
+        ["Sandals", "sole thickness", "Typically 1–3 cm depending on style"],
+        ["Sandals", "lifespan", "1–5 years depending on material and frequency of use"]
+    ]
+}

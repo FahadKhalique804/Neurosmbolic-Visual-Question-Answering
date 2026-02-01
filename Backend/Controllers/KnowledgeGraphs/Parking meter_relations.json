@@ -1,0 +1,13 @@
+{
+    "object": "Parking meter",
+    "triplets": [
+        ["Parking meter", "subclass of", "Device used to collect payment for parking in a timed space"],
+        ["Parking meter", "used for", "Regulating parking duration, generating municipal revenue, and managing parking demand"],
+        ["Parking meter", "material used", "Metal, plastic, solar panels, electronic components, and coin mechanisms"],
+        ["Parking meter", "has part", "Coin slot, digital display, timer, payment reader, and sometimes solar panel"],
+        ["Parking meter", "color", "Typically gray, black, or silver; sometimes painted for visibility"],
+        ["Parking meter", "height", "Approximately 1–1.5 meters tall"],
+        ["Parking meter", "manufacturer", "Municipal equipment suppliers and parking technology companies"],
+        ["Parking meter", "lifespan", "5–15 years depending on technology and maintenance"]
+    ]
+}

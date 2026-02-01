@@ -1,0 +1,55 @@
+{
+  "object": "Faucet",
+  "triplets": [
+    [
+      "Faucet",
+      "subclass of",
+      "Plumbing fixture for water control"
+    ],
+    [
+      "Faucet",
+      "has part",
+      "Spout, handle, valve, aerator"
+    ],
+    [
+      "Faucet",
+      "part of",
+      "Water supply and plumbing system"
+    ],
+    [
+      "Faucet",
+      "used for",
+      "Controlling the flow of water for washing and cleaning"
+    ],
+    [
+      "Faucet",
+      "material used",
+      "Stainless steel, brass, or chrome-plated metal"
+    ],
+    [
+      "Faucet",
+      "color",
+      "Silver, black, or matte finishes"
+    ],
+    [
+      "Faucet",
+      "height",
+      "20 to 40 centimeters"
+    ],
+    [
+      "Faucet",
+      "weight",
+      "1 to 3 kilograms"
+    ],
+    [
+      "Faucet",
+      "lifespan",
+      "10 to 20 years depending on water quality"
+    ],
+    [
+      "Faucet",
+      "manufacturer",
+      "Plumbing fixture manufacturing companies"
+    ]
+  ]
+}

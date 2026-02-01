@@ -1,0 +1,70 @@
+{
+    "object": "Carriage",
+    "triplets": [
+        [
+            "Carriage",
+            "subclass of",
+            "Horse-drawn or early wheeled vehicle designed for transporting passengers or goods"
+        ],
+        [
+            "Carriage",
+            "used for",
+            "Transporting passengers, ceremonial use, tourism, historical reenactments"
+        ],
+        [
+            "Carriage",
+            "material used",
+            "Wooden body, metal fittings, leather seats, rubber or iron wheels"
+        ],
+        [
+            "Carriage",
+            "has part",
+            "Wheels"
+        ],
+        [
+            "Carriage",
+            "has part",
+            "Axle"
+        ],
+        [
+            "Carriage",
+            "has part",
+            "Seats"
+        ],
+        [
+            "Carriage",
+            "has part",
+            "Suspension (springs)"
+        ],
+        [
+            "Carriage",
+            "color",
+            "Varies depending on style and customization"
+        ],
+        [
+            "Carriage",
+            "part of",
+            "Historical transportation systems, horse-drawn vehicle collections"
+        ],
+        [
+            "Carriage",
+            "manufacturer",
+            "Various historical and modern carriage makers"
+        ],
+        [
+            "Carriage",
+            "weight",
+            "200–800 kg depending on size and materials"
+        ],
+        [
+            "Carriage",
+            "height",
+            "1.5–2.5 meters depending on design"
+        ],
+        [
+            "Carriage",
+            "lifespan",
+            "50–100 years with proper maintenance (historical vehicles)"
+        ]
+    ]
+}

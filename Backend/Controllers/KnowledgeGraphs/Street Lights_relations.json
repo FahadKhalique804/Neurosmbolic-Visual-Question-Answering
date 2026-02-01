@@ -1,0 +1,14 @@
+{
+    "object": "Street Light",
+    "triplets": [
+        ["Street Light","subclass of","Outdoor lighting equipment"],
+        ["Street Light","used for","Illuminating streets and public areas"],
+        ["Street Light","material used","Steel pole, LED/light fixture, wiring"],
+        ["Street Light","has part","Pole, lamp head, bulb/LED, wiring, base"],
+        ["Street Light","color","Gray or silver"],
+        ["Street Light","part of","City infrastructure, roads"],
+        ["Street Light","manufacturer","Various lighting manufacturers"],
+        ["Street Light","weight","20–150 kg"],
+        ["Street Light","height","5–15 meters"]
+    ]
+}

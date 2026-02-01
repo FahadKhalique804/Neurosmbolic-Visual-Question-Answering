@@ -1,0 +1,15 @@
+{
+    "object": "Pigeon",
+    "triplets": [
+        ["Pigeon", "subclass of", "Bird species in the family Columbidae, common in urban and rural areas"],
+        ["Pigeon", "used for", "Racing, messaging historically, pest control studies, and sometimes as food"],
+        ["Pigeon", "material used", "Feathers, meat, and eggs in some cultures"],
+        ["Pigeon", "has part", "Beak, wings, feathers, feet, and homing instinct"],
+        ["Pigeon", "color", "Gray, white, black, brown, or multicolored"],
+        ["Pigeon", "part of", "Urban ecosystems, parks, and historical communication systems"],
+        ["Pigeon", "manufacturer", "Not manufactured; wild or domesticated through breeding"],
+        ["Pigeon", "weight", "Approximately 200–500 grams"],
+        ["Pigeon", "wingspan", "Approximately 60–70 cm"],
+        ["Pigeon", "lifespan", "3–5 years in the wild; up to 15 years in captivity"]
+    ]
+}

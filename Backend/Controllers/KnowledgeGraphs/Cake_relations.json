@@ -1,0 +1,65 @@
+{
+    "object": "Cake",
+    "triplets": [
+        [
+            "Cake",
+            "subclass of",
+            "Food prepared by baking a mixture of flour, sugar, eggs, and other ingredients, often decorated and served on special occasions"
+        ],
+        [
+            "Cake",
+            "used for",
+            "Eating, Celebrations such as birthdays, weddings, anniversaries, or festive events"
+        ],
+        [
+            "Cake",
+            "material used",
+            "Flour, Sugar, Eggs, Butter or oil, Milk, Baking powder; additional ingredients like chocolate, fruits, or nuts depending on recipe"
+        ],
+        [
+            "Cake",
+            "has part",
+            "Base sponge or cake layers"
+        ],
+        [
+            "Cake",
+            "has part",
+            "Frosting or icing"
+        ],
+        [
+            "Cake",
+            "has part",
+            "Decorations (optional) such as fondant, sprinkles, or edible toppers"
+        ],
+        [
+            "Cake",
+            "color",
+            "Varies depending on ingredients, frosting, and decoration; common colors include brown, white, pink, and multicolor"
+        ],
+        [
+            "Cake",
+            "part of",
+            "Desserts, bakery products, festive meals"
+        ],
+        [
+            "Cake",
+            "manufacturer",
+            "Various bakeries, home bakers, and confectionery producers"
+        ],
+        [
+            "Cake",
+            "weight",
+            "Typically 500 grams to 5 kg depending on type and size"
+        ],
+        [
+            "Cake",
+            "height",
+            "Approximately 5–20 cm per cake layer; multi-layer cakes may be taller"
+        ],
+        [
+            "Cake",
+            "lifespan",
+            "1–7 days depending on ingredients, storage conditions, and whether it is refrigerated"
+        ]
+    ]
+}

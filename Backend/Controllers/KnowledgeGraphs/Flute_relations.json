@@ -1,0 +1,55 @@
+{
+  "object": "Flute",
+  "triplets": [
+    [
+      "Flute",
+      "subclass of",
+      "Wind musical instrument"
+    ],
+    [
+      "Flute",
+      "has part",
+      "Body tube, finger holes, embouchure hole, keys in modern flutes"
+    ],
+    [
+      "Flute",
+      "part of",
+      "Musical instrument collection and orchestra"
+    ],
+    [
+      "Flute",
+      "used for",
+      "Producing melodic sounds in musical performances"
+    ],
+    [
+      "Flute",
+      "material used",
+      "Wood, silver, nickel alloy, or metal"
+    ],
+    [
+      "Flute",
+      "color",
+      "Silver, brown, or metallic finishes"
+    ],
+    [
+      "Flute",
+      "height",
+      "Approximately 60 to 70 centimeters in length"
+    ],
+    [
+      "Flute",
+      "weight",
+      "300 to 500 grams"
+    ],
+    [
+      "Flute",
+      "lifespan",
+      "20 to 50 years with proper care"
+    ],
+    [
+      "Flute",
+      "manufacturer",
+      "Musical instrument manufacturing companies"
+    ]
+  ]
+}

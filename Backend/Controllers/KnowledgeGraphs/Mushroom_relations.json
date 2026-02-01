@@ -1,0 +1,15 @@
+{
+    "object": "Mushroom",
+    "triplets": [
+        ["Mushroom", "subclass of", "Fungus producing edible or non-edible fruiting bodies"],
+        ["Mushroom", "used for", "Cooking, food consumption, and medicinal purposes"],
+        ["Mushroom", "material used", "Fungal tissue"],
+        ["Mushroom", "has part", "Cap forming the top structure"],
+        ["Mushroom", "has part", "Stem supporting the cap"],
+        ["Mushroom", "color", "White, brown, or other varieties"],
+        ["Mushroom", "part of", "Forest and agricultural ecosystems"],
+        ["Mushroom", "manufacturer", "Naturally grown or cultivated by farmers"],
+        ["Mushroom", "weight", "20–50 grams per unit"],
+        ["Mushroom", "lifespan", "5–10 days after harvest"]
+    ]
+}

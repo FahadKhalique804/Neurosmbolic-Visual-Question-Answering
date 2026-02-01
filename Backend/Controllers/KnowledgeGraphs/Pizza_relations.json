@@ -1,0 +1,15 @@
+{
+    "object": "Pizza",
+    "triplets": [
+        ["Pizza", "subclass of", "Italian dish consisting of a round, flat base with toppings and cheese"],
+        ["Pizza", "used for", "Meals, snacks, parties, fast food, and dining"],
+        ["Pizza", "material used", "Dough, tomato sauce, cheese, meats, vegetables, and herbs"],
+        ["Pizza", "has part", "Crust, sauce, cheese, toppings, and sometimes additional seasonings"],
+        ["Pizza", "color", "Golden-brown crust, red sauce, white/yellow cheese, varied topping colors"],
+        ["Pizza", "part of", "Italian cuisine, global fast food, and casual dining culture"],
+        ["Pizza", "manufacturer", "Pizzerias, restaurants, frozen food companies, and home cooks"],
+        ["Pizza", "diameter", "Typically 25–35 cm for a medium pizza"],
+        ["Pizza", "weight", "Approximately 500–800 grams for a medium pizza"],
+        ["Pizza", "lifespan", "Best consumed immediately; leftovers last 2–3 days refrigerated"]
+    ]
+}

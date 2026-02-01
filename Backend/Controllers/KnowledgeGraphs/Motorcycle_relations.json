@@ -1,0 +1,15 @@
+{
+    "object": "Motorcycle",
+    "triplets": [
+        ["Motorcycle", "subclass of", "Two-wheeled motor vehicle"],
+        ["Motorcycle", "used for", "Transportation and recreation"],
+        ["Motorcycle", "material used", "Metal frame, rubber tires, engine components"],
+        ["Motorcycle", "has part", "Engine providing propulsion"],
+        ["Motorcycle", "has part", "Two wheels for balance"],
+        ["Motorcycle", "color", "Various paint finishes"],
+        ["Motorcycle", "part of", "Transportation systems"],
+        ["Motorcycle", "manufacturer", "Motor vehicle manufacturers"],
+        ["Motorcycle", "weight", "100–300 kilograms"],
+        ["Motorcycle", "lifespan", "10–20 years"]
+    ]
+}

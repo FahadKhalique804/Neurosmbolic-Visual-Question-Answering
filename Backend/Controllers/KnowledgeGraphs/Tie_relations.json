@@ -1,0 +1,13 @@
+{
+    "object": "Tie",
+    "triplets": [
+        ["Tie", "subclass of", "neckwear accessory"],
+        ["Tie", "used for", "Formal wear, office clothing"],
+        ["Tie", "material used", "Silk, polyester, cotton"],
+        ["Tie", "has part", "Blade, tail, knot area"],
+        ["Tie", "part of", "Formal clothing outfit"],
+        ["Tie", "manufacturer", "Various clothing brands"],
+        ["Tie", "weight", "50–120 g"],
+        ["Tie", "height", "130–155 cm length"]
+    ]
+}

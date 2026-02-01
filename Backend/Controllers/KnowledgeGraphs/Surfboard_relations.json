@@ -1,0 +1,14 @@
+{
+    "object": "Surfboard",
+    "triplets": [
+        ["Surfboard","subclass of","Water sports equipment"],
+        ["Surfboard","used for","Surfing on ocean waves"],
+        ["Surfboard","material used","Foam core, fiberglass, resin"],
+        ["Surfboard","has part","Deck, fins, leash plug, rails, nose, tail"],
+        ["Surfboard","color","Varies"],
+        ["Surfboard","part of","Surfing gear"],
+        ["Surfboard","manufacturer","Surfboard brands"],
+        ["Surfboard","weight","2–8 kg"],
+        ["Surfboard","height","1.5–3 meters"]
+    ]
+}

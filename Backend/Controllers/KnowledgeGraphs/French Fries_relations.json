@@ -1,0 +1,55 @@
+{
+  "object": "French Fries",
+  "triplets": [
+    [
+      "French Fries",
+      "subclass of",
+      "Fried food item"
+    ],
+    [
+      "French Fries",
+      "has part",
+      "Potato strips, outer crispy layer"
+    ],
+    [
+      "French Fries",
+      "part of",
+      "Fast food and side dish category"
+    ],
+    [
+      "French Fries",
+      "used for",
+      "Eating as a snack or side with meals"
+    ],
+    [
+      "French Fries",
+      "material used",
+      "Potatoes, cooking oil, salt"
+    ],
+    [
+      "French Fries",
+      "color",
+      "Golden yellow"
+    ],
+    [
+      "French Fries",
+      "height",
+      "5 to 10 centimeters per piece"
+    ],
+    [
+      "French Fries",
+      "weight",
+      "100 to 200 grams per serving"
+    ],
+    [
+      "French Fries",
+      "lifespan",
+      "Few hours after cooking"
+    ],
+    [
+      "French Fries",
+      "manufacturer",
+      "Restaurants and food processing companies"
+    ]
+  ]
+}

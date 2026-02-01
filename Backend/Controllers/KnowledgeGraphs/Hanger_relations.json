@@ -1,0 +1,55 @@
+{
+  "object": "Hanger",
+  "triplets": [
+    [
+      "Hanger",
+      "subclass of",
+      "Clothing storage accessory"
+    ],
+    [
+      "Hanger",
+      "has part",
+      "Hook, shoulders, bar"
+    ],
+    [
+      "Hanger",
+      "part of",
+      "Closet and wardrobe organization"
+    ],
+    [
+      "Hanger",
+      "used for",
+      "Holding and hanging clothes"
+    ],
+    [
+      "Hanger",
+      "material used",
+      "Plastic, wood, or metal"
+    ],
+    [
+      "Hanger",
+      "color",
+      "White, black, wooden brown, or metallic"
+    ],
+    [
+      "Hanger",
+      "height",
+      "20 to 25 centimeters"
+    ],
+    [
+      "Hanger",
+      "weight",
+      "50 to 150 grams"
+    ],
+    [
+      "Hanger",
+      "lifespan",
+      "5 to 15 years"
+    ],
+    [
+      "Hanger",
+      "manufacturer",
+      "Home organization product manufacturers"
+    ]
+  ]
+}

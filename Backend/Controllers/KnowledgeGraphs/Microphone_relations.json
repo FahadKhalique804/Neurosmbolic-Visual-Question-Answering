@@ -1,0 +1,15 @@
+{
+    "object": "Microphone",
+    "triplets": [
+        ["Microphone", "subclass of", "Audio input device that converts sound into electrical signals"],
+        ["Microphone", "used for", "Recording, broadcasting, and communication"],
+        ["Microphone", "material used", "Metal casing, diaphragm, electronic components"],
+        ["Microphone", "has part", "Diaphragm sensitive to sound waves"],
+        ["Microphone", "has part", "Output connector or cable"],
+        ["Microphone", "color", "Black, silver, or metallic"],
+        ["Microphone", "part of", "Audio and communication systems"],
+        ["Microphone", "manufacturer", "Audio equipment manufacturers"],
+        ["Microphone", "weight", "200–500 grams"],
+        ["Microphone", "lifespan", "5–15 years"]
+    ]
+}

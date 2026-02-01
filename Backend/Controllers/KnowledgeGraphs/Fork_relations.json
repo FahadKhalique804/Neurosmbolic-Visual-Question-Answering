@@ -1,0 +1,55 @@
+{
+  "object": "Fork",
+  "triplets": [
+    [
+      "Fork",
+      "subclass of",
+      "Eating utensil and cutlery item"
+    ],
+    [
+      "Fork",
+      "has part",
+      "Handle, neck, tines"
+    ],
+    [
+      "Fork",
+      "part of",
+      "Dining and tableware set"
+    ],
+    [
+      "Fork",
+      "used for",
+      "Holding and lifting food while eating"
+    ],
+    [
+      "Fork",
+      "material used",
+      "Stainless steel, plastic, or wood"
+    ],
+    [
+      "Fork",
+      "color",
+      "Silver, black, or assorted colors"
+    ],
+    [
+      "Fork",
+      "height",
+      "18 to 22 centimeters"
+    ],
+    [
+      "Fork",
+      "weight",
+      "30 to 80 grams"
+    ],
+    [
+      "Fork",
+      "lifespan",
+      "10 to 20 years"
+    ],
+    [
+      "Fork",
+      "manufacturer",
+      "Cutlery and kitchenware manufacturers"
+    ]
+  ]
+}

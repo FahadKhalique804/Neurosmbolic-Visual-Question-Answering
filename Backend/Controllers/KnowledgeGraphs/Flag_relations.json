@@ -1,0 +1,55 @@
+{
+  "object": "Flag",
+  "triplets": [
+    [
+      "Flag",
+      "subclass of",
+      "Symbolic cloth representation"
+    ],
+    [
+      "Flag",
+      "has part",
+      "Fabric cloth, hoist edge, emblem or design"
+    ],
+    [
+      "Flag",
+      "part of",
+      "National, organizational, or ceremonial display system"
+    ],
+    [
+      "Flag",
+      "used for",
+      "Representing identity, nationality, or organization"
+    ],
+    [
+      "Flag",
+      "material used",
+      "Fabric such as polyester, cotton, or nylon"
+    ],
+    [
+      "Flag",
+      "color",
+      "Various colors depending on design"
+    ],
+    [
+      "Flag",
+      "height",
+      "Standard sizes vary from 60 to 150 centimeters"
+    ],
+    [
+      "Flag",
+      "weight",
+      "200 to 500 grams"
+    ],
+    [
+      "Flag",
+      "lifespan",
+      "1 to 5 years depending on exposure"
+    ],
+    [
+      "Flag",
+      "manufacturer",
+      "Textile and flag manufacturing companies"
+    ]
+  ]
+}

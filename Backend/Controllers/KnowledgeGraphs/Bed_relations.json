@@ -1,0 +1,65 @@
+{
+    "object": "Bed",
+    "triplets": [
+        [
+            "Bed",
+            "subclass of",
+            "Furniture designed for lying down, sleeping, and resting"
+        ],
+        [
+            "Bed",
+            "used for",
+            "Sleeping, resting, and occasionally sitting or reclining"
+        ],
+        [
+            "Bed",
+            "material used",
+            "Wood, metal, fabric, foam, springs, and sometimes leather for frame and mattress components"
+        ],
+        [
+            "Bed",
+            "has part",
+            "Frame that provides structural support for the mattress and bed assembly"
+        ],
+        [
+            "Bed",
+            "has part",
+            "Mattress, the padded surface designed for comfort and support during sleep"
+        ],
+        [
+            "Bed",
+            "has part",
+            "Headboard which provides support and aesthetic design at the head of the bed"
+        ],
+        [
+            "Bed",
+            "color",
+            "Varies depending on materials, upholstery, and manufacturer design; common colors include brown, black, white, beige, and gray"
+        ],
+        [
+            "Bed",
+            "part of",
+            "Bedroom furniture sets, home interiors, hotels, hospitals, and resting spaces"
+        ],
+        [
+            "Bed",
+            "manufacturer",
+            "Various manufacturers specializing in home furniture, bedding, and mattresses"
+        ],
+        [
+            "Bed",
+            "weight",
+            "Typically 20–100 kg depending on size (single, double, queen, king) and material used"
+        ],
+        [
+            "Bed",
+            "height",
+            "Approximately 40–60 cm from floor to top of mattress depending on frame and mattress thickness"
+        ],
+        [
+            "Bed",
+            "lifespan",
+            "Typically 5–15 years depending on material quality, usage, and maintenance"
+        ]
+    ]
+}

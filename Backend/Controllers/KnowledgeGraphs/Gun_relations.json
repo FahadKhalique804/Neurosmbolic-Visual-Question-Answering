@@ -1,0 +1,55 @@
+{
+  "object": "Gun",
+  "triplets": [
+    [
+      "Gun",
+      "subclass of",
+      "Mechanical weapon and firearm"
+    ],
+    [
+      "Gun",
+      "has part",
+      "Barrel, trigger, magazine, grip, firing mechanism"
+    ],
+    [
+      "Gun",
+      "part of",
+      "Defense, law enforcement, and security equipment"
+    ],
+    [
+      "Gun",
+      "used for",
+      "Personal defense, law enforcement, or sport shooting"
+    ],
+    [
+      "Gun",
+      "material used",
+      "Steel, polymer, aluminum alloys"
+    ],
+    [
+      "Gun",
+      "color",
+      "Black, gray, or camouflage finishes"
+    ],
+    [
+      "Gun",
+      "height",
+      "15 to 40 centimeters depending on type"
+    ],
+    [
+      "Gun",
+      "weight",
+      "0.9 to 4 kilograms"
+    ],
+    [
+      "Gun",
+      "lifespan",
+      "Several decades with proper maintenance"
+    ],
+    [
+      "Gun",
+      "manufacturer",
+      "Firearm manufacturing companies"
+    ]
+  ]
+}

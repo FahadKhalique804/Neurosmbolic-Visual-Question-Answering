@@ -1,0 +1,65 @@
+{
+    "object": "Baseball",
+    "triplets": [
+        [
+            "Baseball",
+            "subclass of",
+            "Spherical sports equipment used in the game of baseball, designed for pitching, hitting, and fielding"
+        ],
+        [
+            "Baseball",
+            "used for",
+            "Playing baseball, training, practice sessions, and competitive games"
+        ],
+        [
+            "Baseball",
+            "material used",
+            "Core made of cork, rubber, or composite materials; covered with leather or synthetic leather; stitching thread for seams"
+        ],
+        [
+            "Baseball",
+            "has part",
+            "Core, which forms the central structure of the ball and determines weight and bounce"
+        ],
+        [
+            "Baseball",
+            "has part",
+            "Cover made of leather or synthetic material that protects the core and provides grip"
+        ],
+        [
+            "Baseball",
+            "has part",
+            "Stitching, typically red thread, that holds the cover together and affects aerodynamics"
+        ],
+        [
+            "Baseball",
+            "color",
+            "Traditionally white with red stitching, although training or promotional balls may have different colors"
+        ],
+        [
+            "Baseball",
+            "part of",
+            "Baseball games, sports equipment collections, leagues, and training programs"
+        ],
+        [
+            "Baseball",
+            "manufacturer",
+            "Various sports equipment manufacturers producing official, practice, and recreational baseballs"
+        ],
+        [
+            "Baseball",
+            "weight",
+            "Approximately 145–150 grams depending on league and specifications"
+        ],
+        [
+            "Baseball",
+            "height",
+            "Approximately 7.3 cm in diameter, adhering to standard regulations"
+        ],
+        [
+            "Baseball",
+            "lifespan",
+            "Typically lasts a few games in professional play; practice and recreational balls may last several weeks to months depending on usage"
+        ]
+    ]
+}

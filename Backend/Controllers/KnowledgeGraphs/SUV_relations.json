@@ -1,0 +1,14 @@
+{
+    "object": "SUV",
+    "triplets": [
+        ["SUV","subclass of","Sport Utility Vehicle"],
+        ["SUV","used for","Passenger transport, off-road driving"],
+        ["SUV","material used","Steel body, aluminum parts, plastic interior"],
+        ["SUV","has part","Engine, wheels, seats, doors, trunk, lights"],
+        ["SUV","color","Varies"],
+        ["SUV","part of","Vehicle category"],
+        ["SUV","manufacturer","Ford, Toyota, Honda, etc."],
+        ["SUV","weight","1,600–2,500 kg"],
+        ["SUV","height","1.6–1.9 meters"]
+    ]
+}

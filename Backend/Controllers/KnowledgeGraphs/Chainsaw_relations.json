@@ -1,0 +1,55 @@
+{
+    "object": "Chainsaw",
+    "triplets": [
+        [
+            "Chainsaw",
+            "subclass of",
+            "Power tool designed for cutting trees, logs, and wood"
+        ],
+        [
+            "Chainsaw",
+            "used for",
+            "Cutting wood, felling trees, pruning, and woodworking tasks"
+        ],
+        [
+            "Chainsaw",
+            "material used",
+            "Metal (chains, engine components), plastic (housing, handles), rubber (grips), and lubricants for chain operation"
+        ],
+        [
+            "Chainsaw",
+            "has part",
+            "Engine, Guide bar, Chain, Chain brake, Handle, Throttle, Oil reservoir, Spark plug, Air filter"
+        ],
+        [
+            "Chainsaw",
+            "color",
+            "Varies depending on manufacturer and model"
+        ],
+        [
+            "Chainsaw",
+            "part of",
+            "Gardening tools, Forestry equipment, Power tool collections"
+        ],
+        [
+            "Chainsaw",
+            "manufacturer",
+            "Various manufacturers"
+        ],
+        [
+            "Chainsaw",
+            "weight",
+            "4–15 kg depending on model and engine type"
+        ],
+        [
+            "Chainsaw",
+            "height",
+            "0.3–0.5 meters (bar length varies)"
+        ],
+        [
+            "Chainsaw",
+            "lifespan",
+            "not applicable"
+        ]
+    ]
+}

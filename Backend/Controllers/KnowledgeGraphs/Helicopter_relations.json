@@ -1,0 +1,51 @@
+{
+    "object": "Helicopter",
+    "triplets": [
+        [
+            "Helicopter",
+            "subclass of",
+            "Aircraft"
+        ],
+         ["Helicopter", 
+         "has part",
+          "Rotor, Engine, Cockpit, Landing Skids"
+        ],
+          ["Helicopter",
+           "part of",
+            "Air Fleet, Rescue Team"
+        ],
+        [
+            "Helicopter",
+            "used for",
+            "Air transportation, Rescue,Surveillance"
+        ],
+        [
+            "Helicopter",
+            "material used",
+            "Metal, Glass, Plastic"
+        ],
+        [
+            "Helicopter",
+            "color",
+            "Varies,White, Blue, Green"
+        ],
+          ["Helicopter",
+           "height",
+            "3.2 m"
+        ],
+          ["Helicopter", 
+          "weight",
+           "2,500 kg"
+        ],
+            ["Helicopter",
+             "lifespan",
+              "20 years"
+            ],
+        [
+            "Helicopter",
+            "manufacturer",
+            "Various manufacturers, Bell, Airbus, Sikorsky"
+        ]
+    ]
+}
+

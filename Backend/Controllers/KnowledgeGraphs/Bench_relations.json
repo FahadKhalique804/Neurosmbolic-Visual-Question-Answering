@@ -1,0 +1,65 @@
+{
+    "object": "Bench",
+    "triplets": [
+        [
+            "Bench",
+            "subclass of",
+            "Furniture designed for seating one or more people, commonly found indoors and outdoors"
+        ],
+        [
+            "Bench",
+            "used for",
+            "Sitting, resting, social interaction, or as part of public and private spaces"
+        ],
+        [
+            "Bench",
+            "material used",
+            "Wood, metal, plastic, concrete, or a combination of materials depending on design and purpose"
+        ],
+        [
+            "Bench",
+            "has part",
+            "Seat, the horizontal surface for sitting"
+        ],
+        [
+            "Bench",
+            "has part",
+            "Legs that provide support and stability"
+        ],
+        [
+            "Bench",
+            "has part",
+            "Backrest (optional) for additional comfort and support"
+        ],
+        [
+            "Bench",
+            "color",
+            "Varies depending on material and manufacturer; can be natural wood, painted, or metal-coated"
+        ],
+        [
+            "Bench",
+            "part of",
+            "Parks, gardens, bus stops, schools, homes, and public spaces"
+        ],
+        [
+            "Bench",
+            "manufacturer",
+            "Various manufacturers producing indoor and outdoor furniture"
+        ],
+        [
+            "Bench",
+            "weight",
+            "Typically 15–50 kg depending on material, size, and design"
+        ],
+        [
+            "Bench",
+            "height",
+            "Approximately 40–50 cm from floor to seat surface"
+        ],
+        [
+            "Bench",
+            "lifespan",
+            "Typically 5–15 years depending on material quality, exposure to elements, and maintenance"
+        ]
+    ]
+}

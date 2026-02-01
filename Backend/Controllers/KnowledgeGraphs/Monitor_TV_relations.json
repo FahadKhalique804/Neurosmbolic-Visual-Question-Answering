@@ -1,0 +1,15 @@
+{
+    "object": "Monitor TV",
+    "triplets": [
+        ["Monitor TV", "subclass of", "Electronic display device for visual output"],
+        ["Monitor TV", "used for", "Watching video content and displaying digital information"],
+        ["Monitor TV", "material used", "Plastic casing, glass panel, electronic components"],
+        ["Monitor TV", "has part", "Display screen"],
+        ["Monitor TV", "has part", "Internal speakers"],
+        ["Monitor TV", "color", "Black or metallic finishes"],
+        ["Monitor TV", "part of", "Home entertainment systems"],
+        ["Monitor TV", "manufacturer", "Electronics manufacturers"],
+        ["Monitor TV", "weight", "3–15 kilograms"],
+        ["Monitor TV", "lifespan", "7–12 years"]
+    ]
+}

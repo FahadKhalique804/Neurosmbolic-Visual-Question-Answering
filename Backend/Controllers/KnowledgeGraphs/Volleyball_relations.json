@@ -1,0 +1,13 @@
+{
+  "object": "Volleyball",
+  "triplets": [
+    ["Volleyball", "subclass of", "sports ball"],
+    ["Volleyball", "used for", "playing volleyball"],
+    ["Volleyball", "material used", "synthetic leather"],
+    ["Volleyball", "has part", "panels, inner bladder"],
+    ["Volleyball", "part of", "sports equipment"],
+    ["Volleyball", "manufacturer", "Mikasa, Molten, Wilson"],
+    ["Volleyball", "weight", "260–280 g"],
+    ["Volleyball", "height", "65–67 cm circumference"]
+  ]
+}

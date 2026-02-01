@@ -1,0 +1,60 @@
+{
+    "object": "Bowl/Basin",
+    "triplets": [
+        [
+            "Bowl/Basin",
+            "subclass of",
+            "Container used for holding, serving, or washing items, commonly in kitchens or for household purposes"
+        ],
+        [
+            "Bowl/Basin",
+            "used for",
+            "Serving food, holding liquids, washing vegetables or fruits, mixing ingredients, and general household use"
+        ],
+        [
+            "Bowl/Basin",
+            "material used",
+            "Ceramic, metal (stainless steel, aluminum), plastic, glass, or composite materials"
+        ],
+        [
+            "Bowl/Basin",
+            "has part",
+            "Body that holds contents"
+        ],
+        [
+            "Bowl/Basin",
+            "has part",
+            "Base or bottom providing stability"
+        ],
+        [
+            "Bowl/Basin",
+            "color",
+            "Varies depending on material and manufacturer; common colors include white, blue, silver, and patterned designs"
+        ],
+        [
+            "Bowl/Basin",
+            "part of",
+            "Kitchenware, household utensils, and food preparation tools"
+        ],
+        [
+            "Bowl/Basin",
+            "manufacturer",
+            "Various manufacturers producing kitchenware and household containers"
+        ],
+        [
+            "Bowl/Basin",
+            "weight",
+            "Approximately 200–1500 grams depending on size and material"
+        ],
+        [
+            "Bowl/Basin",
+            "height",
+            "Typically 5–20 cm depending on type and size"
+        ],
+        [
+            "Bowl/Basin",
+            "lifespan",
+            "Typically 3–15 years depending on material, usage, and care"
+        ]
+    ]
+}

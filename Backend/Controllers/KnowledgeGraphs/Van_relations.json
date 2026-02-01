@@ -1,0 +1,13 @@
+{
+  "object": "Van",
+  "triplets": [
+    ["Van", "subclass of", "motor vehicle"],
+    ["Van", "used for", "transporting passengers or cargo"],
+    ["Van", "material used", "steel, plastic"],
+    ["Van", "has part", "seats, sliding door, engine"],
+    ["Van", "part of", "transportation systems"],
+    ["Van", "manufacturer", "Toyota, Ford, Mercedes-Benz"],
+    ["Van", "weight", "2,000–3,500 kg"],
+    ["Van", "height", "1.8–2.5 m"]
+  ]
+}

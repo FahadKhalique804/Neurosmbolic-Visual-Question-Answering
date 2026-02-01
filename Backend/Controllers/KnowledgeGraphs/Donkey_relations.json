@@ -1,0 +1,55 @@
+{
+  "object": "Donkey",
+  "triplets": [
+    [
+      "Donkey",
+      "subclass of",
+      "Domesticated farm animal"
+    ],
+    [
+      "Donkey",
+      "has part",
+      "Hooves, tail, long ears, legs"
+    ],
+    [
+      "Donkey",
+      "part of",
+      "Agricultural and rural working environment"
+    ],
+    [
+      "Donkey",
+      "used for",
+      "Carrying loads and agricultural assistance"
+    ],
+    [
+      "Donkey",
+      "material used",
+      "Living biological tissues"
+    ],
+    [
+      "Donkey",
+      "color",
+      "Gray, brown, or black"
+    ],
+    [
+      "Donkey",
+      "height",
+      "Approximately 1 to 1.6 meters"
+    ],
+    [
+      "Donkey",
+      "weight",
+      "80 to 480 kilograms"
+    ],
+    [
+      "Donkey",
+      "lifespan",
+      "25 to 30 years"
+    ],
+    [
+      "Donkey",
+      "manufacturer",
+      "Naturally produced by reproduction"
+    ]
+  ]
+}

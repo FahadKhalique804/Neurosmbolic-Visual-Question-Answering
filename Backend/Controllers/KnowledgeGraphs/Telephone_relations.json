@@ -1,0 +1,14 @@
+{
+    "object": "Telephone",
+    "triplets": [
+        ["Telephone","subclass of","Communication device"],
+        ["Telephone","used for","Voice communication"],
+        ["Telephone","material used","Plastic, metal, electronic components"],
+        ["Telephone","has part","Receiver, keypad/buttons, microphone, speaker, wiring"],
+        ["Telephone","color","Black, white, gray, varies"],
+        ["Telephone","part of","Telecommunication devices"],
+        ["Telephone","manufacturer","Cisco, Panasonic, Motorola, Apple"],
+        ["Telephone","weight","100–500 grams for landline; 150–250 g for mobile"],
+        ["Telephone","height","15–20 cm for landline"]
+    ]
+}

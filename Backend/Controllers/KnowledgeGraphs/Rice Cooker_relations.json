@@ -1,0 +1,15 @@
+{
+    "object": "Rice Cooker",
+    "triplets": [
+        ["Rice Cooker", "subclass of", "Kitchen appliance designed to cook rice automatically"],
+        ["Rice Cooker", "used for", "Cooking rice, steaming vegetables, making porridge, and slow cooking"],
+        ["Rice Cooker", "material used", "Metal, plastic, non-stick inner pot, heating element, and electronics"],
+        ["Rice Cooker", "has part", "Inner pot, lid, heating plate, control panel, and steam vent"],
+        ["Rice Cooker", "color", "White, black, silver, or various colors"],
+        ["Rice Cooker", "part of", "Kitchen appliances, Asian cuisine preparation, and home cooking"],
+        ["Rice Cooker", "manufacturer", "Zojirushi, Panasonic, Tiger, Cuckoo, and other brands"],
+        ["Rice Cooker", "capacity", "Typically 3–10 cups of uncooked rice"],
+        ["Rice Cooker", "weight", "Approximately 2–5 kg"],
+        ["Rice Cooker", "lifespan", "5–10 years with proper care"]
+    ]
+}

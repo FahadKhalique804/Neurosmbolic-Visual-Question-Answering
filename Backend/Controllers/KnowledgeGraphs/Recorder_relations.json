@@ -1,0 +1,15 @@
+{
+    "object": "Recorder",
+    "triplets": [
+        ["Recorder", "subclass of", "Wind instrument, often used in music education"],
+        ["Recorder", "used for", "Teaching music, ensemble playing, historical music performance"],
+        ["Recorder", "material used", "Wood, plastic, or resin with metal keys"],
+        ["Recorder", "has part", "Mouthpiece, finger holes, barrel, foot joint, and sometimes keys"],
+        ["Recorder", "color", "Brown (wood), white, black, or colorful plastic"],
+        ["Recorder", "part of", "Music classrooms, early music ensembles, and instrument collections"],
+        ["Recorder", "manufacturer", "Music instrument companies like Yamaha, Aulos, etc."],
+        ["Recorder", "length", "Approximately 30–40 cm for soprano recorder"],
+        ["Recorder", "weight", "Approximately 100–300 grams"],
+        ["Recorder", "lifespan", "Years to decades with proper care"]
+    ]
+}

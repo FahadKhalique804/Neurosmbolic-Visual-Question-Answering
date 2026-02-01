@@ -1,0 +1,13 @@
+{
+  "object": "Watch",
+  "triplets": [
+    ["Watch", "subclass of", "timekeeping device"],
+    ["Watch", "used for", "tracking time"],
+    ["Watch", "material used", "metal, plastic, leather"],
+    ["Watch", "has part", "dial, strap, movement"],
+    ["Watch", "part of", "personal accessories"],
+    ["Watch", "manufacturer", "Rolex, Casio, Seiko"],
+    ["Watch", "weight", "50–200 g"],
+    ["Watch", "height", "4–5 cm dial size"]
+  ]
+}

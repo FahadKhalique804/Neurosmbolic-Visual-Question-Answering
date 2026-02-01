@@ -1,0 +1,55 @@
+{
+  "object": "Elephant",
+  "triplets": [
+    [
+      "Elephant",
+      "subclass of",
+      "Large terrestrial mammal animal"
+    ],
+    [
+      "Elephant",
+      "has part",
+      "Trunk, tusks, legs, ears, tail"
+    ],
+    [
+      "Elephant",
+      "part of",
+      "Forest and savannah ecosystem"
+    ],
+    [
+      "Elephant",
+      "used for",
+      "Ecological balance and conservation significance"
+    ],
+    [
+      "Elephant",
+      "material used",
+      "Living biological tissues and organs"
+    ],
+    [
+      "Elephant",
+      "color",
+      "Gray"
+    ],
+    [
+      "Elephant",
+      "height",
+      "2.5 to 4 meters at shoulder"
+    ],
+    [
+      "Elephant",
+      "weight",
+      "3000 to 6000 kilograms"
+    ],
+    [
+      "Elephant",
+      "lifespan",
+      "60 to 70 years"
+    ],
+    [
+      "Elephant",
+      "manufacturer",
+      "Naturally produced through biological reproduction"
+    ]
+  ]
+}

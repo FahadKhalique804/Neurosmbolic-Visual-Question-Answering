@@ -1,0 +1,70 @@
+{
+    "object": "Boat",
+    "triplets": [
+        [
+            "Boat",
+            "subclass of",
+            "Watercraft designed for traveling on water for transport, recreation, fishing, or commercial purposes"
+        ],
+        [
+            "Boat",
+            "used for",
+            "Water transportation, leisure activities, fishing, rescue operations, and cargo or passenger movement"
+        ],
+        [
+            "Boat",
+            "material used",
+            "Hull and structure typically made of wood, metal, fiberglass, or composite materials; additional components may include ropes, sails, and electronics"
+        ],
+        [
+            "Boat",
+            "has part",
+            "Hull, the main body providing buoyancy and stability"
+        ],
+        [
+            "Boat",
+            "has part",
+            "Deck, the flat surface for standing or operating the boat"
+        ],
+        [
+            "Boat",
+            "has part",
+            "Mast (for sailboats) to support sails"
+        ],
+        [
+            "Boat",
+            "has part",
+            "Engine (for motorboats) for propulsion"
+        ],
+        [
+            "Boat",
+            "color",
+            "Varies depending on manufacturer and purpose; common colors include white, blue, red, and metallic finishes"
+        ],
+        [
+            "Boat",
+            "part of",
+            "Maritime transportation systems, recreational water sports, fishing industries, and rescue or patrol services"
+        ],
+        [
+            "Boat",
+            "manufacturer",
+            "Various manufacturers producing recreational, commercial, and industrial boats"
+        ],
+        [
+            "Boat",
+            "weight",
+            "Typically 500–20,000 kg depending on size, type, and construction materials"
+        ],
+        [
+            "Boat",
+            "height",
+            "Approximately 1–10 meters depending on type and design"
+        ],
+        [
+            "Boat",
+            "lifespan",
+            "Typically 10–50 years depending on material quality, usage, and maintenance"
+        ]
+    ]
+}

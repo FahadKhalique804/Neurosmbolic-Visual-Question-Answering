@@ -1,0 +1,14 @@
+{
+    "object": "Rice",
+    "triplets": [
+        ["Rice", "subclass of", "Staple grain cereal from the Oryza sativa or Oryza glaberrima plants"],
+        ["Rice", "used for", "Food base, brewing, flour, snacks, and cultural ceremonies"],
+        ["Rice", "material used", "Rice grains (endosperm), husk, bran, and sometimes enriched nutrients"],
+        ["Rice", "has part", "Husk, bran layer, endosperm, and germ"],
+        ["Rice", "color", "White, brown, red, black, or purple depending on processing and variety"],
+        ["Rice", "part of", "Global agriculture, food security, and culinary traditions worldwide"],
+        ["Rice", "manufacturer", "Farmers, rice mills, and food processing companies"],
+        ["Rice", "weight", "Approximately 1 kg per typical package; grains ~0.02g each"],
+        ["Rice", "lifespan", "White rice: years when stored properly; brown rice: months due to oils"]
+    ]
+}

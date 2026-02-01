@@ -1,0 +1,13 @@
+{
+    "object": "Penguin",
+    "triplets": [
+        ["Penguin", "subclass of", "Flightless seabird adapted to cold climates, especially Antarctica"],
+        ["Penguin", "used for", "Wildlife observation, ecological studies, mascots, and cultural symbols"],
+        ["Penguin", "material used", "Feathers, blubber, bones, and flesh (not typically used by humans)"],
+        ["Penguin", "has part", "Black and white plumage, flippers, webbed feet, beak, and waterproof feathers"],
+        ["Penguin", "color", "Black back, white front, sometimes with yellow or orange accents"],
+        ["Penguin", "part of", "Marine ecosystems, polar regions, and conservation programs"],
+        ["Penguin", "manufacturer", "Not manufactured; wild animal bred in nature"],
+        ["Penguin", "lifespan", "15–20 years in the wild; longer in captivity"]
+    ]
+}

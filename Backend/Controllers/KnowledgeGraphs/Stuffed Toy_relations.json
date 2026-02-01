@@ -1,0 +1,14 @@
+{
+    "object": "Stuffed Toy",
+    "triplets": [
+        ["Stuffed Toy","subclass of","Soft toy"],
+        ["Stuffed Toy","used for","Playing, decoration, comfort"],
+        ["Stuffed Toy","material used","Fabric, cotton/polyester stuffing"],
+        ["Stuffed Toy","has part","Outer fabric, stuffing, eyes, stitching"],
+        ["Stuffed Toy","color","Varies"],
+        ["Stuffed Toy","part of","Kids toys, gifts"],
+        ["Stuffed Toy","manufacturer","Various manufacturers"],
+        ["Stuffed Toy","weight","100g–1kg"],
+        ["Stuffed Toy","height","10–70 cm"]
+    ]
+}

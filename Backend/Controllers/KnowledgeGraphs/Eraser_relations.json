@@ -1,0 +1,55 @@
+{
+  "object": "Eraser",
+  "triplets": [
+    [
+      "Eraser",
+      "subclass of",
+      "Stationery and writing accessory"
+    ],
+    [
+      "Eraser",
+      "has part",
+      "Rubber block, edges, sometimes paper sleeve"
+    ],
+    [
+      "Eraser",
+      "part of",
+      "School and office stationery set"
+    ],
+    [
+      "Eraser",
+      "used for",
+      "Removing pencil marks from paper"
+    ],
+    [
+      "Eraser",
+      "material used",
+      "Rubber, vinyl, or synthetic compounds"
+    ],
+    [
+      "Eraser",
+      "color",
+      "White, pink, or multicolored"
+    ],
+    [
+      "Eraser",
+      "height",
+      "2 to 5 centimeters"
+    ],
+    [
+      "Eraser",
+      "weight",
+      "10 to 30 grams"
+    ],
+    [
+      "Eraser",
+      "lifespan",
+      "Several months to years depending on usage"
+    ],
+    [
+      "Eraser",
+      "manufacturer",
+      "Stationery manufacturing companies"
+    ]
+  ]
+}

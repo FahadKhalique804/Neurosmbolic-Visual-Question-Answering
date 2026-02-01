@@ -1,0 +1,65 @@
+{
+    "object": "Bathtub",
+    "triplets": [
+        [
+            "Bathtub",
+            "subclass of",
+            "Plumbing fixture designed for bathing, typically installed in bathrooms"
+        ],
+        [
+            "Bathtub",
+            "used for",
+            "Bathing, personal hygiene, and relaxation"
+        ],
+        [
+            "Bathtub",
+            "material used",
+            "Ceramic, acrylic, enameled cast iron, fiberglass, or stainless steel depending on design and manufacturer"
+        ],
+        [
+            "Bathtub",
+            "has part",
+            "Faucet for filling the tub with water"
+        ],
+        [
+            "Bathtub",
+            "has part",
+            "Drain for emptying water after use"
+        ],
+        [
+            "Bathtub",
+            "has part",
+            "Overflow outlet to prevent accidental water spillage"
+        ],
+        [
+            "Bathtub",
+            "color",
+            "Varies; commonly white, cream, or pastel shades; custom colors available"
+        ],
+        [
+            "Bathtub",
+            "part of",
+            "Bathroom fixtures, home plumbing systems, and sanitation infrastructure"
+        ],
+        [
+            "Bathtub",
+            "manufacturer",
+            "Various manufacturers specializing in bathroom fixtures and home improvement products"
+        ],
+        [
+            "Bathtub",
+            "weight",
+            "Typically 50–150 kg depending on material and size"
+        ],
+        [
+            "Bathtub",
+            "height",
+            "Approximately 50–70 cm depending on model and design"
+        ],
+        [
+            "Bathtub",
+            "lifespan",
+            "Approximately 15–30 years depending on material quality, usage, and maintenance"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "object": "Crab",
+    "triplets": [
+        [
+            "Crab",
+            "subclass of",
+            "Aquatic or terrestrial crustacean species"
+        ],
+        [
+            "Crab",
+            "used for",
+            "Eating (seafood), Wildlife observation, Aquarium display"
+        ],
+        [
+            "Crab",
+            "material used",
+            "Not applicable"
+        ],
+        [
+            "Crab",
+            "color",
+            "Red, Brown, Blue depending on species"
+        ],
+        [
+            "Crab",
+            "manufacturer",
+            "Not applicable"
+        ],
+        [
+            "Crab",
+            "has part",
+            "Claws, Legs, Shell, Eyes, Antennae"
+        ],
+        [
+            "Crab",
+            "weight",
+            "0.1-2 kg depending on species"
+        ],
+        [
+            "Crab",
+            "height",
+            "0.05-0.3 meters (body width varies similarly)"
+        ],
+        [
+            "Crab",
+            "part of",
+            "Marine ecosystems, Coastal habitats"
+        ],
+        [
+            "Crab",
+            "lifespan",
+            "3-5 years depending on species"
+        ]
+    ]
+}

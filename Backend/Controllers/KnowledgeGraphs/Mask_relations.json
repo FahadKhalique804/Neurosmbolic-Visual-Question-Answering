@@ -1,0 +1,15 @@
+{
+    "object": "Mask",
+    "triplets": [
+        ["Mask", "subclass of", "Protective or decorative face covering"],
+        ["Mask", "used for", "Health protection, disguise, or ceremonial use"],
+        ["Mask", "material used", "Fabric, plastic, paper, or rubber"],
+        ["Mask", "has part", "Face covering layer"],
+        ["Mask", "has part", "Elastic bands or straps"],
+        ["Mask", "color", "Available in various colors and patterns"],
+        ["Mask", "part of", "Health safety equipment and cultural attire"],
+        ["Mask", "manufacturer", "Medical and textile manufacturers"],
+        ["Mask", "weight", "5–50 grams"],
+        ["Mask", "lifespan", "Single-use or reusable depending on type"]
+    ]
+}

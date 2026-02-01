@@ -1,0 +1,55 @@
+{
+    "object": "Crane",
+    "triplets": [
+        [
+            "Crane",
+            "subclass of",
+            "Heavy construction equipment used for lifting and moving loads"
+        ],
+        [
+            "Crane",
+            "used for",
+            "Lifting and transporting heavy objects on construction sites, Loading/unloading cargo"
+        ],
+        [
+            "Crane",
+            "material used",
+            "Metal (steel, aluminum), Hydraulic components"
+        ],
+        [
+            "Crane",
+            "color",
+            "Varies (yellow, red, blue, etc. depending on model)"
+        ],
+        [
+            "Crane",
+            "manufacturer",
+            "Various manufacturers"
+        ],
+        [
+            "Crane",
+            "has part",
+            "Boom, Hook, Cab, Counterweights, Hydraulic system, Wheels or Tracks"
+        ],
+        [
+            "Crane",
+            "weight",
+            "Varies (typically 10–80 tons for mobile cranes)"
+        ],
+        [
+            "Crane",
+            "height",
+            "Varies (from 5 meters to over 80 meters depending on type)"
+        ],
+        [
+            "Crane",
+            "part of",
+            "Construction machinery fleet, Industrial equipment"
+        ],
+        [
+            "Crane",
+            "lifespan",
+            "15–25 years depending on maintenance"
+        ]
+    ]
+}

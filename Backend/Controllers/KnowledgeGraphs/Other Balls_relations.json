@@ -1,0 +1,13 @@
+{
+    "object": "Other Balls",
+    "triplets": [
+        ["Other Balls", "subclass of", "Spherical objects used in sports, games, or recreation"],
+        ["Other Balls", "used for", "Playing sports, games, juggling, pet toys, and decorative purposes"],
+        ["Other Balls", "material used", "Rubber, leather, plastic, foam, vinyl, or fabric"],
+        ["Other Balls", "has part", "Outer cover, bladder, stitching, and sometimes printed designs"],
+        ["Other Balls", "color", "Wide variety depending on sport or design"],
+        ["Other Balls", "diameter", "Varies widely: from ping-pong ball ~4cm to fitness ball ~65cm"],
+        ["Other Balls", "manufacturer", "Sports equipment companies, toy makers, and manufacturers"],
+        ["Other Balls", "lifespan", "Years with proper use and storage, depending on material"]
+    ]
+}

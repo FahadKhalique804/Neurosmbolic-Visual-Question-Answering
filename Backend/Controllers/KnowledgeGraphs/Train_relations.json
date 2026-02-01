@@ -1,0 +1,13 @@
+{
+    "object": "Train",
+    "triplets": [
+        ["Train", "subclass of", "rail transport vehicle"],
+        ["Train", "used for", "Transporting passengers or cargo"],
+        ["Train", "material used", "Steel, aluminum, electronics"],
+        ["Train", "has part", "Locomotive, carriages, wheels, engine"],
+        ["Train", "part of", "Rail transportation system"],
+        ["Train", "manufacturer", "Various train manufacturers"],
+        ["Train", "weight", "50–500 tons"],
+        ["Train", "height", "3–4.5 m"]
+    ]
+}

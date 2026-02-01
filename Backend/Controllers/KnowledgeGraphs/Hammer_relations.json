@@ -1,0 +1,55 @@
+{
+  "object": "Hammer",
+  "triplets": [
+    [
+      "Hammer",
+      "subclass of",
+      "Hand tool"
+    ],
+    [
+      "Hammer",
+      "has part",
+      "Head, claw or peen, handle, grip"
+    ],
+    [
+      "Hammer",
+      "part of",
+      "Construction and repair tools"
+    ],
+    [
+      "Hammer",
+      "used for",
+      "Driving nails, breaking objects, and construction work"
+    ],
+    [
+      "Hammer",
+      "material used",
+      "Steel head, wooden or fiberglass handle"
+    ],
+    [
+      "Hammer",
+      "color",
+      "Metallic head with wooden or colored handle"
+    ],
+    [
+      "Hammer",
+      "height",
+      "25 to 35 centimeters"
+    ],
+    [
+      "Hammer",
+      "weight",
+      "500 grams to 1 kilogram"
+    ],
+    [
+      "Hammer",
+      "lifespan",
+      "10 to 20 years"
+    ],
+    [
+      "Hammer",
+      "manufacturer",
+      "Tool and hardware manufacturing companies"
+    ]
+  ]
+}

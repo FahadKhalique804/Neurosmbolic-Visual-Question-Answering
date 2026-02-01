@@ -1,0 +1,13 @@
+{
+    "object": "Oven",
+    "triplets": [
+        ["Oven", "subclass of", "Kitchen appliance used for baking, roasting, and heating food"],
+        ["Oven", "used for", "Baking bread, roasting meats, reheating food, and cooking casseroles"],
+        ["Oven", "material used", "Metal, glass, insulation materials, heating elements, and electronic components"],
+        ["Oven", "has part", "Door, heating elements, thermostat, racks, and control panel"],
+        ["Oven", "color", "Typically stainless steel, black, white, or silver"],
+        ["Oven", "size", "Varies: compact countertop models to large built-in ovens"],
+        ["Oven", "manufacturer", "Appliance manufacturers like Whirlpool, Bosch, GE, etc."],
+        ["Oven", "lifespan", "10–15 years with proper maintenance"]
+    ]
+}

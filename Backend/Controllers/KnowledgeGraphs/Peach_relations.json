@@ -1,0 +1,14 @@
+{
+    "object": "Peach",
+    "triplets": [
+        ["Peach", "subclass of", "Stone fruit with juicy flesh, fuzzy skin, and sweet flavor"],
+        ["Peach", "used for", "Eating fresh, pies, jams, preserves, smoothies, and grilling"],
+        ["Peach", "material used", "Flesh, skin, pit, and sometimes leaves and flowers"],
+        ["Peach", "has part", "Fuzzy skin, edible flesh, and hard pit in the center"],
+        ["Peach", "color", "Yellow-orange with red blush; white-fleshed varieties also exist"],
+        ["Peach", "part of", "Orchard fruits, summer harvests, and dessert recipes"],
+        ["Peach", "manufacturer", "Farmers and fruit growers in temperate regions"],
+        ["Peach", "weight", "Approximately 100–200g per fruit"],
+        ["Peach", "lifespan", "Ripe: a few days at room temperature; longer if refrigerated"]
+    ]
+}

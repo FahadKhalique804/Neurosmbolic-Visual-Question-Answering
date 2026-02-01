@@ -1,0 +1,14 @@
+{
+    "object": "Tea Pot",
+    "triplets": [
+        ["Tea Pot","subclass of","Kitchenware"],
+        ["Tea Pot","used for","Brewing and serving tea"],
+        ["Tea Pot","material used","Ceramic, glass, stainless steel, cast iron"],
+        ["Tea Pot","has part","Body, lid, spout, handle"],
+        ["Tea Pot","color","Varies"],
+        ["Tea Pot","part of","Kitchen utensils, dining set"],
+        ["Tea Pot","manufacturer","Various kitchenware brands"],
+        ["Tea Pot","weight","0.5–2 kg"],
+        ["Tea Pot","height","10–20 cm"]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+  "object": "Golf Club",
+  "triplets": [
+    [
+      "Golf Club",
+      "subclass of",
+      "Sports equipment"
+    ],
+    [
+      "Golf Club",
+      "has part",
+      "Grip, shaft, club head"
+    ],
+    [
+      "Golf Club",
+      "part of",
+      "Golf equipment set"
+    ],
+    [
+      "Golf Club",
+      "used for",
+      "Hitting golf balls during play"
+    ],
+    [
+      "Golf Club",
+      "material used",
+      "Steel, graphite, titanium, rubber grip"
+    ],
+    [
+      "Golf Club",
+      "color",
+      "Metallic with black or colored grip"
+    ],
+    [
+      "Golf Club",
+      "height",
+      "90 to 115 centimeters"
+    ],
+    [
+      "Golf Club",
+      "weight",
+      "300 to 500 grams"
+    ],
+    [
+      "Golf Club",
+      "lifespan",
+      "5 to 15 years"
+    ],
+    [
+      "Golf Club",
+      "manufacturer",
+      "Golf equipment manufacturers"
+    ]
+  ]
+}

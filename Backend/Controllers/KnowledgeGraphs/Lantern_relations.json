@@ -1,0 +1,45 @@
+{
+  "object": "Lantern",
+  "triplets": [
+    ["Lantern", 
+    "subclass of",
+     "Lighting Device"
+    ],
+    ["Lantern",
+     "has part",
+      "Body, Glass cover, Handle, Light source"
+    ],
+    ["Lantern", 
+    "part of",
+     "Outdoor Equipment"
+    ],
+    ["Lantern",
+     "used for",
+      "Portable illumination"
+    ],
+    ["Lantern",
+     "material used",
+      "Metal, Glass, Plastic"
+    ],
+    ["Lantern",
+     "color", 
+     "Silver, Black, Multicolor"
+    ],
+    ["Lantern", 
+    "height",
+     "20-40 cm"
+    ],
+    ["Lantern",
+     "weight", 
+     "0.5-2 kg"
+    ],
+    ["Lantern",
+     "lifespan",
+      "5-15 years"
+    ],
+    ["Lantern", 
+    "manufacturer",
+     "Coleman, Eveready, Local brands"
+    ]
+  ]
+}

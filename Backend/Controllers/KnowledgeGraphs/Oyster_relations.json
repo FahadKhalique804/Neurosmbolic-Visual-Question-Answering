@@ -1,0 +1,13 @@
+{
+    "object": "Oyster",
+    "triplets": [
+        ["Oyster", "subclass of", "Marine bivalve mollusk known for its shell and edible flesh"],
+        ["Oyster", "used for", "Eating raw or cooked, pearl production, and ecological filtration"],
+        ["Oyster", "material used", "Calcium carbonate shell, soft tissue, and sometimes pearls"],
+        ["Oyster", "has part", "Shell, mantle, gills, adductor muscle, and sometimes pearl"],
+        ["Oyster", "color", "Shell: gray, white, or brown; flesh: creamy or grayish"],
+        ["Oyster", "part of", "Marine ecosystems, oyster reefs, and seafood cuisine"],
+        ["Oyster", "manufacturer", "Oyster farms, wild harvesters, and seafood distributors"],
+        ["Oyster", "lifespan", "Typically 1–3 years for food oysters; pearl oysters can live decades"]
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "object": "Paint Brush",
+    "triplets": [
+        ["Paint Brush", "subclass of", "Tool with bristles used to apply paint or other liquids"],
+        ["Paint Brush", "used for", "Painting walls, canvas, furniture, artwork, and craft projects"],
+        ["Paint Brush", "material used", "Bristles (natural or synthetic), wood or plastic handle, metal ferrule"],
+        ["Paint Brush", "has part", "Handle, bristles, ferrule, and sometimes a protective cap"],
+        ["Paint Brush", "color", "Typically wooden handle with colored bristles indicating type"],
+        ["Paint Brush", "size", "Various sizes from fine detail brushes to broad wall brushes"],
+        ["Paint Brush", "manufacturer", "Art supply brands, hardware companies, and brush makers"],
+        ["Paint Brush", "lifespan", "Months to years depending on care and frequency of use"]
+    ]
+}

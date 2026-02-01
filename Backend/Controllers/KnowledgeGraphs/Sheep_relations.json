@@ -1,0 +1,50 @@
+{
+    "object": "Sheep",
+    "triplets": [
+        [
+            "Sheep",
+            "subclass of",
+            "Domesticated ruminant mammal bred for wool, meat, and milk"
+        ],
+        [
+            "Sheep",
+            "used for",
+            "Wool production, meat (mutton, lamb), milk, leather, and grazing for land management"
+        ],
+        [
+            "Sheep",
+            "material used",
+            "Not applicable (living animal)"
+        ],
+        [
+            "Sheep",
+            "has part",
+            "Wool coat, hooves, ears, tail, horns (in some breeds), eyes, muzzle, four legs, stomach compartments"
+        ],
+        [
+            "Sheep",
+            "color",
+            "White, black, brown, gray depending on breed"
+        ],
+        [
+            "Sheep",
+            "part of",
+            "Farm livestock, agricultural ecosystem"
+        ],
+        [
+            "Sheep",
+            "manufacturer",
+            "Not applicable (living animal)"
+        ],
+        [
+            "Sheep",
+            "weight",
+            "45–160 kg depending on breed and gender"
+        ],
+        [
+            "Sheep",
+            "height",
+            "60–120 cm at shoulder depending on breed"
+        ]
+    ]
+}

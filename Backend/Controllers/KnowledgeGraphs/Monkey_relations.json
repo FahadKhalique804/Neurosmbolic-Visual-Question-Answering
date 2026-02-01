@@ -1,0 +1,15 @@
+{
+    "object": "Monkey",
+    "triplets": [
+        ["Monkey", "subclass of", "Primate mammal found in tropical regions"],
+        ["Monkey", "used for", "Ecological roles and research"],
+        ["Monkey", "material used", "Biological tissues"],
+        ["Monkey", "has part", "Limbs adapted for climbing"],
+        ["Monkey", "has part", "Tail used for balance"],
+        ["Monkey", "color", "Brown, gray, or black fur"],
+        ["Monkey", "part of", "Forest ecosystems"],
+        ["Monkey", "manufacturer", "Naturally reproducing species"],
+        ["Monkey", "weight", "3–35 kilograms"],
+        ["Monkey", "lifespan", "15–40 years depending on species"]
+    ]
+}

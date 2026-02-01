@@ -1,0 +1,15 @@
+{
+    "object": "Rabbit",
+    "triplets": [
+        ["Rabbit", "subclass of", "Small mammal with long ears, known for breeding quickly"],
+        ["Rabbit", "used for", "Pets, meat, fur, laboratory research, and pest control"],
+        ["Rabbit", "material used", "Fur, meat, bones, and sometimes organs for medical use"],
+        ["Rabbit", "has part", "Long ears, fluffy tail, strong hind legs, and soft fur"],
+        ["Rabbit", "color", "White, brown, black, gray, or spotted patterns"],
+        ["Rabbit", "part of", "Pet trade, agriculture, and wild ecosystems"],
+        ["Rabbit", "manufacturer", "Not manufactured; bred on farms or born in wild"],
+        ["Rabbit", "weight", "Approximately 1–5 kg depending on breed"],
+        ["Rabbit", "length", "Approximately 30–50 cm from nose to tail"],
+        ["Rabbit", "lifespan", "5–10 years as pets; shorter in wild"]
+    ]
+}

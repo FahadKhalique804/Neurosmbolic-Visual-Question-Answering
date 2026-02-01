@@ -1,0 +1,15 @@
+{
+    "object": "Lipstick",
+    "triplets": [
+        ["Lipstick", "subclass of", "Cosmetic product applied to lips for color and protection"],
+        ["Lipstick", "used for", "Cosmetic enhancement and personal grooming"],
+        ["Lipstick", "material used", "Wax, oils, pigments, and emollients"],
+        ["Lipstick", "has part", "Solid color stick enclosed in a casing"],
+        ["Lipstick", "has part", "Twist-up tube mechanism"],
+        ["Lipstick", "color", "Wide range including red, pink, nude, and brown"],
+        ["Lipstick", "part of", "Beauty and cosmetics industry"],
+        ["Lipstick", "manufacturer", "Various cosmetic brands"],
+        ["Lipstick", "weight", "3–5 grams of product"],
+        ["Lipstick", "lifespan", "1–2 years after opening"]
+    ]
+}

@@ -1,0 +1,45 @@
+{
+  "object": "Kite",
+  "triplets": [
+    ["Kite",
+     "subclass of",
+      "Toy"
+    ],
+    ["Kite", 
+    "has part",
+     "Sail, Frame, String, Tail"
+    ],
+    ["Kite",
+     "part of",
+      "Outdoor Games"
+    ],
+    ["Kite",
+     "used for", 
+     "Flying in wind for recreation"
+    ],
+    ["Kite",
+     "material used", 
+     "Paper, Plastic, Bamboo, String"
+    ],
+    ["Kite", 
+    "color", 
+    "Varies: Multicolor"
+],
+    ["Kite",
+     "height",
+      "30-100 cm"
+    ],
+    ["Kite",
+     "weight",
+      "50-300 grams"
+    ],
+    ["Kite",
+     "lifespan",
+      "1 season"
+    ],
+    ["Kite",
+     "manufacturer",
+      "Local kite makers, Hobby brands"
+    ]
+  ]
+}

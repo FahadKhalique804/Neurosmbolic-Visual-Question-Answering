@@ -1,0 +1,55 @@
+{
+  "object": "Hamburger",
+  "triplets": [
+    [
+      "Hamburger",
+      "subclass of",
+      "Prepared fast food item"
+    ],
+    [
+      "Hamburger",
+      "has part",
+      "Bun, patty, vegetables, sauces"
+    ],
+    [
+      "Hamburger",
+      "part of",
+      "Fast food and restaurant meals"
+    ],
+    [
+      "Hamburger",
+      "used for",
+      "Human consumption as a meal"
+    ],
+    [
+      "Hamburger",
+      "material used",
+      "Bread, meat or plant-based patty, vegetables"
+    ],
+    [
+      "Hamburger",
+      "color",
+      "Brown bun with multicolored fillings"
+    ],
+    [
+      "Hamburger",
+      "height",
+      "7 to 10 centimeters"
+    ],
+    [
+      "Hamburger",
+      "weight",
+      "150 to 300 grams"
+    ],
+    [
+      "Hamburger",
+      "lifespan",
+      "Few hours after preparation"
+    ],
+    [
+      "Hamburger",
+      "manufacturer",
+      "Restaurants and food service providers"
+    ]
+  ]
+}

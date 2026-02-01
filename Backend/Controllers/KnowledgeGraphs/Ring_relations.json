@@ -1,0 +1,15 @@
+{
+    "object": "Ring",
+    "triplets": [
+        ["Ring", "subclass of", "Circular band worn on finger as jewelry or symbolic ornament"],
+        ["Ring", "used for", "Fashion accessory, marriage/engagement, awards, religious or cultural symbolism, and identification"],
+        ["Ring", "material used", "Gold, silver, platinum, titanium, stainless steel, gemstones, diamonds, or synthetic materials"],
+        ["Ring", "has part", "Band, setting, gemstone (if any), engraving area, and sometimes decorative patterns"],
+        ["Ring", "color", "Metallic tones (yellow, white, rose gold) or colored by gemstones (clear, red, blue, etc.)"],
+        ["Ring", "part of", "Jewelry collections, ceremonial traditions, and personal adornment"],
+        ["Ring", "manufacturer", "Jewelers, jewelry brands, artisans, and manufacturers like Cartier, Tiffany, or local craftsmen"],
+        ["Ring", "diameter", "Typically 1.5–2.5 cm inner diameter, depending on finger size"],
+        ["Ring", "weight", "Approximately 2–20 grams depending on material and design"],
+        ["Ring", "lifespan", "Can last generations with proper care; metal rings may last indefinitely"]
+    ]
+}

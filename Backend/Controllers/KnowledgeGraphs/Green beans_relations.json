@@ -1,0 +1,55 @@
+{
+  "object": "Green Beans",
+  "triplets": [
+    [
+      "Green Beans",
+      "subclass of",
+      "Edible vegetable and legume"
+    ],
+    [
+      "Green Beans",
+      "has part",
+      "Pod, seeds, outer skin"
+    ],
+    [
+      "Green Beans",
+      "part of",
+      "Vegetable and agricultural produce category"
+    ],
+    [
+      "Green Beans",
+      "used for",
+      "Cooking, boiling, and consumption as food"
+    ],
+    [
+      "Green Beans",
+      "material used",
+      "Organic plant matter"
+    ],
+    [
+      "Green Beans",
+      "color",
+      "Green"
+    ],
+    [
+      "Green Beans",
+      "height",
+      "10 to 15 centimeters per bean"
+    ],
+    [
+      "Green Beans",
+      "weight",
+      "4 to 6 grams per bean"
+    ],
+    [
+      "Green Beans",
+      "lifespan",
+      "7 to 10 days after harvesting"
+    ],
+    [
+      "Green Beans",
+      "manufacturer",
+      "Farmers and agricultural producers"
+    ]
+  ]
+}

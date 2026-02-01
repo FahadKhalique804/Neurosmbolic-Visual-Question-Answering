@@ -1,0 +1,15 @@
+{
+    "object": "Lion",
+    "triplets": [
+        ["Lion", "subclass of", "Large carnivorous mammal belonging to the genus Panthera"],
+        ["Lion", "used for", "Predation and maintaining ecological balance"],
+        ["Lion", "material used", "Biological tissues such as fur, muscle, and bone"],
+        ["Lion", "has part", "Mane in adult males used for display and protection"],
+        ["Lion", "has part", "Sharp teeth and claws for hunting prey"],
+        ["Lion", "color", "Golden to light brown coat"],
+        ["Lion", "part of", "Savanna and grassland ecosystems"],
+        ["Lion", "manufacturer", "Naturally occurring species through reproduction"],
+        ["Lion", "weight", "150–250 kilograms depending on sex"],
+        ["Lion", "lifespan", "10–14 years in the wild, longer in captivity"]
+    ]
+}

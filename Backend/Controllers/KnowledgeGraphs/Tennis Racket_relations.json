@@ -1,0 +1,14 @@
+{
+    "object": "Tennis Racket",
+    "triplets": [
+        ["Tennis Racket","subclass of","Sports equipment"],
+        ["Tennis Racket","used for","Playing tennis"],
+        ["Tennis Racket","material used","Graphite, aluminum, strings, rubber grip"],
+        ["Tennis Racket","has part","Frame, handle, strings, grip, throat"],
+        ["Tennis Racket","color","Varies"],
+        ["Tennis Racket","part of","Tennis equipment"],
+        ["Tennis Racket","manufacturer","Wilson, Babolat, Head, Yonex"],
+        ["Tennis Racket","weight","250–350 grams"],
+        ["Tennis Racket","height","68–73 cm"]
+    ]
+}

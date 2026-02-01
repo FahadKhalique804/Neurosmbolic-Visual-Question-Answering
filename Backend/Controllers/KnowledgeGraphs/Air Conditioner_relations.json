@@ -1,0 +1,50 @@
+{
+    "object": "Air Conditioner",
+    "triplets": [
+        [
+            "Air Conditioner",
+            "subclass of",
+            "Electronics appliance designed for climate control and indoor air cooling"
+        ],
+        [
+            "Air Conditioner",
+            "used for",
+            "Cooling indoor spaces, regulating temperature, reducing humidity, and improving air comfort"
+        ],
+        [
+            "Air Conditioner",
+            "material used",
+            "Outer body of plastic or metal with internal components of copper, aluminum coils, compressors, wiring, and filters"
+        ],
+        [
+            "Air Conditioner",
+            "has part",
+            "Compressor, condenser coil, evaporator coil, fan, air filter, thermostat, refrigerant pipes, remote control, vents"
+        ],
+        [
+            "Air Conditioner",
+            "color",
+            "White, Silver, or Light Grey depending on model"
+        ],
+        [
+            "Air Conditioner",
+            "part of",
+            "Home appliances, office cooling systems, HVAC systems"
+        ],
+        [
+            "Air Conditioner",
+            "manufacturer",
+            "Various manufacturers"
+        ],
+        [
+            "Air Conditioner",
+            "weight",
+            "20–60 kg depending on window, split, or portable model"
+        ],
+        [
+            "Air Conditioner",
+            "height",
+            "25–35 cm for indoor units, larger for outdoor units"
+        ]
+    ]
+}

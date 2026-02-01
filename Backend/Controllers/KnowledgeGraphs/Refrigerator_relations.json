@@ -1,0 +1,15 @@
+{
+    "object": "Refrigerator",
+    "triplets": [
+        ["Refrigerator", "subclass of", "Household appliance for cooling and preserving food"],
+        ["Refrigerator", "used for", "Food storage, freezing, beverage cooling, and extending shelf life"],
+        ["Refrigerator", "material used", "Metal, plastic, glass, insulation foam, and refrigerant gases"],
+        ["Refrigerator", "has part", "Compressor, condenser, evaporator, shelves, door seals, and controls"],
+        ["Refrigerator", "color", "White, stainless steel, black, or colored finishes"],
+        ["Refrigerator", "part of", "Kitchens, food storage systems, and modern households"],
+        ["Refrigerator", "manufacturer", "LG, Samsung, Whirlpool, GE, and other appliance makers"],
+        ["Refrigerator", "height", "Approximately 150–180 cm for standard models"],
+        ["Refrigerator", "weight", "Approximately 60–100 kg"],
+        ["Refrigerator", "lifespan", "10–20 years with proper maintenance"]
+    ]
+}

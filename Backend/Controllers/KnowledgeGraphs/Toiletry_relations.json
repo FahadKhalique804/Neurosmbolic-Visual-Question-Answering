@@ -1,0 +1,13 @@
+{
+    "object": "Toiletry",
+    "triplets": [
+        ["Toiletry", "subclass of", "personal care and hygiene item"],
+        ["Toiletry", "used for", "Maintaining personal hygiene and grooming"],
+        ["Toiletry", "material used", "Varies depending on item (plastic, cloth, liquid formulations)"],
+        ["Toiletry", "has part", "Items like toothbrush, toothpaste, soap, shampoo, deodorant"],
+        ["Toiletry", "part of", "Bathroom essentials and travel kits"],
+        ["Toiletry", "manufacturer", "Various brands"],
+        ["Toiletry", "weight", "Varies per item"],
+        ["Toiletry", "height", "Varies per item"]
+    ]
+}

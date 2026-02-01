@@ -1,0 +1,52 @@
+
+
+{
+    "object": "Skating and Skiing shoes",
+    "triplets": [
+        [
+            "Skating and Skiing shoes",
+            "subclass of",
+            "Footwear designed for skating or skiing with support and specialized attachment system"
+        ],
+        [
+            "Skating and Skiing shoes",
+            "used for",
+            "Ice skating, roller skating, skiing on snow"
+        ],
+        [
+            "Skating and Skiing shoes",
+            "material used",
+            "Leather, synthetic fabric, plastic, metal blades (skates), bindings (ski shoes)"
+        ],
+        [
+            "Skating and Skiing shoes",
+            "has part",
+            "Boot, lace/straps, sole, blade (skates), binding connector (ski shoes)"
+        ],
+        [
+            "Skating and Skiing shoes",
+            "color",
+            "Varies"
+        ],
+        [
+            "Skating and Skiing shoes",
+            "part of",
+            "Sports equipment for skating or skiing"
+        ],
+        [
+            "Skating and Skiing shoes",
+            "manufacturer",
+            "Bauer, CCM, Salomon, Nordica, Rollerblade, K2"
+        ],
+        [
+            "Skating and Skiing shoes",
+            "weight",
+            "1–3 kg per pair"
+        ],
+        [
+            "Skating and Skiing shoes",
+            "height",
+            "20–35 cm"
+        ]
+    ]
+}

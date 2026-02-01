@@ -1,0 +1,55 @@
+{
+  "object": "Dishwasher",
+  "triplets": [
+    [
+      "Dishwasher",
+      "subclass of",
+      "Electrical home appliance for cleaning utensils"
+    ],
+    [
+      "Dishwasher",
+      "has part",
+      "Spray arms, racks, detergent dispenser, control panel"
+    ],
+    [
+      "Dishwasher",
+      "part of",
+      "Modern kitchen appliance system"
+    ],
+    [
+      "Dishwasher",
+      "used for",
+      "Automatically washing and drying dishes and cutlery"
+    ],
+    [
+      "Dishwasher",
+      "material used",
+      "Stainless steel interior, plastic components, electronic parts"
+    ],
+    [
+      "Dishwasher",
+      "color",
+      "Silver, white, black, or gray"
+    ],
+    [
+      "Dishwasher",
+      "height",
+      "Approximately 80 to 85 centimeters"
+    ],
+    [
+      "Dishwasher",
+      "weight",
+      "Around 30 to 50 kilograms"
+    ],
+    [
+      "Dishwasher",
+      "lifespan",
+      "10 to 15 years depending on usage"
+    ],
+    [
+      "Dishwasher",
+      "manufacturer",
+      "Home appliance manufacturing companies"
+    ]
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "object": "Table Tennis",
+    "triplets": [
+        ["Table Tennis","subclass of","Indoor sport/game"],
+        ["Table Tennis","used for","Playing competitive or recreational matches"],
+        ["Table Tennis","material used","Wood, metal, plastic for table and net; balls are celluloid or plastic"],
+        ["Table Tennis","has part","Table, net, paddles, ball"],
+        ["Table Tennis","color","Green or blue table, white ball"],
+        ["Table Tennis","part of","Indoor sports and recreation"],
+        ["Table Tennis","manufacturer","STIGA, Butterfly, JOOLA, DHS"],
+        ["Table Tennis","weight","Table: 70–100 kg, ball: 2.7 g"],
+        ["Table Tennis","height","Table height: 76 cm"]
+    ]
+}

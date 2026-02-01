@@ -1,0 +1,55 @@
+{
+  "object": "Hat",
+  "triplets": [
+    [
+      "Hat",
+      "subclass of",
+      "Headwear and clothing accessory"
+    ],
+    [
+      "Hat",
+      "has part",
+      "Crown, brim, inner band"
+    ],
+    [
+      "Hat",
+      "part of",
+      "Clothing and fashion accessories"
+    ],
+    [
+      "Hat",
+      "used for",
+      "Protection from sun, cold, or style purposes"
+    ],
+    [
+      "Hat",
+      "material used",
+      "Fabric, wool, straw, or synthetic fibers"
+    ],
+    [
+      "Hat",
+      "color",
+      "Various colors and patterns"
+    ],
+    [
+      "Hat",
+      "height",
+      "10 to 15 centimeters"
+    ],
+    [
+      "Hat",
+      "weight",
+      "100 to 300 grams"
+    ],
+    [
+      "Hat",
+      "lifespan",
+      "2 to 8 years"
+    ],
+    [
+      "Hat",
+      "manufacturer",
+      "Clothing and fashion brands"
+    ]
+  ]
+}

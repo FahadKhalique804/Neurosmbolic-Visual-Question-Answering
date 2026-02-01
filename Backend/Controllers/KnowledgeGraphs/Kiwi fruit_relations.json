@@ -1,0 +1,45 @@
+{
+  "object": "Kiwi Fruit",
+  "triplets": [
+    ["Kiwi Fruit",
+     "subclass of",
+      "Fruit"
+    ],
+    ["Kiwi Fruit",
+     "has part",
+      "Skin, Flesh, Seeds"
+    ],
+    ["Kiwi Fruit",
+     "part of",
+      "Diet/Food"
+    ],
+    ["Kiwi Fruit",
+     "used for",
+      "Eating raw, Juices, Salads"
+    ],
+    ["Kiwi Fruit",
+     "material used",
+      "Natural plant matter"
+    ],
+    ["Kiwi Fruit",
+     "color", 
+     "Brown (skin), Green (flesh)"
+    ],
+    ["Kiwi Fruit",
+     "height",
+      "5-8 cm"
+    ],
+    ["Kiwi Fruit",
+     "weight", 
+     "75-100 grams"
+    ],
+    ["Kiwi Fruit",
+     "lifespan",
+      "1-2 weeks refrigerated"
+    ],
+    ["Kiwi Fruit",
+     "manufacturer",
+      "New Zealand orchards, Local farms"
+    ]
+  ]
+}

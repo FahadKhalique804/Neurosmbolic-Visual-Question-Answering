@@ -1,0 +1,45 @@
+{
+  "object": "Hoverboard",
+  "triplets": [
+    ["Hoverboard",
+     "subclass of",
+      "Electric Vehicle"
+    ],
+    ["Hoverboard",
+     "has part", 
+     "Battery, Wheels, Gyroscope, Motor"
+    ],
+    ["Hoverboard",
+     "part of",
+      "Personal Transport Devices"
+    ],
+    ["Hoverboard",
+     "used for",
+      "Short-distance personal transport"
+    ],
+    ["Hoverboard",
+     "material used", 
+     "Plastic, Aluminum, Lithium Battery"
+    ],
+    ["Hoverboard", 
+    "color",
+     "Black, White, Blue, Red"
+    ],
+    ["Hoverboard",
+     "height", 
+     "0.15 m"
+    ],
+    ["Hoverboard", 
+    "weight",
+     "12 kg"
+    ],
+    ["Hoverboard", 
+    "lifespan", 
+    "3-5 years"
+],
+    ["Hoverboard",
+     "manufacturer",
+      "Segway, Razor, Xiaomi"
+    ]
+  ]
+}

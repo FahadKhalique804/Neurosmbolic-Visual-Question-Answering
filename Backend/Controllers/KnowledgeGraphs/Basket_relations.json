@@ -1,0 +1,60 @@
+{
+    "object": "Basket",
+    "triplets": [
+        [
+            "Basket",
+            "subclass of",
+            "Container used for holding, carrying, or storing items, available in various shapes and sizes"
+        ],
+        [
+            "Basket",
+            "used for",
+            "Carrying groceries, household items, laundry, fruits, or decorative purposes"
+        ],
+        [
+            "Basket",
+            "material used",
+            "Wood, straw, wicker, rattan, plastic, or metal depending on design and intended use"
+        ],
+        [
+            "Basket",
+            "has part",
+            "Handle for easy carrying or hanging"
+        ],
+        [
+            "Basket",
+            "has part",
+            "Body or main compartment for holding items"
+        ],
+        [
+            "Basket",
+            "color",
+            "Varies widely depending on materials and manufacturer; can be natural, painted, or dyed"
+        ],
+        [
+            "Basket",
+            "part of",
+            "Household items, storage solutions, decorative arrangements, and shopping accessories"
+        ],
+        [
+            "Basket",
+            "manufacturer",
+            "Various manufacturers producing baskets for domestic, commercial, and decorative purposes"
+        ],
+        [
+            "Basket",
+            "weight",
+            "Varies depending on size, material, and design"
+        ],
+        [
+            "Basket",
+            "height",
+            "Typically 20–50 cm depending on type and purpose"
+        ],
+        [
+            "Basket",
+            "lifespan",
+            "Typically 2–10 years depending on materials, frequency of use, and maintenance"
+        ]
+    ]
+}

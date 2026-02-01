@@ -1,0 +1,60 @@
+{
+    "object": "Bread",
+    "triplets": [
+        [
+            "Bread",
+            "subclass of",
+            "Food made from flour, water, yeast, and other ingredients, typically baked"
+        ],
+        [
+            "Bread",
+            "used for",
+            "Eating as a staple food, making sandwiches, toasting, and cooking"
+        ],
+        [
+            "Bread",
+            "material used",
+            "Wheat flour, yeast, water, salt; may include sugar, milk, eggs, and seeds depending on type"
+        ],
+        [
+            "Bread",
+            "has part",
+            "Crust, the outer baked layer providing texture and flavor"
+        ],
+        [
+            "Bread",
+            "has part",
+            "Crumb, the soft inner portion of the bread"
+        ],
+        [
+            "Bread",
+            "color",
+            "Varies depending on flour type and baking; common colors include white, brown, golden, or multigrain"
+        ],
+        [
+            "Bread",
+            "part of",
+            "Bakery products, staple diet, breakfast and snack items"
+        ],
+        [
+            "Bread",
+            "manufacturer",
+            "Various bakeries and commercial bread producers"
+        ],
+        [
+            "Bread",
+            "weight",
+            "Typically 200–1000 grams depending on loaf size"
+        ],
+        [
+            "Bread",
+            "height",
+            "Approximately 5–15 cm depending on loaf type"
+        ],
+        [
+            "Bread",
+            "lifespan",
+            "Typically 2–7 days depending on storage and bread type; longer if frozen or preserved"
+        ]
+    ]
+}

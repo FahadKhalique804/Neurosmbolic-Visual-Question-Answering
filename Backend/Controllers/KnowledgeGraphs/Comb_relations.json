@@ -1,0 +1,60 @@
+{
+    "object": "Comb",
+    "triplets": [
+        [
+            "Comb",
+            "subclass of",
+            "Personal care tool used for grooming and styling hair"
+        ],
+        [
+            "Comb",
+            "used for",
+            "Combing, detangling, and styling hair"
+        ],
+        [
+            "Comb",
+            "material used",
+            "Plastic, Metal depending on type and design"
+        ],
+        [
+            "Comb",
+            "has part",
+            "Teeth, Handle"
+        ],
+        [
+            "Comb",
+            "color",
+            "Varies depending on material and brand"
+        ],
+        [
+            "Comb",
+            "part of",
+            "Hair care accessories"
+        ],
+        [
+            "Comb",
+            "manufacturer",
+            "Various manufacturers"
+        ],
+        [
+            "Comb",
+            "shape",
+            "Rectangular or ergonomic depending on design"
+        ],
+        [
+            "Comb",
+            "weight",
+            "Lightweight, typically under 50 grams"
+        ],
+        [
+            "Comb",
+            "length",
+            "Varies depending on size and type"
+        ],
+        [
+            "Comb",
+            "lifespan",
+            "Not applicable"
+        ]
+    ]
+}

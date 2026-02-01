@@ -1,0 +1,13 @@
+{
+    "object": "Pasta",
+    "triplets": [
+        ["Pasta", "subclass of", "Italian staple food made from dough, dried or fresh, in various shapes"],
+        ["Pasta", "used for", "Boiling and serving with sauce, baking in casseroles, soups, and salads"],
+        ["Pasta", "material used", "Durum wheat flour, water, eggs, and sometimes vegetable pigments"],
+        ["Pasta", "has part", "Dough formed into shapes like spaghetti, penne, fusilli, etc."],
+        ["Pasta", "color", "Typically yellow; can be green (spinach), red (tomato), or black (squid ink)"],
+        ["Pasta", "manufacturer", "Pasta manufacturers, artisanal producers, and home cooks"],
+        ["Pasta", "weight", "Dried: 100–500g per package; fresh varies"],
+        ["Pasta", "lifespan", "Dried: 1–2 years; fresh: a few days refrigerated"]
+    ]
+}

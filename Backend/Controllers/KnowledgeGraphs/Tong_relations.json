@@ -1,0 +1,13 @@
+{
+    "object": "Tong",
+    "triplets": [
+        ["Tong", "subclass of", "hand tool for gripping or lifting"],
+        ["Tong", "used for", "Cooking, grilling, serving food"],
+        ["Tong", "material used", "Stainless steel, silicone, wood"],
+        ["Tong", "has part", "Arms, hinge, gripping ends"],
+        ["Tong", "part of", "Kitchen utensils"],
+        ["Tong", "manufacturer", "Various brands"],
+        ["Tong", "weight", "100–300 g"],
+        ["Tong", "height", "20–40 cm length"]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "object": "Pineapple",
+    "triplets": [
+        ["Pineapple", "subclass of", "Tropical fruit with sweet, juicy flesh and rough, spiky skin"],
+        ["Pineapple", "used for", "Eating fresh, juicing, cooking, baking, and as a garnish"],
+        ["Pineapple", "material used", "Fleshy fruit, tough skin, leaves, and core"],
+        ["Pineapple", "has part", "Spiky skin, edible yellow flesh, fibrous core, and crown of leaves"],
+        ["Pineapple", "color", "Yellow flesh, green leaves, and brownish spiky skin"],
+        ["Pineapple", "part of", "Tropical agriculture, fruit markets, and culinary use"],
+        ["Pineapple", "manufacturer", "Farmers in tropical regions and fruit distributors"],
+        ["Pineapple", "weight", "Approximately 1–2 kg per fruit"],
+        ["Pineapple", "height", "Approximately 20–30 cm tall including leaves"],
+        ["Pineapple", "lifespan", "1–2 weeks at room temperature; longer if refrigerated after cutting"]
+    ]
+}

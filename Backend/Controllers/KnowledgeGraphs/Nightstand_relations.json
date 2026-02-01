@@ -1,0 +1,13 @@
+{
+    "object": "Nightstand",
+    "triplets": [
+        ["Nightstand", "subclass of", "Small table or cabinet placed beside a bed"],
+        ["Nightstand", "used for", "Holding lamps, books, glasses, phones, and other bedside items"],
+        ["Nightstand", "material used", "Wood, metal, glass, MDF, or plastic"],
+        ["Nightstand", "has part", "Drawer, shelf, cabinet door, and sometimes electrical outlets"],
+        ["Nightstand", "color", "Varies with finish: wood tones, painted colors, metallic, etc."],
+        ["Nightstand", "height", "Typically 60–70 cm to align with bed height"],
+        ["Nightstand", "part of", "Bedroom furniture set and sleep environment"],
+        ["Nightstand", "manufacturer", "Furniture manufacturers and retailers"]
+    ]
+}

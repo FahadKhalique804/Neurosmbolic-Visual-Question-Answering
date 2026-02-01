@@ -1,0 +1,55 @@
+{
+  "object": "Guitar",
+  "triplets": [
+    [
+      "Guitar",
+      "subclass of",
+      "Stringed musical instrument"
+    ],
+    [
+      "Guitar",
+      "has part",
+      "Body, neck, strings, frets, tuning pegs"
+    ],
+    [
+      "Guitar",
+      "part of",
+      "Musical instruments and performance equipment"
+    ],
+    [
+      "Guitar",
+      "used for",
+      "Producing music and sound accompaniment"
+    ],
+    [
+      "Guitar",
+      "material used",
+      "Wood, metal strings, plastic components"
+    ],
+    [
+      "Guitar",
+      "color",
+      "Brown, black, sunburst, or custom finishes"
+    ],
+    [
+      "Guitar",
+      "height",
+      "95 to 105 centimeters"
+    ],
+    [
+      "Guitar",
+      "weight",
+      "2 to 4 kilograms"
+    ],
+    [
+      "Guitar",
+      "lifespan",
+      "20 to 50 years with proper maintenance"
+    ],
+    [
+      "Guitar",
+      "manufacturer",
+      "Musical instrument manufacturing companies"
+    ]
+  ]
+}

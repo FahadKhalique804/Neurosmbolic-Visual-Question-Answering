@@ -1,0 +1,50 @@
+{
+    "object": "Stop Sign",
+    "triplets": [
+        [
+            "Stop Sign",
+            "subclass of",
+            "Traffic control sign"
+        ],
+        [
+            "Stop Sign",
+            "used for",
+            "Instructing vehicles to stop at intersections"
+        ],
+        [
+            "Stop Sign",
+            "material used",
+            "Aluminum plate, reflective coating"
+        ],
+        [
+            "Stop Sign",
+            "has part",
+            "Octagonal sign, pole, reflective surface"
+        ],
+        [
+            "Stop Sign",
+            "color",
+            "Red and white"
+        ],
+        [
+            "Stop Sign",
+            "part of",
+            "Road traffic system"
+        ],
+        [
+            "Stop Sign",
+            "manufacturer",
+            "Traffic sign companies"
+        ],
+        [
+            "Stop Sign",
+            "weight",
+            "2–12 kg"
+        ],
+        [
+            "Stop Sign",
+            "height",
+            "60–90 cm (signboard)"
+        ]
+    ]
+}

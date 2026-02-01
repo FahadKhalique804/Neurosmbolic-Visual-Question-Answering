@@ -1,0 +1,55 @@
+{
+    "object": "Crosswalk Sign",
+    "triplets": [
+        [
+            "Crosswalk Sign",
+            "subclass of",
+            "Traffic control device used to indicate pedestrian crossings"
+        ],
+        [
+            "Crosswalk Sign",
+            "used for",
+            "Ensuring pedestrian safety by signaling designated crossing areas"
+        ],
+        [
+            "Crosswalk Sign",
+            "material used",
+            "Metal, Reflective materials for visibility"
+        ],
+        [
+            "Crosswalk Sign",
+            "color",
+            "White and Black (standard) or Varies by region"
+        ],
+        [
+            "Crosswalk Sign",
+            "manufacturer",
+            "Various manufacturers"
+        ],
+        [
+            "Crosswalk Sign",
+            "has part",
+            "Signboard, Pole, Reflective coating"
+        ],
+        [
+            "Crosswalk Sign",
+            "weight",
+            "Varies depending on size and materials"
+        ],
+        [
+            "Crosswalk Sign",
+            "height",
+            "Typically 2-3 meters from ground level"
+        ],
+        [
+            "Crosswalk Sign",
+            "part of",
+            "Road traffic control system"
+        ],
+        [
+            "Crosswalk Sign",
+            "lifespan",
+            "5-15 years depending on exposure and maintenance"
+        ]
+    ]
+}

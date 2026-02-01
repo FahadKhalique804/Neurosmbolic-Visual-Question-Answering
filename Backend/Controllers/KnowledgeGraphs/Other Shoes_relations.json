@@ -1,0 +1,13 @@
+{
+    "object": "Other Shoes",
+    "triplets": [
+        ["Other Shoes", "subclass of", "Footwear designed for protection, comfort, and fashion"],
+        ["Other Shoes", "used for", "Walking, running, sports, formal events, work, and casual wear"],
+        ["Other Shoes", "material used", "Leather, rubber, canvas, synthetic fabrics, foam, and plastics"],
+        ["Other Shoes", "has part", "Sole, insole, upper, laces, heel, and toe cap"],
+        ["Other Shoes", "color", "Virtually any color depending on style and purpose"],
+        ["Other Shoes", "size", "Standard shoe sizes based on foot length and width"],
+        ["Other Shoes", "manufacturer", "Footwear brands, cobblers, and global manufacturers"],
+        ["Other Shoes", "lifespan", "Months to years depending on usage and quality"]
+    ]
+}

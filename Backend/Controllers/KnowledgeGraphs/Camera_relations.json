@@ -1,0 +1,80 @@
+{
+    "object": "Camera",
+    "triplets": [
+        [
+            "Camera",
+            "subclass of",
+            "Electronic device designed for capturing still images or videos, ranging from compact cameras to professional DSLRs and mirrorless systems"
+        ],
+        [
+            "Camera",
+            "used for",
+            "Photography, videography, surveillance, content creation, scientific imaging, and documentation"
+        ],
+        [
+            "Camera",
+            "material used",
+            "Metal, plastic, glass, electronic circuits, lenses, LCD/LED screens, and rubber grips"
+        ],
+        [
+            "Camera",
+            "has part",
+            "Lens for focusing light onto the sensor"
+        ],
+        [
+            "Camera",
+            "has part",
+            "Image sensor (CMOS or CCD) for capturing light"
+        ],
+        [
+            "Camera",
+            "has part",
+            "Shutter mechanism to control exposure"
+        ],
+        [
+            "Camera",
+            "has part",
+            "Viewfinder or screen for framing shots"
+        ],
+        [
+            "Camera",
+            "has part",
+            "Buttons, dials, and menus for controlling settings"
+        ],
+        [
+            "Camera",
+            "has part",
+            "Battery compartment and memory card slot"
+        ],
+        [
+            "Camera",
+            "color",
+            "Varies depending on manufacturer and model; commonly black, silver, or gray"
+        ],
+        [
+            "Camera",
+            "part of",
+            "Photography equipment, multimedia kits, and professional imaging setups"
+        ],
+        [
+            "Camera",
+            "manufacturer",
+            "Various manufacturers including Canon, Nikon, Sony, Fujifilm, Panasonic, and others"
+        ],
+        [
+            "Camera",
+            "weight",
+            "Approximately 0.3–2 kg depending on type and accessories"
+        ],
+        [
+            "Camera",
+            "height",
+            "Approximately 5–15 cm depending on model and design"
+        ],
+        [
+            "Camera",
+            "lifespan",
+            "Typically 5–10 years depending on usage, maintenance, and technology updates"
+        ]
+    ]
+}

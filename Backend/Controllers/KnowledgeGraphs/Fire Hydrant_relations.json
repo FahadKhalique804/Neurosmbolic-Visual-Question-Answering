@@ -1,0 +1,55 @@
+{
+  "object": "Fire Hydrant",
+  "triplets": [
+    [
+      "Fire Hydrant",
+      "subclass of",
+      "Public fire protection infrastructure"
+    ],
+    [
+      "Fire Hydrant",
+      "has part",
+      "Outlet nozzles, valve stem, main barrel"
+    ],
+    [
+      "Fire Hydrant",
+      "part of",
+      "Municipal water supply and fire safety system"
+    ],
+    [
+      "Fire Hydrant",
+      "used for",
+      "Providing high-pressure water supply for firefighting"
+    ],
+    [
+      "Fire Hydrant",
+      "material used",
+      "Cast iron or ductile iron with protective coating"
+    ],
+    [
+      "Fire Hydrant",
+      "color",
+      "Red, yellow, or orange"
+    ],
+    [
+      "Fire Hydrant",
+      "height",
+      "75 to 100 centimeters above ground"
+    ],
+    [
+      "Fire Hydrant",
+      "weight",
+      "100 to 250 kilograms"
+    ],
+    [
+      "Fire Hydrant",
+      "lifespan",
+      "50 or more years with maintenance"
+    ],
+    [
+      "Fire Hydrant",
+      "manufacturer",
+      "Municipal infrastructure manufacturing companies"
+    ]
+  ]
+}

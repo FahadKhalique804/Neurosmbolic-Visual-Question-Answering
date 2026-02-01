@@ -1,0 +1,45 @@
+{
+  "object": "Keyboard",
+  "triplets": [
+    ["Keyboard", 
+    "subclass of", 
+    "Computer Peripheral"
+],
+    ["Keyboard",
+     "has part",
+      "Keys, Frame, Cable, Switches"
+    ],
+    ["Keyboard",
+     "part of",
+      "Computer System"
+    ],
+    ["Keyboard",
+     "used for",
+      "Typing input"
+    ],
+    ["Keyboard",
+     "material used", 
+     "Plastic, Rubber, Metal"
+    ],
+    ["Keyboard",
+     "color", 
+     "Black, White, Grey"
+    ],
+    ["Keyboard", 
+    "height",
+     "2-5 cm"
+    ],
+    ["Keyboard",
+     "weight",
+      "0.5-1.5 kg"
+    ],
+    ["Keyboard",
+     "lifespan",
+      "3-10 years"
+    ],
+    ["Keyboard",
+     "manufacturer", 
+     "Logitech, Dell, Razer"
+    ]
+  ]
+}

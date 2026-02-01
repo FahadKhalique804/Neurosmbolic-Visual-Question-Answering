@@ -1,0 +1,13 @@
+{
+    "object": "Tricycle",
+    "triplets": [
+        ["Tricycle", "subclass of", "three-wheeled vehicle"],
+        ["Tricycle", "used for", "Riding and recreation"],
+        ["Tricycle", "material used", "Metal frame, rubber tires, plastic seat"],
+        ["Tricycle", "has part", "Three wheels, seat, handlebars, pedals"],
+        ["Tricycle", "part of", "Children's ride-on toys"],
+        ["Tricycle", "manufacturer", "Various toy brands"],
+        ["Tricycle", "weight", "3–10 kg"],
+        ["Tricycle", "height", "50–80 cm"]
+    ]
+}

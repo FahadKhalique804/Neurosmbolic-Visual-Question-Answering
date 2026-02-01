@@ -1,0 +1,15 @@
+{
+    "object": "Mango",
+    "triplets": [
+        ["Mango", "subclass of", "Tropical fruit produced by mango trees"],
+        ["Mango", "used for", "Eating raw, juices, desserts, and cooking"],
+        ["Mango", "material used", "Edible pulp, peel, and seed"],
+        ["Mango", "has part", "Fleshy pulp rich in sugars and vitamins"],
+        ["Mango", "has part", "Large central seed"],
+        ["Mango", "color", "Green, yellow, or red depending on variety"],
+        ["Mango", "part of", "Tropical agriculture and food supply chains"],
+        ["Mango", "manufacturer", "Farmers and fruit growers"],
+        ["Mango", "weight", "200–400 grams"],
+        ["Mango", "lifespan", "1–2 weeks after harvest"]
+    ]
+}

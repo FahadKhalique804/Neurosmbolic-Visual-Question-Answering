@@ -1,0 +1,14 @@
+{
+    "object": "Table Tennis Paddle",
+    "triplets": [
+        ["Table Tennis Paddle","subclass of","Sports equipment"],
+        ["Table Tennis Paddle","used for","Playing table tennis (ping pong)"],
+        ["Table Tennis Paddle","material used","Wood, rubber, sponge"],
+        ["Table Tennis Paddle","has part","Blade, handle, rubber surface"],
+        ["Table Tennis Paddle","color","Red, black, varies"],
+        ["Table Tennis Paddle","part of","Table tennis kit"],
+        ["Table Tennis Paddle","manufacturer","Butterfly, Stiga, JOOLA, DHS"],
+        ["Table Tennis Paddle","weight","150–200 grams"],
+        ["Table Tennis Paddle","height","25–30 cm length"]
+    ]
+}

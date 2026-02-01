@@ -1,0 +1,65 @@
+{
+    "object": "Cosmetics Mirror",
+    "triplets": [
+        [
+            "Cosmetics Mirror",
+            "subclass of",
+            "Beauty Tools used for makeup application and grooming"
+        ],
+        [
+            "Cosmetics Mirror",
+            "used for",
+            "Makeup application, Grooming, Facial inspection"
+        ],
+        [
+            "Cosmetics Mirror",
+            "material used",
+            "Glass, Plastic, Metal"
+        ],
+        [
+            "Cosmetics Mirror",
+            "color",
+            "Varies depending on frame and design"
+        ],
+        [
+            "Cosmetics Mirror",
+            "manufacturer",
+            "Various manufacturers"
+        ],
+        [
+            "Cosmetics Mirror",
+            "has feature",
+            "Magnification, LED lighting"
+        ],
+        [
+            "Cosmetics Mirror",
+            "found in",
+            "Makeup kits, Vanity tables, Bathrooms"
+        ],
+        [
+            "Cosmetics Mirror",
+            "weight",
+            "Not applicable"
+        ],
+        [
+            "Cosmetics Mirror",
+            "height",
+            "Not applicable"
+        ],
+        [
+            "Cosmetics Mirror",
+            "has part",
+            "Mirror surface, Frame, Stand or Handle"
+        ],
+        [
+            "Cosmetics Mirror",
+            "part of",
+            "Makeup kit, Vanity setup"
+        ],
+        [
+            "Cosmetics Mirror",
+            "lifespan",
+            "Not applicable"
+        ]
+    ]
+}

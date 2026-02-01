@@ -1,0 +1,13 @@
+{
+    "object": "Toilet",
+    "triplets": [
+        ["Toilet", "subclass of", "sanitary fixture for waste disposal"],
+        ["Toilet", "used for", "Disposing human waste"],
+        ["Toilet", "material used", "Porcelain, ceramic, plastic parts"],
+        ["Toilet", "has part", "Bowl, tank, seat, flush handle"],
+        ["Toilet", "part of", "Bathroom fixtures"],
+        ["Toilet", "manufacturer", "Various sanitary brands"],
+        ["Toilet", "weight", "20–40 kg"],
+        ["Toilet", "height", "40–45 cm seat height"]
+    ]
+}

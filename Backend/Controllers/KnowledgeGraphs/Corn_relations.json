@@ -1,0 +1,70 @@
+{
+    "object": "Corn",
+    "triplets": [
+        [
+            "Corn",
+            "subclass of",
+            "Food item derived from cereal grains"
+        ],
+        [
+            "Corn",
+            "used for",
+            "Eating, Cooking, Animal feed, Industrial products"
+        ],
+        [
+            "Corn",
+            "material used",
+            "Vegetable, Grain"
+        ],
+        [
+            "Corn",
+            "color",
+            "Yellow, White, Green, Multicolored depending on variety"
+        ],
+        [
+            "Corn",
+            "manufacturer",
+            "Various farmers and agricultural producers"
+        ],
+        [
+            "Corn",
+            "grown in",
+            "Fields, Farms"
+        ],
+        [
+            "Corn",
+            "form",
+            "Whole kernels, Cornmeal, Popcorn, Sweet corn"
+        ],
+        [
+            "Corn",
+            "contains",
+            "Carbohydrates, Fiber, Vitamins, Minerals"
+        ],
+        [
+            "Corn",
+            "weight",
+            "Not applicable"
+        ],
+        [
+            "Corn",
+            "height",
+            "Varies (depending on stalk and variety)"
+        ],
+        [
+            "Corn",
+            "has part",
+            "Cob, Kernels, Husk, Silk"
+        ],
+        [
+            "Corn",
+            "part of",
+            "Not applicable"
+        ],
+        [
+            "Corn",
+            "lifespan",
+            "Not applicable"
+        ]
+    ]
+}

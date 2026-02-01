@@ -1,0 +1,13 @@
+{
+    "object": "Treadmill",
+    "triplets": [
+        ["Treadmill", "subclass of", "exercise machine"],
+        ["Treadmill", "used for", "Walking, jogging, running"],
+        ["Treadmill", "material used", "Steel frame, rubber belt, electronics"],
+        ["Treadmill", "has part", "Belt, motor, console, rails"],
+        ["Treadmill", "part of", "Gym equipment"],
+        ["Treadmill", "manufacturer", "Various fitness brands"],
+        ["Treadmill", "weight", "50–150 kg"],
+        ["Treadmill", "height", "120–160 cm"]
+    ]
+}

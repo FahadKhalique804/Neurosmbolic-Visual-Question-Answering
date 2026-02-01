@@ -1,0 +1,55 @@
+{
+  "object": "Fire Extinguisher",
+  "triplets": [
+    [
+      "Fire Extinguisher",
+      "subclass of",
+      "Fire safety and emergency equipment"
+    ],
+    [
+      "Fire Extinguisher",
+      "has part",
+      "Cylinder, nozzle, pressure gauge, safety pin"
+    ],
+    [
+      "Fire Extinguisher",
+      "part of",
+      "Fire safety and emergency response system"
+    ],
+    [
+      "Fire Extinguisher",
+      "used for",
+      "Extinguishing small fires in emergency situations"
+    ],
+    [
+      "Fire Extinguisher",
+      "material used",
+      "Steel cylinder, chemical extinguishing agents"
+    ],
+    [
+      "Fire Extinguisher",
+      "color",
+      "Red with labeling"
+    ],
+    [
+      "Fire Extinguisher",
+      "height",
+      "40 to 60 centimeters"
+    ],
+    [
+      "Fire Extinguisher",
+      "weight",
+      "5 to 12 kilograms"
+    ],
+    [
+      "Fire Extinguisher",
+      "lifespan",
+      "10 to 15 years with periodic refilling"
+    ],
+    [
+      "Fire Extinguisher",
+      "manufacturer",
+      "Fire safety equipment manufacturers"
+    ]
+  ]
+}

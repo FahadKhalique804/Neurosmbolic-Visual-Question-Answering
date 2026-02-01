@@ -1,0 +1,55 @@
+{
+    "object": "Cucumber",
+    "triplets": [
+        [
+            "Cucumber",
+            "subclass of",
+            "Vegetable cultivated for consumption in raw or cooked form"
+        ],
+        [
+            "Cucumber",
+            "used for",
+            "Eating raw, salads, pickling, and cooking"
+        ],
+        [
+            "Cucumber",
+            "material used",
+            "Vegetable"
+        ],
+        [
+            "Cucumber",
+            "has part",
+            "Skin, Flesh, Seeds, Stem"
+        ],
+        [
+            "Cucumber",
+            "color",
+            "Green (varies with variety and ripeness)"
+        ],
+        [
+            "Cucumber",
+            "part of",
+            "Culinary dishes, salads, vegetable servings"
+        ],
+        [
+            "Cucumber",
+            "manufacturer",
+            "Various farmers and agricultural producers"
+        ],
+        [
+            "Cucumber",
+            "weight",
+            "50–300 grams depending on variety and size"
+        ],
+        [
+            "Cucumber",
+            "height",
+            "15–30 cm on average"
+        ],
+        [
+            "Cucumber",
+            "lifespan",
+            "7–14 days after harvest under refrigeration"
+        ]
+    ]
+}

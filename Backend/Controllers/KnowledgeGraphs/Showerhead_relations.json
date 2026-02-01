@@ -1,0 +1,50 @@
+{
+    "object": "Showerhead",
+    "triplets": [
+        [
+            "Showerhead",
+            "subclass of",
+            "Bathroom fixture that sprays water for showering"
+        ],
+        [
+            "Showerhead",
+            "used for",
+            "Bathing, washing, water spraying"
+        ],
+        [
+            "Showerhead",
+            "material used",
+            "Plastic, stainless steel, chrome-plated metal"
+        ],
+        [
+            "Showerhead",
+            "has part",
+            "Spray nozzles, faceplate, connector, swivel ball joint"
+        ],
+        [
+            "Showerhead",
+            "color",
+            "Chrome, silver, white, black, varies"
+        ],
+        [
+            "Showerhead",
+            "part of",
+            "Bathroom plumbing system"
+        ],
+        [
+            "Showerhead",
+            "manufacturer",
+            "Kohler, Moen, Grohe, Delta, and others"
+        ],
+        [
+            "Showerhead",
+            "weight",
+            "100–500 grams depending on design"
+        ],
+        [
+            "Showerhead",
+            "height",
+            "10–25 cm depending on model"
+        ]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "object": "Sausage",
+    "triplets": [
+        ["Sausage", "subclass of", "Processed meat product made from ground meat, fat, and seasonings in a casing"],
+        ["Sausage", "used for", "Cooking, grilling, breakfast, sandwiches, stews, and charcuterie"],
+        ["Sausage", "material used", "Meat (pork, beef, chicken, etc.), fat, spices, salt, and natural or synthetic casing"],
+        ["Sausage", "has part", "Casing, ground meat mixture, and sometimes added fillers or binders"],
+        ["Sausage", "color", "Typically pinkish-brown when raw; brown when cooked"],
+        ["Sausage", "part of", "Charcuterie, breakfast cuisine, barbecues, and global culinary traditions"],
+        ["Sausage", "manufacturer", "Butchers, meat processors, food companies, and artisanal producers"],
+        ["Sausage", "weight", "Approximately 50–150 grams per sausage link"],
+        ["Sausage", "length", "Typically 10–20 cm per link"],
+        ["Sausage", "lifespan", "Fresh: 2–3 days refrigerated; cured/dried: weeks to months"]
+    ]
+}

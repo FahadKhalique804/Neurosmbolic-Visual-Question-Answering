@@ -1,0 +1,55 @@
+{
+  "object": "Flower",
+  "triplets": [
+    [
+      "Flower",
+      "subclass of",
+      "Reproductive part of a flowering plant"
+    ],
+    [
+      "Flower",
+      "has part",
+      "Petals, sepals, stamens, pistil"
+    ],
+    [
+      "Flower",
+      "part of",
+      "Plant reproductive and biological system"
+    ],
+    [
+      "Flower",
+      "used for",
+      "Pollination, decoration, and aesthetic purposes"
+    ],
+    [
+      "Flower",
+      "material used",
+      "Natural plant tissues and cells"
+    ],
+    [
+      "Flower",
+      "color",
+      "Various bright and natural colors"
+    ],
+    [
+      "Flower",
+      "height",
+      "5 to 100 centimeters depending on species"
+    ],
+    [
+      "Flower",
+      "weight",
+      "Few grams depending on type"
+    ],
+    [
+      "Flower",
+      "lifespan",
+      "Few days to several weeks"
+    ],
+    [
+      "Flower",
+      "manufacturer",
+      "Grown naturally by plants"
+    ]
+  ]
+}

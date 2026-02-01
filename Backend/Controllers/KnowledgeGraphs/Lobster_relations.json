@@ -1,0 +1,15 @@
+{
+    "object": "Lobster",
+    "triplets": [
+        ["Lobster", "subclass of", "Marine crustacean found in ocean environments"],
+        ["Lobster", "used for", "Human consumption as seafood"],
+        ["Lobster", "material used", "Edible meat protected by a hard exoskeleton"],
+        ["Lobster", "has part", "Large claws used for defense and feeding"],
+        ["Lobster", "has part", "Hard shell providing protection"],
+        ["Lobster", "color", "Dark blue or green when alive; red when cooked"],
+        ["Lobster", "part of", "Marine ecosystems and seafood supply chains"],
+        ["Lobster", "manufacturer", "Naturally occurring species harvested by fisheries"],
+        ["Lobster", "weight", "0.5–4 kilograms"],
+        ["Lobster", "lifespan", "Up to 50 years in natural conditions"]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "object": "Pillow",
+    "triplets": [
+        ["Pillow", "subclass of", "Soft cushion used to support the head or other body parts during rest"],
+        ["Pillow", "used for", "Sleeping, comfort, decoration, medical support, and travel"],
+        ["Pillow", "material used", "Fabric cover, filling (feathers, foam, polyester, memory foam, etc.)"],
+        ["Pillow", "has part", "Cover, filling, and sometimes piping or decorative elements"],
+        ["Pillow", "color", "White, beige, or various colors and patterns"],
+        ["Pillow", "part of", "Bedding sets, sofas, and comfort accessories"],
+        ["Pillow", "manufacturer", "Textile companies, bedding brands, and home goods manufacturers"],
+        ["Pillow", "size", "Standard: 50x70 cm; varies by type and region"],
+        ["Pillow", "weight", "Approximately 500–1500 grams depending on filling"],
+        ["Pillow", "lifespan", "2–5 years with regular use and cleaning"]
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "object": "Swing",
+    "triplets": [
+        ["Swing",
+        "subclass of",
+        "Playground equipment"],
+
+        ["Swing","used for","Children's play and recreation"],
+        ["Swing","material used","Wood, metal, rope, plastic seat"],
+        ["Swing","has part","Seat, ropes/chains, support frame"],
+        ["Swing","color","Varies"],
+        ["Swing","part of","Playgrounds, backyards"],
+        ["Swing","manufacturer","Various playground equipment brands"],
+        ["Swing","weight","5–30 kg depending on size"],
+        ["Swing","height","1–2 meters above ground"]
+    ]
+}

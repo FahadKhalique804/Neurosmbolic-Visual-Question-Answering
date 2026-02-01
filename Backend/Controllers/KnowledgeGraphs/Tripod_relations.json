@@ -1,0 +1,13 @@
+{
+    "object": "Tripod",
+    "triplets": [
+        ["Tripod", "subclass of", "three-legged support stand"],
+        ["Tripod", "used for", "Stabilizing cameras, lights, devices"],
+        ["Tripod", "material used", "Aluminum, carbon fiber, plastic"],
+        ["Tripod", "has part", "Legs, head mount, clamps"],
+        ["Tripod", "part of", "Photography equipment"],
+        ["Tripod", "manufacturer", "Various brands"],
+        ["Tripod", "weight", "0.5–3 kg"],
+        ["Tripod", "height", "20–160 cm adjustable"]
+    ]
+}

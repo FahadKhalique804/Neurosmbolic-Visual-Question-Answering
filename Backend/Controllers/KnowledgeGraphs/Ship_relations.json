@@ -1,0 +1,50 @@
+{
+    "object": "Ship",
+    "triplets": [
+        [
+            "Ship",
+            "subclass of",
+            "Large watercraft designed for maritime transport"
+        ],
+        [
+            "Ship",
+            "used for",
+            "Transporting goods, passengers, military operations, fishing, research, and exploration"
+        ],
+        [
+            "Ship",
+            "material used",
+            "Steel, aluminum, composite materials"
+        ],
+        [
+            "Ship",
+            "has part",
+            "Hull, deck, engine room, bridge, cabins, anchor, propeller, mast"
+        ],
+        [
+            "Ship",
+            "color",
+            "Varies"
+        ],
+        [
+            "Ship",
+            "part of",
+            "Maritime transport system, naval fleet"
+        ],
+        [
+            "Ship",
+            "manufacturer",
+            "Various shipyards worldwide"
+        ],
+        [
+            "Ship",
+            "weight",
+            "Thousands to hundreds of thousands of tons depending on type"
+        ],
+        [
+            "Ship",
+            "height",
+            "20–70 meters depending on design"
+        ]
+    ]
+}

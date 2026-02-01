@@ -1,0 +1,45 @@
+{
+  "object": "Hurdle",
+  "triplets": [
+    ["Hurdle", 
+    "subclass of", 
+    "Sports Equipment"
+],
+    ["Hurdle",
+     "has part",
+      "Bar, Supports, Base"
+    ],
+    ["Hurdle",
+     "part of", 
+     "Track and Field Equipment"
+    ],
+    ["Hurdle",
+     "used for",
+      "Hurdle races"
+    ],
+    ["Hurdle",
+     "material used",
+      "Aluminum, Plastic, Rubber"
+    ],
+    ["Hurdle",
+     "color",
+      "White, Red, Blue"
+    ],
+    ["Hurdle",
+     "height",
+      "1.067 m (standard men's)"
+    ],
+    ["Hurdle",
+     "weight",
+      "10 kg"
+    ],
+    ["Hurdle",
+     "lifespan",
+      "10 years"
+    ],
+    ["Hurdle",
+     "manufacturer", 
+     "Gill Athletics, UCS Spirit, Apex Sports"
+    ]
+  ]
+}

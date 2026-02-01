@@ -1,0 +1,13 @@
+{
+  "object": "Wine Glass",
+  "triplets": [
+    ["Wine Glass", "subclass of", "drinking vessel"],
+    ["Wine Glass", "used for", "drinking wine"],
+    ["Wine Glass", "material used", "glass or crystal"],
+    ["Wine Glass", "has part", "bowl, stem, base"],
+    ["Wine Glass", "part of", "tableware"],
+    ["Wine Glass", "manufacturer", "Riedel, Luminarc, Libbey"],
+    ["Wine Glass", "weight", "150–300 g"],
+    ["Wine Glass", "height", "18–25 cm"]
+  ]
+}

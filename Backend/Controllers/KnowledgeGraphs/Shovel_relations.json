@@ -1,0 +1,50 @@
+{
+    "object": "Shovel",
+    "triplets": [
+        [
+            "Shovel",
+            "subclass of",
+            "Hand tool used for digging and lifting materials"
+        ],
+        [
+            "Shovel",
+            "used for",
+            "Digging soil, lifting sand, snow removal, gardening, construction"
+        ],
+        [
+            "Shovel",
+            "material used",
+            "Steel or aluminum blade with wood, fiberglass, or plastic handle"
+        ],
+        [
+            "Shovel",
+            "has part",
+            "Handle, blade, grip, shaft"
+        ],
+        [
+            "Shovel",
+            "color",
+            "Varies"
+        ],
+        [
+            "Shovel",
+            "part of",
+            "Gardening tools, construction tools"
+        ],
+        [
+            "Shovel",
+            "manufacturer",
+            "Fiskars, Stanley, Truper, Husky, and others"
+        ],
+        [
+            "Shovel",
+            "weight",
+            "1–3 kg depending on size"
+        ],
+        [
+            "Shovel",
+            "height",
+            "90–120 cm depending on type"
+        ]
+    ]
+}

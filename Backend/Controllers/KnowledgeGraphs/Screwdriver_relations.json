@@ -1,0 +1,50 @@
+{
+    "object": "Screwdriver",
+    "triplets": [
+        [
+            "Screwdriver",
+            "subclass of",
+            "Hand tool used for turning screws"
+        ],
+        [
+            "Screwdriver",
+            "used for",
+            "Tightening or loosening screws in mechanical, electrical, woodworking, and household tasks"
+        ],
+        [
+            "Screwdriver",
+            "material used",
+            "Steel shaft, hardened steel tip, plastic or rubber handle"
+        ],
+        [
+            "Screwdriver",
+            "has part",
+            "Handle, shaft, tip (flathead, Phillips, or other types), sometimes magnetic head"
+        ],
+        [
+            "Screwdriver",
+            "color",
+            "Varies"
+        ],
+        [
+            "Screwdriver",
+            "part of",
+            "Toolbox, repair kit, mechanical toolkit, electrician toolkit"
+        ],
+        [
+            "Screwdriver",
+            "manufacturer",
+            "Bosch, Stanley, Phillips, Black+Decker, Wiha, DeWalt, and others"
+        ],
+        [
+            "Screwdriver",
+            "weight",
+            "50–300 grams depending on size/type"
+        ],
+        [
+            "Screwdriver",
+            "height",
+            "10–30 cm depending on model"
+        ]
+    ]
+}

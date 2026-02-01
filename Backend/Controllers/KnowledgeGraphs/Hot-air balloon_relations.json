@@ -1,0 +1,45 @@
+{
+  "object": "Hot-Air Balloon",
+  "triplets": [
+    ["Hot-Air Balloon",
+     "subclass of",
+      "Aircraft"
+    ],
+    ["Hot-Air Balloon",
+     "has part", 
+     "Envelope, Basket, Burner"
+    ],
+    ["Hot-Air Balloon",
+     "part of",
+      "Tourism Equipment, Aerial Vehicle"
+    ],
+    ["Hot-Air Balloon",
+     "used for", 
+     "Recreational flight"
+    ],
+    ["Hot-Air Balloon",
+     "material used",
+      "Nylon, Aluminum, Propane"
+    ],
+    ["Hot-Air Balloon",
+     "color", 
+     "Multicolor, Red, Blue, Yellow"
+    ],
+    ["Hot-Air Balloon",
+     "height",
+      "25 m"
+    ],
+    ["Hot-Air Balloon", 
+    "weight",
+     "500 kg"
+    ],
+    ["Hot-Air Balloon",
+     "lifespan",
+      "15 years"
+    ],
+    ["Hot-Air Balloon", 
+    "manufacturer",
+     "Cameron Balloons, Kubicek Balloons, Ultramagic"
+    ]
+  ]
+}

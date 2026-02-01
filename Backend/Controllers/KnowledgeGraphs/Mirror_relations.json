@@ -1,0 +1,15 @@
+{
+    "object": "Mirror",
+    "triplets": [
+        ["Mirror", "subclass of", "Reflective surface used to form images"],
+        ["Mirror", "used for", "Viewing reflections and decoration"],
+        ["Mirror", "material used", "Glass coated with reflective metal"],
+        ["Mirror", "has part", "Reflective surface"],
+        ["Mirror", "has part", "Protective backing"],
+        ["Mirror", "color", "Silver reflective surface"],
+        ["Mirror", "part of", "Home furnishings"],
+        ["Mirror", "manufacturer", "Glass and furniture manufacturers"],
+        ["Mirror", "weight", "1–10 kilograms"],
+        ["Mirror", "lifespan", "Indefinite if undamaged"]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "object": "Router_modem",
+    "triplets": [
+        ["Router_modem", "subclass of", "Network device that routes data between computer networks and provides internet access"],
+        ["Router_modem", "used for", "Providing internet connectivity, creating local networks, Wi-Fi distribution, and network security"],
+        ["Router_modem", "material used", "Plastic casing, electronic circuits, antennas, ports, and cooling components"],
+        ["Router_modem", "has part", "Antennas, Ethernet ports, power adapter, processor, memory, and firmware"],
+        ["Router_modem", "color", "Typically black, white, or gray; sometimes with LED indicators"],
+        ["Router_modem", "part of", "Home/office networks, internet infrastructure, and telecommunications systems"],
+        ["Router_modem", "manufacturer", "Companies like TP-Link, Netgear, ASUS, Cisco, and internet service providers"],
+        ["Router_modem", "weight", "Approximately 300–800 grams depending on model"],
+        ["Router_modem", "dimensions", "Typically 20x20x5 cm to 30x30x10 cm"],
+        ["Router_modem", "lifespan", "3–7 years depending on usage and technological advancements"]
+    ]
+}

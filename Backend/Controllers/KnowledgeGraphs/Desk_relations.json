@@ -1,0 +1,55 @@
+{
+  "object": "Desk",
+  "triplets": [
+    [
+      "Desk",
+      "subclass of",
+      "Office and study furniture"
+    ],
+    [
+      "Desk",
+      "has part",
+      "Tabletop, legs, drawers, storage compartments"
+    ],
+    [
+      "Desk",
+      "part of",
+      "Office, study room, or workplace environment"
+    ],
+    [
+      "Desk",
+      "used for",
+      "Studying, writing, computer work, and office tasks"
+    ],
+    [
+      "Desk",
+      "material used",
+      "Wood, metal, engineered wood, or glass"
+    ],
+    [
+      "Desk",
+      "color",
+      "Brown, black, white, or gray"
+    ],
+    [
+      "Desk",
+      "height",
+      "Standard height around 70 to 75 centimeters"
+    ],
+    [
+      "Desk",
+      "weight",
+      "Approximately 20 to 60 kilograms"
+    ],
+    [
+      "Desk",
+      "lifespan",
+      "10 to 25 years depending on quality"
+    ],
+    [
+      "Desk",
+      "manufacturer",
+      "Furniture manufacturing companies"
+    ]
+  ]
+}

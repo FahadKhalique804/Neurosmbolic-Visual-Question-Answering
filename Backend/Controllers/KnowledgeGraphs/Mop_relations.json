@@ -1,0 +1,15 @@
+{
+    "object": "Mop",
+    "triplets": [
+        ["Mop", "subclass of", "Cleaning tool for floor maintenance"],
+        ["Mop", "used for", "Cleaning and washing floors"],
+        ["Mop", "material used", "Cotton, microfiber, plastic handle"],
+        ["Mop", "has part", "Absorbent mop head"],
+        ["Mop", "has part", "Long handle"],
+        ["Mop", "color", "Various colors"],
+        ["Mop", "part of", "Household cleaning tools"],
+        ["Mop", "manufacturer", "Cleaning product manufacturers"],
+        ["Mop", "weight", "500–900 grams"],
+        ["Mop", "lifespan", "1–3 years"]
+    ]
+}

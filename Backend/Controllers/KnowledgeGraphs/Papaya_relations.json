@@ -1,0 +1,14 @@
+{
+    "object": "Papaya",
+    "triplets": [
+        ["Papaya", "subclass of", "Tropical fruit from the Carica papaya plant, sweet and orange-fleshed"],
+        ["Papaya", "used for", "Eating fresh, salads, smoothies, desserts, and as meat tenderizer"],
+        ["Papaya", "material used", "Fleshy pulp, seeds, and skin"],
+        ["Papaya", "has part", "Skin, edible pulp, central cavity with black seeds"],
+        ["Papaya", "color", "Green when unripe, yellow-orange when ripe; flesh is orange-pink"],
+        ["Papaya", "part of", "Tropical fruit orchards and healthy diets"],
+        ["Papaya", "manufacturer", "Farmers in tropical regions and fruit distributors"],
+        ["Papaya", "weight", "Approximately 300–1000g per fruit"],
+        ["Papaya", "lifespan", "Ripe: a few days at room temperature; longer if refrigerated"]
+    ]
+}

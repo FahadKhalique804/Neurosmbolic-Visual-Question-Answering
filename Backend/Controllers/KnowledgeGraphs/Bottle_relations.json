@@ -1,0 +1,65 @@
+{
+    "object": "Bottle",
+    "triplets": [
+        [
+            "Bottle",
+            "subclass of",
+            "Container designed to hold liquids for storage, transport, or consumption"
+        ],
+        [
+            "Bottle",
+            "used for",
+            "Storing water, beverages, chemicals, oils, or other liquids; also used for dispensing and drinking"
+        ],
+        [
+            "Bottle",
+            "material used",
+            "Plastic, glass, metal, or combinations; sometimes includes silicone or rubber components for seals and caps"
+        ],
+        [
+            "Bottle",
+            "has part",
+            "Body that holds the liquid"
+        ],
+        [
+            "Bottle",
+            "has part",
+            "Cap or lid to seal and prevent spillage"
+        ],
+        [
+            "Bottle",
+            "has part",
+            "Neck or opening for pouring or drinking"
+        ],
+        [
+            "Bottle",
+            "color",
+            "Varies depending on material and design; common colors include clear, green, blue, and metallic finishes"
+        ],
+        [
+            "Bottle",
+            "part of",
+            "Kitchenware, beverage containers, laboratory equipment, and personal hydration tools"
+        ],
+        [
+            "Bottle",
+            "manufacturer",
+            "Various manufacturers producing plastic, glass, and metal bottles for household, commercial, or industrial use"
+        ],
+        [
+            "Bottle",
+            "weight",
+            "Approximately 0.05–2 kg depending on size, material, and liquid capacity"
+        ],
+        [
+            "Bottle",
+            "height",
+            "Typically 10–35 cm depending on type and capacity"
+        ],
+        [
+            "Bottle",
+            "lifespan",
+            "Typically 1–10 years depending on material, usage, and care; glass bottles last longer than plastic bottles"
+        ]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "object": "Trash Bin Can",
+    "triplets": 
+    [
+        ["Trash Bin Can", "subclass of", "waste storage container"],
+        ["Trash Bin Can", "used for", "Holding garbage"],
+        ["Trash Bin Can", "material used", "Plastic, metal"],
+        ["Trash Bin Can", "part of", "Waste management"],
+        ["Trash Bin Can", "manufacturer", "Various brands"],
+        ["Trash Bin Can", "weight", "0.5–5 kg"],
+        ["Trash Bin Can", "height", "30–90 cm"],
+        ["Trash Bin Can", "has part", "Body, lid, handles"]
+    ]
+}

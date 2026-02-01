@@ -1,0 +1,15 @@
+{
+    "object": "Pomegranate",
+    "triplets": [
+        ["Pomegranate", "subclass of", "Fruit with tough outer rind and many juicy seeds (arils)"],
+        ["Pomegranate", "used for", "Eating seeds fresh, juicing, salads, cooking, and medicinal uses"],
+        ["Pomegranate", "material used", "Leathery rind, juicy arils, and seeds"],
+        ["Pomegranate", "has part", "Tough outer skin, white membranes, and red juicy arils"],
+        ["Pomegranate", "color", "Reddish-pink skin; deep red arils inside"],
+        ["Pomegranate", "part of", "Mediterranean and Middle Eastern cuisine, health foods"],
+        ["Pomegranate", "manufacturer", "Farmers in subtropical regions"],
+        ["Pomegranate", "weight", "Approximately 200–500 grams per fruit"],
+        ["Pomegranate", "diameter", "Approximately 8–12 cm"],
+        ["Pomegranate", "lifespan", "Several weeks at room temperature; months if refrigerated"]
+    ]
+}

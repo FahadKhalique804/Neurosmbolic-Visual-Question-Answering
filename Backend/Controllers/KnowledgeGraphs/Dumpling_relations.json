@@ -1,0 +1,55 @@
+{
+  "object": "Dumpling",
+  "triplets": [
+    [
+      "Dumpling",
+      "subclass of",
+      "Prepared food item"
+    ],
+    [
+      "Dumpling",
+      "has part",
+      "Dough wrapper, inner filling"
+    ],
+    [
+      "Dumpling",
+      "part of",
+      "Main meal or side dish"
+    ],
+    [
+      "Dumpling",
+      "used for",
+      "Eating as cooked or steamed food"
+    ],
+    [
+      "Dumpling",
+      "material used",
+      "Flour, meat, vegetables, spices"
+    ],
+    [
+      "Dumpling",
+      "color",
+      "White or light brown after cooking"
+    ],
+    [
+      "Dumpling",
+      "height",
+      "3 to 5 centimeters"
+    ],
+    [
+      "Dumpling",
+      "weight",
+      "30 to 60 grams"
+    ],
+    [
+      "Dumpling",
+      "lifespan",
+      "1 to 2 days"
+    ],
+    [
+      "Dumpling",
+      "manufacturer",
+      "Chefs and food production units"
+    ]
+  ]
+}

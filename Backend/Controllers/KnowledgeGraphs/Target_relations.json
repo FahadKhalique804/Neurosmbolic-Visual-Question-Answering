@@ -1,0 +1,14 @@
+{
+    "object": "Target",
+    "triplets": [
+        ["Target","subclass of","Game equipment"],
+        ["Target","used for","Aiming and hitting in games like darts or archery"],
+        ["Target","material used","Paper, wood, cork, plastic, metal"],
+        ["Target","has part","Target face, rings, stand or backing"],
+        ["Target","color","Red, blue, yellow, black, white"],
+        ["Target","part of","Game or sports activity"],
+        ["Target","manufacturer","Various sports and toy brands"],
+        ["Target","weight","0.5–5 kg depending on size"],
+        ["Target","height","20 cm–1.5 meters depending on type"]
+    ]
+}

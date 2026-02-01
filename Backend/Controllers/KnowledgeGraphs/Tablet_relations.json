@@ -1,0 +1,14 @@
+{
+    "object": "Tablet",
+    "triplets": [
+        ["Tablet","subclass of","Electronic device"],
+        ["Tablet","used for","Browsing, media, reading, gaming, work"],
+        ["Tablet","material used","Glass screen, aluminum/plastic body, electronic components"],
+        ["Tablet","has part","Screen, battery, processor, camera, buttons, speakers"],
+        ["Tablet","color","Varies"],
+        ["Tablet","part of","Consumer electronics"],
+        ["Tablet","manufacturer","Apple, Samsung, Lenovo, Microsoft"],
+        ["Tablet","weight","300–700 grams"],
+        ["Tablet","height","20–30 cm"]
+    ]
+}

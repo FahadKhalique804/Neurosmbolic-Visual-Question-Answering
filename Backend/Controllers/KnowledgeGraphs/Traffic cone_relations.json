@@ -1,0 +1,13 @@
+{
+    "object": "Traffic Cone",
+    "triplets": [
+        ["Traffic Cone", "subclass of", "traffic control device"],
+        ["Traffic Cone", "used for", "Directing or warning traffic"],
+        ["Traffic Cone", "material used", "PVC, rubber"],
+        ["Traffic Cone", "has part", "Cone body, base"],
+        ["Traffic Cone", "part of", "Road safety equipment"],
+        ["Traffic Cone", "manufacturer", "Various companies"],
+        ["Traffic Cone", "weight", "1–5 kg"],
+        ["Traffic Cone", "height", "30–90 cm"]
+    ]
+}

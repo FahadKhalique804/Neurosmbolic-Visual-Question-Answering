@@ -1,0 +1,45 @@
+{
+  "object": "Ladder",
+  "triplets": [
+    ["Ladder",
+     "subclass of",
+      "Tool"
+    ],
+    ["Ladder",
+     "has part",
+      "Steps, Side rails, Top, Feet"
+    ],
+    ["Ladder", 
+    "part of",
+     "Construction/Household Equipment"
+    ],
+    ["Ladder", 
+    "used for", 
+    "Reaching heights"
+],
+    ["Ladder",
+     "material used", 
+     "Aluminum, Wood, Fiberglass"
+    ],
+    ["Ladder",
+     "color", 
+     "Silver, Brown, Orange"
+    ],
+    ["Ladder", 
+    "height",
+     "2-6 m"
+    ],
+    ["Ladder",
+     "weight",
+      "5-20 kg"
+    ],
+    ["Ladder",
+     "lifespan", 
+     "10-20 years"
+    ],
+    ["Ladder",
+    "manufacturer",
+     "Werner, Louisville Ladder, Local brands"
+    ]
+  ]
+}

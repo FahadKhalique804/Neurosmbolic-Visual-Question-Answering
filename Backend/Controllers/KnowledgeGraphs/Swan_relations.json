@@ -1,0 +1,14 @@
+{
+    "object": "Swan",
+    "triplets": [
+        ["Swan","subclass of","Large waterbird"],
+        ["Swan","used for","Not applicable (animal); seen in lakes and wildlife"],
+        ["Swan","material used","Not applicable"],
+        ["Swan","has part","Neck, wings, beak, feathers, legs"],
+        ["Swan","color","White or black depending on species"],
+        ["Swan","part of","Wetland ecosystem"],
+        ["Swan","manufacturer","Not applicable"],
+        ["Swan","weight","7–15 kg"],
+        ["Swan","height","1–1.5 meters"]
+    ]
+}

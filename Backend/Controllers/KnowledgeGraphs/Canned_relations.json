@@ -1,0 +1,65 @@
+{
+    "object": "Canned",
+    "triplets": [
+        [
+            "Canned",
+            "subclass of",
+            "Preserved food sealed in metal containers (cans) to extend shelf life and maintain edibility"
+        ],
+        [
+            "Canned",
+            "used for",
+            "Storing and consuming food, convenient meal preparation, long-term storage, and emergency supplies"
+        ],
+        [
+            "Canned",
+            "material used",
+            "Metal (tin-plated steel or aluminum), food-grade lining, sometimes plastic components in lids"
+        ],
+        [
+            "Canned",
+            "has part",
+            "Can body (metal container)"
+        ],
+        [
+            "Canned",
+            "has part",
+            "Lid or seal"
+        ],
+        [
+            "Canned",
+            "has part",
+            "Preserved food content inside"
+        ],
+        [
+            "Canned",
+            "color",
+            "Varies depending on labeling, packaging, and type of food"
+        ],
+        [
+            "Canned",
+            "part of",
+            "Pantry items, packaged food, long-term storage, and commercial food distribution"
+        ],
+        [
+            "Canned",
+            "manufacturer",
+            "Various manufacturers including commercial food processing companies and brands"
+        ],
+        [
+            "Canned",
+            "weight",
+            "Varies depending on can size, typically 100 grams to 1 kg"
+        ],
+        [
+            "Canned",
+            "height",
+            "Typically 5–20 cm depending on can size and type"
+        ],
+        [
+            "Canned",
+            "lifespan",
+            "1–5 years shelf life depending on food type, preservation method, and storage conditions"
+        ]
+    ]
+}

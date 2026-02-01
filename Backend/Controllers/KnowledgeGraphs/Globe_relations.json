@@ -1,0 +1,55 @@
+{
+  "object": "Globe",
+  "triplets": [
+    [
+      "Globe",
+      "subclass of",
+      "Geographical educational model"
+    ],
+    [
+      "Globe",
+      "has part",
+      "Spherical map surface, axis, stand"
+    ],
+    [
+      "Globe",
+      "part of",
+      "Educational tools and geography learning aids"
+    ],
+    [
+      "Globe",
+      "used for",
+      "Studying Earth’s geography and locations"
+    ],
+    [
+      "Globe",
+      "material used",
+      "Plastic, paper, metal stand"
+    ],
+    [
+      "Globe",
+      "color",
+      "Multicolored representing land and water"
+    ],
+    [
+      "Globe",
+      "height",
+      "30 to 45 centimeters including stand"
+    ],
+    [
+      "Globe",
+      "weight",
+      "1 to 3 kilograms"
+    ],
+    [
+      "Globe",
+      "lifespan",
+      "10 to 20 years"
+    ],
+    [
+      "Globe",
+      "manufacturer",
+      "Educational and cartographic product manufacturers"
+    ]
+  ]
+}

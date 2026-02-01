@@ -1,0 +1,14 @@
+{
+    "object": "Storage Box",
+    "triplets": [
+        ["Storage Box","subclass of","Container used for organizing or storing items"],
+        ["Storage Box","used for","Storing clothes, tools, toys, documents, household items"],
+        ["Storage Box","material used","Plastic, cardboard, metal, wood"],
+        ["Storage Box","has part","Lid, base, handles (optional)"],
+        ["Storage Box","color","Varies"],
+        ["Storage Box","part of","Home storage, office storage, warehouse storage"],
+        ["Storage Box","manufacturer","Various manufacturers"],
+        ["Storage Box","weight","200g–5kg depending on size/material"],
+        ["Storage Box","height","10–60 cm"]
+    ]
+}

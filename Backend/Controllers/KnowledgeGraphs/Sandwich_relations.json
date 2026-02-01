@@ -1,0 +1,15 @@
+{
+    "object": "Sandwich",
+    "triplets": [
+        ["Sandwich", "subclass of", "Food consisting of fillings between two slices of bread"],
+        ["Sandwich", "used for", "Quick meals, lunches, picnics, snacks, and casual dining"],
+        ["Sandwich", "material used", "Bread, meat, cheese, vegetables, condiments, and various fillings"],
+        ["Sandwich", "has part", "Bread slices, filling ingredients, and sometimes garnish"],
+        ["Sandwich", "color", "Varies widely depending on ingredients (brown bread, green lettuce, red tomatoes, etc.)"],
+        ["Sandwich", "part of", "Casual cuisine, lunch culture, fast food, and home cooking"],
+        ["Sandwich", "manufacturer", "Restaurants, cafes, delis, food companies, and home cooks"],
+        ["Sandwich", "weight", "Approximately 150–400 grams depending on size and filling"],
+        ["Sandwich", "height", "Typically 4–8 cm tall when assembled"],
+        ["Sandwich", "lifespan", "Best consumed immediately; can be stored 1–2 days refrigerated"]
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "object": "Tape Measure Ruler",
+    "triplets": [
+        ["Tape Measure Ruler","subclass of","Measuring tool"],
+        ["Tape Measure Ruler","used for","Measuring length or distance"],
+        ["Tape Measure Ruler","material used","Metal tape, plastic or metal case"],
+        ["Tape Measure Ruler","has part","Tape, locking mechanism, case, hook"],
+        ["Tape Measure Ruler","color","Yellow, silver, varies"],
+        ["Tape Measure Ruler","part of","Tool kit, construction equipment"],
+        ["Tape Measure Ruler","manufacturer","Stanley, Bosch, Dewalt"],
+        ["Tape Measure Ruler","weight","100–500 grams"],
+        ["Tape Measure Ruler","height","2–5 cm thickness"]
+    ]
+}

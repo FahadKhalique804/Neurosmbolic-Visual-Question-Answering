@@ -1,0 +1,15 @@
+{
+    "object": "Piano",
+    "triplets": [
+        ["Piano", "subclass of", "Musical instrument with keyboard and strings, struck by hammers"],
+        ["Piano", "used for", "Playing music, composition, accompaniment, education, and performance"],
+        ["Piano", "material used", "Wood, metal strings, felt hammers, ivory or plastic keys, and iron frame"],
+        ["Piano", "has part", "Keyboard, strings, soundboard, pedals, hammers, and casing"],
+        ["Piano", "color", "Typically black, white, or wood finish"],
+        ["Piano", "part of", "Orchestras, music schools, homes, and concert halls"],
+        ["Piano", "manufacturer", "Brands like Steinway, Yamaha, Kawai, and other instrument makers"],
+        ["Piano", "weight", "Approximately 200–500 kg depending on type (grand vs. upright)"],
+        ["Piano", "height", "Upright: 110–140 cm; grand: varies by length (1.5–3 meters)"],
+        ["Piano", "lifespan", "Decades to over a century with proper maintenance"]
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "object": "Noodles",
+    "triplets": [
+        ["Noodles", "subclass of", "Staple food made from unleavened dough, stretched or extruded"],
+        ["Noodles", "used for", "Soups, stir-fries, salads, casseroles, and various global cuisines"],
+        ["Noodles", "material used", "Wheat flour, rice flour, buckwheat, eggs, water, and sometimes starch"],
+        ["Noodles", "color", "White, yellow, brown, or green depending on ingredients"],
+        ["Noodles", "manufacturer", "Food companies, local producers, and homemade artisans"],
+        ["Noodles", "weight", "Varies by package; dried noodles approximately 100–500g per pack"],
+        ["Noodles", "lifespan", "Dried: months to years; fresh: a few days refrigerated"]
+    ]
+}

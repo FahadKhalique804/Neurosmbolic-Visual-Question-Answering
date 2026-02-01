@@ -1,0 +1,50 @@
+{
+    "object": "Sink",
+    "triplets": [
+        [
+            "Sink",
+            "subclass of",
+            "Basin fixture used for washing"
+        ],
+        [
+            "Sink",
+            "used for",
+            "Washing hands, dishes, face, and other items"
+        ],
+        [
+            "Sink",
+            "material used",
+            "Ceramic, stainless steel, porcelain, stone"
+        ],
+        [
+            "Sink",
+            "has part",
+            "Basin, faucet, drain, overflow hole"
+        ],
+        [
+            "Sink",
+            "color",
+            "White, silver, black, varies"
+        ],
+        [
+            "Sink",
+            "part of",
+            "Bathroom, kitchen, laundry room plumbing system"
+        ],
+        [
+            "Sink",
+            "manufacturer",
+            "Kohler, Grohe, RAK, TOTO, and others"
+        ],
+        [
+            "Sink",
+            "weight",
+            "5–20 kg depending on type"
+        ],
+        [
+            "Sink",
+            "height",
+            "15–25 cm (bowl depth); installed height varies"
+        ]
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "object": "Candy",
+    "triplets": [
+        [
+            "Candy",
+            "subclass of",
+            "Confectionery food item made primarily from sugar and flavorings, designed for sweet consumption"
+        ],
+        [
+            "Candy",
+            "used for",
+            "Eating as a snack or treat, celebrations, gifting, party favors, and dessert decoration"
+        ],
+        [
+            "Candy",
+            "material used",
+            "Sugar, Glucose syrup, Chocolate, Milk, Cocoa, Flavorings, Colorings, Nuts, Fruit extracts depending on type"
+        ],
+        [
+            "Candy",
+            "has part",
+            "Outer coating (chocolate, sugar glaze, or hard shell)"
+        ],
+        [
+            "Candy",
+            "has part",
+            "Core or filling (nuts, caramel, cream, or fruit centers depending on type)"
+        ],
+        [
+            "Candy",
+            "color",
+            "Varies widely: red, yellow, green, brown, multicolored, depending on flavor and manufacturer"
+        ],
+        [
+            "Candy",
+            "part of",
+            "Confectionery products, snacks, dessert assortments"
+        ],
+        [
+            "Candy",
+            "manufacturer",
+            "Various manufacturers including confectionery brands and artisanal producers"
+        ],
+        [
+            "Candy",
+            "weight",
+            "Typically 5–50 grams per piece depending on type and size"
+        ],
+        [
+            "Candy",
+            "height",
+            "Varies based on shape and size (commonly 1–5 cm per piece)"
+        ],
+        [
+            "Candy",
+            "lifespan",
+            "Several months to 1 year depending on type, packaging, and storage conditions"
+        ]
+    ]
+}

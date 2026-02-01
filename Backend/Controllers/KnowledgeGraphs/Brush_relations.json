@@ -1,0 +1,65 @@
+{
+    "object": "Brush",
+    "triplets": [
+        [
+            "Brush",
+            "subclass of",
+            "Tool used for cleaning, grooming, or applying substances like paint, often featuring bristles attached to a handle"
+        ],
+        [
+            "Brush",
+            "used for",
+            "Cleaning surfaces, grooming hair or pets, painting, applying chemicals, or scrubbing objects"
+        ],
+        [
+            "Brush",
+            "material used",
+            "Wood or plastic handle; natural or synthetic bristles (nylon, horsehair, boar hair); metal or plastic ferrule (for paint brushes)"
+        ],
+        [
+            "Brush",
+            "has part",
+            "Handle for gripping"
+        ],
+        [
+            "Brush",
+            "has part",
+            "Bristles for scrubbing, cleaning, or painting"
+        ],
+        [
+            "Brush",
+            "has part",
+            "Ferrule (for paint brushes) to hold bristles in place"
+        ],
+        [
+            "Brush",
+            "color",
+            "Varies depending on handle and bristle material; common colors include brown, black, white, and multicolor designs"
+        ],
+        [
+            "Brush",
+            "part of",
+            "Cleaning tools, painting supplies, grooming kits"
+        ],
+        [
+            "Brush",
+            "manufacturer",
+            "Various manufacturers producing household, artistic, and personal care brushes"
+        ],
+        [
+            "Brush",
+            "weight",
+            "Approximately 0.05–0.3 kg depending on type and size"
+        ],
+        [
+            "Brush",
+            "height",
+            "Typically 0.1–0.3 meters depending on handle and bristle length"
+        ],
+        [
+            "Brush",
+            "lifespan",
+            "Typically 1–5 years depending on bristle quality, usage frequency, and care"
+        ]
+    ]
+}

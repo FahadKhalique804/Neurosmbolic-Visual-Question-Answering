@@ -1,0 +1,13 @@
+{
+  "object": "Zebra",
+  "triplets": [
+    ["Zebra", "subclass of", "mammal"],
+    ["Zebra", "used for", "ecosystem balance"],
+    ["Zebra", "material used", "biological tissues"],
+    ["Zebra", "has part", "stripes, hooves, mane"],
+    ["Zebra", "part of", "savanna ecosystems"],
+    ["Zebra", "manufacturer", "nature"],
+    ["Zebra", "weight", "280–450 kg"],
+    ["Zebra", "height", "1.2–1.6 m"]
+  ]
+}

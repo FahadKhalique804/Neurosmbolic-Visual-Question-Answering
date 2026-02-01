@@ -1,0 +1,50 @@
+{
+    "object": "Sports Car",
+    "triplets": [
+        [
+            "Sports Car",
+            "subclass of",
+            "High-performance automobile"
+        ],
+        [
+            "Sports Car",
+            "used for",
+            "Fast driving, racing, personal transport"
+        ],
+        [
+            "Sports Car",
+            "material used",
+            "Steel, aluminum, carbon fiber, glass"
+        ],
+        [
+            "Sports Car",
+            "has part",
+            "Engine, wheels, doors, seats, headlights, spoiler"
+        ],
+        [
+            "Sports Car",
+            "color",
+            "Red, black, blue, varies"
+        ],
+        [
+            "Sports Car",
+            "part of",
+            "Automotive vehicles"
+        ],
+        [
+            "Sports Car",
+            "manufacturer",
+            "Ferrari, Porsche, Lamborghini, BMW"
+        ],
+        [
+            "Sports Car",
+            "weight",
+            "1200–1800 kg"
+        ],
+        [
+            "Sports Car",
+            "height",
+            "120–140 cm"
+        ]
+    ]
+}

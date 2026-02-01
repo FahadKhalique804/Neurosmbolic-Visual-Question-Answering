@@ -1,0 +1,15 @@
+{
+    "object": "Poker Card",
+    "triplets": [
+        ["Poker Card", "subclass of", "Playing card used in games, typically part of a 52-card deck"],
+        ["Poker Card", "used for", "Card games, magic tricks, gambling, and collectibles"],
+        ["Poker Card", "material used", "Paper, plastic coating, or fully plastic for durability"],
+        ["Poker Card", "has part", "Face, back design, suit symbol, and number/face indicator"],
+        ["Poker Card", "color", "Red (hearts, diamonds) and black (spades, clubs) on white background"],
+        ["Poker Card", "part of", "Card decks, game sets, and casino equipment"],
+        ["Poker Card", "manufacturer", "Playing card companies like Bicycle, USPCC, and others"],
+        ["Poker Card", "size", "Standard: 6.3x8.8 cm (poker size)"],
+        ["Poker Card", "weight", "Approximately 1.5–2 grams per card"],
+        ["Poker Card", "lifespan", "Varies with use; plastic cards last years, paper cards wear faster"]
+    ]
+}

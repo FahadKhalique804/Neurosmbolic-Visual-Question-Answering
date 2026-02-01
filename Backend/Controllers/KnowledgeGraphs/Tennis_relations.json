@@ -1,0 +1,13 @@
+{
+    "object": "Tennis",
+    "triplets": [
+        ["Tennis", "subclass of", "racket sport played between two or four players"],
+        ["Tennis", "used for", "Recreation, professional sport, physical exercise"],
+        ["Tennis", "material used", "Tennis balls (rubber, felt), rackets (graphite, strings)"],
+        ["Tennis", "has part", "Tennis ball, racket, court, net"],
+        ["Tennis", "part of", "Sports activities, Olympic sports"],
+        ["Tennis", "manufacturer", "Various sports brands"],
+        ["Tennis", "weight", "approx 100 grams"],
+        ["Tennis", "height", "Net height 0.914 m at center"]
+    ]
+}

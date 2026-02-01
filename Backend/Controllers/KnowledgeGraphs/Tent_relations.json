@@ -1,0 +1,13 @@
+{
+    "object": "Tent",
+    "triplets": [
+        ["Tent", "subclass of", "temporary portable shelter"],
+        ["Tent", "used for", "Camping, outdoor shelter"],
+        ["Tent", "material used", "Nylon, polyester, canvas, aluminum poles"],
+        ["Tent", "has part", "Poles, stakes, rainfly, fabric walls, zippers"],
+        ["Tent", "part of", "Camping gear"],
+        ["Tent", "manufacturer", "Various outdoor brands"],
+        ["Tent", "weight", "1–20 kg"],
+        ["Tent", "height", "Varies by model"]
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "object": "Wallet Purse",
+  "triplets": [
+    ["Wallet Purse", "subclass of", "personal accessory"],
+    ["Wallet Purse", "used for", "storing money and cards"],
+    ["Wallet Purse", "material used", "leather, fabric"],
+    ["Wallet Purse", "has part", "compartments, zipper, pockets"],
+    ["Wallet Purse", "part of", "everyday carry items"],
+    ["Wallet Purse", "manufacturer", "Gucci, Coach, Fossil"],
+    ["Wallet Purse", "weight", "100–300 g"],
+    ["Wallet Purse", "height", "10–20 cm"]
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "object": "Key",
+  "triplets": [
+    ["Key",
+     "subclass of",
+      "Tool"
+    ],
+    ["Key",
+     "has part",
+      "Blade, Bow, Shoulder, Tip"
+    ],
+    ["Key",
+     "part of",
+      "Locking system"
+    ],
+    ["Key",
+     "used for",
+      "Opening locks"
+    ],
+    ["Key",
+     "material used",
+      "Metal (Brass, Steel)"
+    ],
+    ["Key",
+     "color", 
+     "Silver, Gold, Bronze"
+    ],
+    ["Key", 
+    "height",
+     "5-7 cm"
+    ],
+    ["Key",
+     "weight",
+      "10-50 grams"
+    ],
+    ["Key", 
+    "lifespan", 
+    "5-20 years"
+],
+    ["Key",
+     "manufacturer", 
+     "Yale, Godrej, Local locksmiths"
+    ]
+  ]
+}

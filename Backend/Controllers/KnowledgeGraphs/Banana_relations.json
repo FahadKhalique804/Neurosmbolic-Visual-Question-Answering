@@ -1,0 +1,60 @@
+{
+    "object": "Banana",
+    "triplets": [
+        [
+            "Banana",
+            "subclass of",
+            "Edible fruit produced by herbaceous plants of the genus Musa, cultivated in tropical and subtropical regions"
+        ],
+        [
+            "Banana",
+            "used for",
+            "Eating raw, making smoothies, desserts, baked goods, cooking, and baby food"
+        ],
+        [
+            "Banana",
+            "material used",
+            "Fleshy fruit pulp, peel, and seeds (tiny, undeveloped in cultivated varieties)"
+        ],
+        [
+            "Banana",
+            "has part",
+            "Peel that protects the fruit and can be removed before consumption"
+        ],
+        [
+            "Banana",
+            "has part",
+            "Pulp, the soft and edible portion rich in carbohydrates, fiber, vitamins, and minerals"
+        ],
+        [
+            "Banana",
+            "color",
+            "Typically yellow when ripe; green when unripe, and brown spots may develop as the fruit ripens further"
+        ],
+        [
+            "Banana",
+            "part of",
+            "Banana plant, tropical/subtropical agricultural ecosystems, and fruit supply chains"
+        ],
+        [
+            "Banana",
+            "manufacturer",
+            "Various farmers and commercial growers who cultivate banana plants for local and export markets"
+        ],
+        [
+            "Banana",
+            "weight",
+            "Approximately 120–150 grams per fruit depending on variety and size"
+        ],
+        [
+            "Banana",
+            "height",
+            "Approximately 20 cm per fruit, varying slightly with cultivar"
+        ],
+        [
+            "Banana",
+            "lifespan",
+            "Typically 1–2 weeks after harvest under proper storage; the banana plant itself produces fruit for several years before replacement"
+        ]
+    ]
+}

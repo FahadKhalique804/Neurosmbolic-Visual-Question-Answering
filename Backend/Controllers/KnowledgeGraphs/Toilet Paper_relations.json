@@ -1,0 +1,13 @@
+{
+    "object": "Toilet Paper",
+    "triplets": [
+        ["Toilet Paper", "subclass of", "soft hygiene paper"],
+        ["Toilet Paper", "used for", "Cleaning after toilet use"],
+        ["Toilet Paper", "material used", "Paper pulp"],
+        ["Toilet Paper", "has part", "Roll, sheets"],
+        ["Toilet Paper", "part of", "Bathroom supplies"],
+        ["Toilet Paper", "manufacturer", "Various companies"],
+        ["Toilet Paper", "weight", "100–500 g per roll"],
+        ["Toilet Paper", "height", "9–12 cm roll height"]
+    ]
+}

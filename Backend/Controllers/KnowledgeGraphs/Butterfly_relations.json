@@ -1,0 +1,70 @@
+{
+    "object": "Butterfly",
+    "triplets": [
+        [
+            "Butterfly",
+            "subclass of",
+            "Insect with brightly colored wings, belonging to the order Lepidoptera, known for metamorphosis from caterpillar to adult"
+        ],
+        [
+            "Butterfly",
+            "used for",
+            "Wildlife viewing, ecological studies, pollination, and aesthetic appreciation in gardens and nature reserves"
+        ],
+        [
+            "Butterfly",
+            "material used",
+            "Exoskeleton made of chitin, wings covered with scales"
+        ],
+        [
+            "Butterfly",
+            "has part",
+            "Wings for flight and display"
+        ],
+        [
+            "Butterfly",
+            "has part",
+            "Antennae for sensing the environment"
+        ],
+        [
+            "Butterfly",
+            "has part",
+            "Compound eyes for vision"
+        ],
+        [
+            "Butterfly",
+            "has part",
+            "Legs for perching and feeding"
+        ],
+        [
+            "Butterfly",
+            "has part",
+            "Proboscis for feeding on nectar"
+        ],
+        [
+            "Butterfly",
+            "color",
+            "Varies widely depending on species; includes combinations of orange, yellow, black, white, blue, and metallic hues"
+        ],
+        [
+            "Butterfly",
+            "part of",
+            "Ecosystems as pollinators and part of the food chain"
+        ],
+        [
+            "Butterfly",
+            "weight",
+            "Typically 0.5–1 grams depending on species"
+        ],
+        [
+            "Butterfly",
+            "height",
+            "Varies; wingspan usually 2–12 cm depending on species"
+        ],
+        [
+            "Butterfly",
+            "lifespan",
+            "1–2 weeks on average for adult butterflies; full life cycle (egg to adult) can range from 1 month to several months depending on species"
+        ]
+    ]
+}

@@ -1,0 +1,55 @@
+{
+  "object": "Fishing Rod",
+  "triplets": [
+    [
+      "Fishing Rod",
+      "subclass of",
+      "Fishing and recreational equipment"
+    ],
+    [
+      "Fishing Rod",
+      "has part",
+      "Rod shaft, reel seat, line guides, handle"
+    ],
+    [
+      "Fishing Rod",
+      "part of",
+      "Fishing gear and outdoor activity set"
+    ],
+    [
+      "Fishing Rod",
+      "used for",
+      "Catching fish during recreational or commercial fishing"
+    ],
+    [
+      "Fishing Rod",
+      "material used",
+      "Fiberglass, carbon fiber, metal guides"
+    ],
+    [
+      "Fishing Rod",
+      "color",
+      "Black, green, or multicolored"
+    ],
+    [
+      "Fishing Rod",
+      "height",
+      "1.5 to 4 meters in length"
+    ],
+    [
+      "Fishing Rod",
+      "weight",
+      "200 to 600 grams"
+    ],
+    [
+      "Fishing Rod",
+      "lifespan",
+      "5 to 15 years"
+    ],
+    [
+      "Fishing Rod",
+      "manufacturer",
+      "Fishing equipment manufacturing companies"
+    ]
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "object": "Meatball",
+    "triplets": [
+        ["Meatball", "subclass of", "Prepared food item made from ground meat"],
+        ["Meatball", "used for", "Human consumption as a cooked dish"],
+        ["Meatball", "material used", "Ground meat, spices, breadcrumbs"],
+        ["Meatball", "has part", "Cooked meat mixture"],
+        ["Meatball", "color", "Brown after cooking"],
+        ["Meatball", "part of", "Culinary dishes and cuisines"],
+        ["Meatball", "manufacturer", "Home cooks and food producers"],
+        ["Meatball", "weight", "20–40 grams per piece"],
+        ["Meatball", "lifespan", "2–3 days refrigerated"]
+    ]
+}

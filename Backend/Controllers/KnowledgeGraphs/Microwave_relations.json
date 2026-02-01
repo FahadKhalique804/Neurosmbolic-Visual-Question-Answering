@@ -1,0 +1,15 @@
+{
+    "object": "Microwave",
+    "triplets": [
+        ["Microwave", "subclass of", "Kitchen appliance for heating food using microwave radiation"],
+        ["Microwave", "used for", "Cooking and reheating food"],
+        ["Microwave", "material used", "Metal корпус, glass turntable, electronics"],
+        ["Microwave", "has part", "Magnetron generating microwaves"],
+        ["Microwave", "has part", "Rotating glass tray"],
+        ["Microwave", "color", "White, black, or stainless steel"],
+        ["Microwave", "part of", "Kitchen appliances"],
+        ["Microwave", "manufacturer", "Home appliance manufacturers"],
+        ["Microwave", "weight", "10–20 kilograms"],
+        ["Microwave", "lifespan", "7–10 years"]
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "object": "Plate",
+    "triplets": [
+        ["Plate", "subclass of", "Flat dish used to serve food"],
+        ["Plate", "used for", "Holding food during meals, serving, and decorative display"],
+        ["Plate", "material used", "Ceramic, porcelain, glass, plastic, metal, or melamine"],
+        ["Plate", "has part", "Rim, well, base, and sometimes decorative patterns"],
+        ["Plate", "color", "White most common; also various colors and designs"],
+        ["Plate", "part of", "Dinnerware sets, table settings, and kitchenware"],
+        ["Plate", "manufacturer", "Tableware companies, potteries, and manufacturers"],
+        ["Plate", "diameter", "Typically 20–30 cm for dinner plates"],
+        ["Plate", "weight", "Approximately 300–800 grams depending on material"],
+        ["Plate", "lifespan", "Years to decades with careful use; plastic plates shorter"]
+    ]
+}

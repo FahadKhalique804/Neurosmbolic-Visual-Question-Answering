@@ -1,0 +1,55 @@
+{
+  "object": "Duck",
+  "triplets": [
+    [
+      "Duck",
+      "subclass of",
+      "Water bird animal"
+    ],
+    [
+      "Duck",
+      "has part",
+      "Beak, wings, webbed feet, feathers"
+    ],
+    [
+      "Duck",
+      "part of",
+      "Wetland and freshwater ecosystem"
+    ],
+    [
+      "Duck",
+      "used for",
+      "Food production and ecological balance"
+    ],
+    [
+      "Duck",
+      "material used",
+      "Living biological tissues"
+    ],
+    [
+      "Duck",
+      "color",
+      "White, brown, or mixed patterns"
+    ],
+    [
+      "Duck",
+      "height",
+      "40 to 50 centimeters"
+    ],
+    [
+      "Duck",
+      "weight",
+      "1 to 4 kilograms"
+    ],
+    [
+      "Duck",
+      "lifespan",
+      "8 to 12 years"
+    ],
+    [
+      "Duck",
+      "manufacturer",
+      "Naturally produced by reproduction"
+    ]
+  ]
+}

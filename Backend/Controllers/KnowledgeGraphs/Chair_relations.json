@@ -1,0 +1,55 @@
+{
+    "object": "Chair",
+    "triplets": [
+        [
+            "Chair",
+            "subclass of",
+            "Furniture designed for sitting"
+        ],
+        [
+            "Chair",
+            "used for",
+            "Providing seating for one person"
+        ],
+        [
+            "Chair",
+            "material used",
+            "Wood, Plastic, Metal, or combinations depending on design"
+        ],
+        [
+            "Chair",
+            "has part",
+            "Legs, Seat, Backrest, Armrests (optional)"
+        ],
+        [
+            "Chair",
+            "color",
+            "Varies depending on material and design"
+        ],
+        [
+            "Chair",
+            "part of",
+            "Home, office, and public seating arrangements"
+        ],
+        [
+            "Chair",
+            "manufacturer",
+            "Various manufacturers"
+        ],
+        [
+            "Chair",
+            "weight",
+            "5–15 kg depending on material and design"
+        ],
+        [
+            "Chair",
+            "height",
+            "0.8–1.2 meters depending on style"
+        ],
+        [
+            "Chair",
+            "lifespan",
+            "not applicable"
+        ]
+    ]
+}

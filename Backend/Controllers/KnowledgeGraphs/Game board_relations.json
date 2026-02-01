@@ -1,0 +1,55 @@
+{
+  "object": "Game Board",
+  "triplets": [
+    [
+      "Game Board",
+      "subclass of",
+      "Recreational and tabletop gaming equipment"
+    ],
+    [
+      "Game Board",
+      "has part",
+      "Printed playing surface, grid or path markings, edges"
+    ],
+    [
+      "Game Board",
+      "part of",
+      "Board game system"
+    ],
+    [
+      "Game Board",
+      "used for",
+      "Providing a structured surface for playing board games"
+    ],
+    [
+      "Game Board",
+      "material used",
+      "Cardboard, wood, plastic, or laminated paper"
+    ],
+    [
+      "Game Board",
+      "color",
+      "Multicolored with printed graphics"
+    ],
+    [
+      "Game Board",
+      "height",
+      "Approximately 30 to 50 centimeters"
+    ],
+    [
+      "Game Board",
+      "weight",
+      "500 grams to 2 kilograms"
+    ],
+    [
+      "Game Board",
+      "lifespan",
+      "5 to 15 years depending on usage"
+    ],
+    [
+      "Game Board",
+      "manufacturer",
+      "Board game and toy manufacturing companies"
+    ]
+  ]
+}

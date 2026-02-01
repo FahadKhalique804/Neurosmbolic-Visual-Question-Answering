@@ -1,0 +1,13 @@
+{
+  "object": "Wheelchair",
+  "triplets": [
+    ["Wheelchair", "subclass of", "mobility device"],
+    ["Wheelchair", "used for", "assisting movement"],
+    ["Wheelchair", "material used", "aluminum, steel, rubber"],
+    ["Wheelchair", "has part", "seat, wheels, handles"],
+    ["Wheelchair", "part of", "medical mobility aids"],
+    ["Wheelchair", "manufacturer", "Invacare, Sunrise Medical, Drive"],
+    ["Wheelchair", "weight", "12–20 kg"],
+    ["Wheelchair", "height", "90–110 cm"]
+  ]
+}

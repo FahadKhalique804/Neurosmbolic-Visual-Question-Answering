@@ -1,0 +1,55 @@
+{
+  "object": "Formula 1 Car",
+  "triplets": [
+    [
+      "Formula 1 Car",
+      "subclass of",
+      "High-performance open-wheel racing vehicle"
+    ],
+    [
+      "Formula 1 Car",
+      "has part",
+      "Engine, aerodynamic wings, tires, chassis, steering wheel"
+    ],
+    [
+      "Formula 1 Car",
+      "part of",
+      "Formula 1 motorsport competition"
+    ],
+    [
+      "Formula 1 Car",
+      "used for",
+      "Professional high-speed racing in motorsport events"
+    ],
+    [
+      "Formula 1 Car",
+      "material used",
+      "Carbon fiber, titanium, aluminum alloys"
+    ],
+    [
+      "Formula 1 Car",
+      "color",
+      "Team-specific colors and designs"
+    ],
+    [
+      "Formula 1 Car",
+      "height",
+      "Approximately 95 centimeters"
+    ],
+    [
+      "Formula 1 Car",
+      "weight",
+      "Around 798 kilograms including driver"
+    ],
+    [
+      "Formula 1 Car",
+      "lifespan",
+      "One racing season with component replacements"
+    ],
+    [
+      "Formula 1 Car",
+      "manufacturer",
+      "Formula 1 racing teams and constructors"
+    ]
+  ]
+}

@@ -1,0 +1,60 @@
+{
+    "object": "Broom",
+    "triplets": [
+        [
+            "Broom",
+            "subclass of",
+            "Cleaning equipment used for sweeping floors and surfaces to remove dust, dirt, or debris"
+        ],
+        [
+            "Broom",
+            "used for",
+            "Sweeping floors, patios, or outdoor areas; maintaining cleanliness in homes, offices, and public spaces"
+        ],
+        [
+            "Broom",
+            "material used",
+            "Wood, plastic, metal for handle; natural straw, synthetic bristles, or a combination for the brush head"
+        ],
+        [
+            "Broom",
+            "has part",
+            "Handle for gripping and maneuvering"
+        ],
+        [
+            "Broom",
+            "has part",
+            "Bristles or brush head for sweeping"
+        ],
+        [
+            "Broom",
+            "color",
+            "Varies depending on handle and bristle material; common colors include natural straw, brown, black, or colored plastics"
+        ],
+        [
+            "Broom",
+            "part of",
+            "Household cleaning tools, janitorial equipment"
+        ],
+        [
+            "Broom",
+            "manufacturer",
+            "Various manufacturers producing cleaning equipment and household tools"
+        ],
+        [
+            "Broom",
+            "weight",
+            "Approximately 0.5–1 kg depending on size and materials"
+        ],
+        [
+            "Broom",
+            "height",
+            "Typically 1–1.5 meters depending on design and intended use"
+        ],
+        [
+            "Broom",
+            "lifespan",
+            "Typically 1–5 years depending on quality of materials, frequency of use, and care"
+        ]
+    ]
+}

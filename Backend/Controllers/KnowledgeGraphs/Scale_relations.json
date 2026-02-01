@@ -1,0 +1,15 @@
+{
+    "object": "Scale",
+    "triplets": [
+        ["Scale", "subclass of", "Measuring instrument used to determine weight or mass"],
+        ["Scale", "used for", "Weighing people, ingredients, packages, luggage, and scientific measurements"],
+        ["Scale", "material used", "Metal, plastic, glass, electronic sensors, springs, and digital displays"],
+        ["Scale", "has part", "Platform, display, sensors/battery, buttons, and sometimes tape measure"],
+        ["Scale", "color", "Typically white, black, silver, or gray"],
+        ["Scale", "part of", "Kitchen equipment, bathroom accessories, postal services, and laboratories"],
+        ["Scale", "manufacturer", "Companies like Tanita, OXO, Escali, and various measurement device makers"],
+        ["Scale", "weight capacity", "Kitchen scales: up to 5 kg; bathroom scales: up to 180 kg; industrial scales: much higher"],
+        ["Scale", "dimensions", "Varies: bathroom scales ~30x30 cm; kitchen scales ~20x15 cm"],
+        ["Scale", "lifespan", "5–15 years depending on quality and usage"]
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "object": "Belt",
+    "triplets": [
+        [
+            "Belt",
+            "subclass of",
+            "Accessory worn around the waist to secure clothing and provide style or functional support"
+        ],
+        [
+            "Belt",
+            "used for",
+            "Securing pants, skirts, or other garments, and serving as a fashion accessory"
+        ],
+        [
+            "Belt",
+            "material used",
+            "Leather, fabric, synthetic materials, and metal for buckles and decorative elements"
+        ],
+        [
+            "Belt",
+            "has part",
+            "Buckle used to fasten the belt and adjust its tightness"
+        ],
+        [
+            "Belt",
+            "has part",
+            "Strap, the main body of the belt that wraps around the waist"
+        ],
+        [
+            "Belt",
+            "color",
+            "Varies widely depending on material, manufacturer, and design; common colors include black, brown, tan, and colorful patterns"
+        ],
+        [
+            "Belt",
+            "part of",
+            "Everyday clothing, fashion ensembles, uniforms, and accessory collections"
+        ],
+        [
+            "Belt",
+            "manufacturer",
+            "Various manufacturers producing belts for fashion, utility, and uniform purposes"
+        ],
+        [
+            "Belt",
+            "length",
+            "Varies depending on waist size; typically 70–130 cm for adults"
+        ],
+        [
+            "Belt",
+            "weight",
+            "Approximately 50–200 grams depending on material and size"
+        ],
+        [
+            "Belt",
+            "lifespan",
+            "Typically 2–10 years depending on material quality, frequency of use, and care"
+        ]
+    ]
+}

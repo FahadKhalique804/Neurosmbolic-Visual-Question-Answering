@@ -1,0 +1,13 @@
+{
+    "object": "Toothbrush",
+    "triplets": [
+        ["Toothbrush", "subclass of", "oral hygiene tool"],
+        ["Toothbrush", "used for", "Brushing teeth"],
+        ["Toothbrush", "material used", "Plastic handle, nylon bristles"],
+        ["Toothbrush", "has part", "Handle, neck, head, bristles"],
+        ["Toothbrush", "part of", "Personal hygiene kit"],
+        ["Toothbrush", "manufacturer", "Various oral care brands"],
+        ["Toothbrush", "weight", "15–30 g"],
+        ["Toothbrush", "height", "15–20 cm"]
+    ]
+}

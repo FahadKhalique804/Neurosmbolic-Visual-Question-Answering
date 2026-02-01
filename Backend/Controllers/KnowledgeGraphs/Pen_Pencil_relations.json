@@ -1,0 +1,13 @@
+{
+    "object": "Pen_Pencil",
+    "triplets": [
+        ["Pen_Pencil", "subclass of", "Writing instruments used for marking on surfaces"],
+        ["Pen_Pencil", "used for", "Writing, drawing, sketching, note-taking, and signing documents"],
+        ["Pen_Pencil", "material used", "Wood, graphite, clay, ink, plastic, metal, and rubber"],
+        ["Pen_Pencil", "has part", "Barrel, tip, eraser (pencil), ink cartridge (pen), and clip"],
+        ["Pen_Pencil", "color", "Varies widely; pencil leads are gray; pens come in many ink colors"],
+        ["Pen_Pencil", "length", "Approximately 14–18 cm for standard pens and pencils"],
+        ["Pen_Pencil", "manufacturer", "Stationery companies like Bic, Faber-Castell, Pilot, etc."],
+        ["Pen_Pencil", "lifespan", "Pencils: until used up; pens: until ink runs out or dries"]
+    ]
+}

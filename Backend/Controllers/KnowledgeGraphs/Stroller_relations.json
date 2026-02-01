@@ -1,0 +1,14 @@
+{
+    "object": "Stroller",
+    "triplets": [
+        ["Stroller","subclass of","Wheeled device for transporting infants"],
+        ["Stroller","used for","Carrying babies during walking/travel"],
+        ["Stroller","material used","Metal frame, fabric seat, plastic wheels"],
+        ["Stroller","has part","Wheels, handle, seat, canopy, brakes"],
+        ["Stroller","color","Varies"],
+        ["Stroller","part of","Baby gear, travel equipment"],
+        ["Stroller","manufacturer","Various baby product brands"],
+        ["Stroller","weight","5–12 kg"],
+        ["Stroller","height","80–120 cm"]
+    ]
+}

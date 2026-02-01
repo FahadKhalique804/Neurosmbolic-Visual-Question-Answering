@@ -1,0 +1,55 @@
+{
+  "object": "Grape",
+  "triplets": [
+    [
+      "Grape",
+      "subclass of",
+      "Edible fruit"
+    ],
+    [
+      "Grape",
+      "has part",
+      "Skin, pulp, seeds, stem attachment"
+    ],
+    [
+      "Grape",
+      "part of",
+      "Fruit and agricultural produce"
+    ],
+    [
+      "Grape",
+      "used for",
+      "Eating fresh and making juice or wine"
+    ],
+    [
+      "Grape",
+      "material used",
+      "Organic plant matter"
+    ],
+    [
+      "Grape",
+      "color",
+      "Green, red, purple, or black"
+    ],
+    [
+      "Grape",
+      "height",
+      "1.5 to 3 centimeters"
+    ],
+    [
+      "Grape",
+      "weight",
+      "5 to 10 grams per grape"
+    ],
+    [
+      "Grape",
+      "lifespan",
+      "1 to 2 weeks after harvesting"
+    ],
+    [
+      "Grape",
+      "manufacturer",
+      "Farmers and agricultural producers"
+    ]
+  ]
+}

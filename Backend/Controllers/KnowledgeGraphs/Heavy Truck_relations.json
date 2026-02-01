@@ -1,0 +1,53 @@
+{
+  "object": "Heavy Truck",
+  "triplets": [
+    ["Heavy Truck",
+     "subclass of",
+      "Vehicle"
+    ],
+
+    ["Heavy Truck", 
+    "has part", 
+    "Engine, Wheels, Cargo Bed, Cabin"
+],  
+    ["Heavy Truck", 
+    "part of", 
+    "Logistics Fleet, Construction Site"
+],
+
+    ["Heavy Truck",
+     "used for",
+      "Transporting heavy goods"
+    ],
+
+    ["Heavy Truck",
+     "material used",
+      "Steel, Rubber, Plastic"
+    ],
+
+    ["Heavy Truck", 
+    "color", 
+    "Red, Blue, White, Black"
+],
+
+    ["Heavy Truck",
+     "height",
+      "3.5 m"
+    ],
+
+    ["Heavy Truck",
+     "weight",
+      "15,000 kg"
+    ],
+
+    ["Heavy Truck",
+     "lifespan",
+      "15 years"
+    ],
+
+    ["Heavy Truck",
+     "manufacturer",
+      "Volvo, Scania, Mercedes-Benz"
+    ]
+  ]
+}

@@ -1,0 +1,50 @@
+{
+    "object": "Stool",
+    "triplets": [
+        [
+            "Stool",
+            "subclass of",
+            "Backless seat"
+        ],
+        [
+            "Stool",
+            "used for",
+            "Sitting"
+        ],
+        [
+            "Stool",
+            "material used",
+            "Wood, metal, plastic"
+        ],
+        [
+            "Stool",
+            "has part",
+            "Seat, legs, footrest (optional)"
+        ],
+        [
+            "Stool",
+            "color",
+            "Varies"
+        ],
+        [
+            "Stool",
+            "part of",
+            "Household furniture"
+        ],
+        [
+            "Stool",
+            "manufacturer",
+            "IKEA, HomeCentre, various brands"
+        ],
+        [
+            "Stool",
+            "weight",
+            "1–5 kg"
+        ],
+        [
+            "Stool",
+            "height",
+            "40–75 cm"
+        ]
+    ]
+}

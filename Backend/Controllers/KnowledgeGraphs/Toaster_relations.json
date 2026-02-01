@@ -1,0 +1,13 @@
+{
+    "object": "Toaster",
+    "triplets": [
+        ["Toaster", "subclass of", "kitchen appliance for toasting bread"],
+        ["Toaster", "used for", "Toasting bread, bagels, pastries"],
+        ["Toaster", "material used", "Stainless steel, plastic, electrical components"],
+        ["Toaster", "has part", "Heating coils, slots, lever, crumb tray"],
+        ["Toaster", "part of", "Kitchen appliances"],
+        ["Toaster", "manufacturer", "Various appliance brands"],
+        ["Toaster", "weight", "1–3 kg"],
+        ["Toaster", "height", "15–25 cm"]
+    ]
+}

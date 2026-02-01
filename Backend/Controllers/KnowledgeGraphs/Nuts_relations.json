@@ -1,0 +1,13 @@
+{
+    "object": "Nuts",
+    "triplets": [
+        ["Nuts", "subclass of", "Edible seeds encased in a hard shell, from various trees or plants"],
+        ["Nuts", "used for", "Snacking, cooking, baking, oil extraction, and as ingredient in dishes"],
+        ["Nuts", "material used", "Shell, kernel, and sometimes salt or flavor coatings"],
+        ["Nuts", "has part", "Shell, edible kernel, and sometimes inner skin"],
+        ["Nuts", "color", "Brown, beige, white, or reddish depending on type"],
+        ["Nuts", "manufacturer", "Agricultural producers, nut processors, and food brands"],
+        ["Nuts", "weight", "Varies by type; almonds ~1g each, walnuts ~10g each"],
+        ["Nuts", "lifespan", "Shelled: months if stored properly; unshelled: up to a year"]
+    ]
+}

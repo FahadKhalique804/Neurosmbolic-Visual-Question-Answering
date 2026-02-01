@@ -1,0 +1,50 @@
+{
+    "object": "Skateboard",
+    "triplets": [
+        [
+            "Skateboard",
+            "subclass of",
+            "Board sport equipment used for skating"
+        ],
+        [
+            "Skateboard",
+            "used for",
+            "Skateboarding, tricks, transportation"
+        ],
+        [
+            "Skateboard",
+            "material used",
+            "Wood (maple), grip tape, metal trucks, polyurethane wheels"
+        ],
+        [
+            "Skateboard",
+            "has part",
+            "Deck, trucks, wheels, bearings, grip tape"
+        ],
+        [
+            "Skateboard",
+            "color",
+            "Varies"
+        ],
+        [
+            "Skateboard",
+            "part of",
+            "Skating equipment"
+        ],
+        [
+            "Skateboard",
+            "manufacturer",
+            "Element, Santa Cruz, Powell, Zero, Plan B"
+        ],
+        [
+            "Skateboard",
+            "weight",
+            "2–4 kg"
+        ],
+        [
+            "Skateboard",
+            "height",
+            "80–85 cm length; height depends on wheel setup"
+        ]
+    ]
+}

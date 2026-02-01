@@ -1,0 +1,55 @@
+{
+  "object": "Electric Drill",
+  "triplets": [
+    [
+      "Electric Drill",
+      "subclass of",
+      "Power tool equipment"
+    ],
+    [
+      "Electric Drill",
+      "has part",
+      "Motor, drill bit, chuck, trigger, handle"
+    ],
+    [
+      "Electric Drill",
+      "part of",
+      "Construction and maintenance tool set"
+    ],
+    [
+      "Electric Drill",
+      "used for",
+      "Drilling holes and driving screws in materials"
+    ],
+    [
+      "Electric Drill",
+      "material used",
+      "Metal components, plastic casing, electrical wiring"
+    ],
+    [
+      "Electric Drill",
+      "color",
+      "Black, blue, red, or yellow"
+    ],
+    [
+      "Electric Drill",
+      "height",
+      "20 to 30 centimeters"
+    ],
+    [
+      "Electric Drill",
+      "weight",
+      "1.5 to 4 kilograms"
+    ],
+    [
+      "Electric Drill",
+      "lifespan",
+      "5 to 15 years depending on usage"
+    ],
+    [
+      "Electric Drill",
+      "manufacturer",
+      "Power tool manufacturing companies"
+    ]
+  ]
+}

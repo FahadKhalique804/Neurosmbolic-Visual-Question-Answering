@@ -1,0 +1,55 @@
+{
+  "object": "Glasses",
+  "triplets": [
+    [
+      "Glasses",
+      "subclass of",
+      "Vision correction and protective eyewear"
+    ],
+    [
+      "Glasses",
+      "has part",
+      "Lenses, frame, temples, nose pads"
+    ],
+    [
+      "Glasses",
+      "part of",
+      "Personal accessories and medical aids"
+    ],
+    [
+      "Glasses",
+      "used for",
+      "Improving vision or protecting eyes"
+    ],
+    [
+      "Glasses",
+      "material used",
+      "Glass, plastic, metal, acetate"
+    ],
+    [
+      "Glasses",
+      "color",
+      "Transparent lenses with colored frames"
+    ],
+    [
+      "Glasses",
+      "height",
+      "4 to 6 centimeters"
+    ],
+    [
+      "Glasses",
+      "weight",
+      "20 to 50 grams"
+    ],
+    [
+      "Glasses",
+      "lifespan",
+      "2 to 5 years"
+    ],
+    [
+      "Glasses",
+      "manufacturer",
+      "Optical and eyewear companies"
+    ]
+  ]
+}

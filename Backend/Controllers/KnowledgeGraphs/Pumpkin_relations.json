@@ -1,0 +1,15 @@
+{
+    "object": "Pumpkin",
+    "triplets": [
+        ["Pumpkin", "subclass of", "Large orange squash, often used in cooking and decoration"],
+        ["Pumpkin", "used for", "Pies, soups, roasting, carving for Halloween, and seasonal decor"],
+        ["Pumpkin", "material used", "Flesh, seeds, skin, and stem"],
+        ["Pumpkin", "has part", "Thick skin, fleshy interior, seeds, and stem"],
+        ["Pumpkin", "color", "Orange exterior; yellow-orange flesh"],
+        ["Pumpkin", "part of", "Autumn harvest, holiday traditions, and culinary uses"],
+        ["Pumpkin", "manufacturer", "Farmers and agricultural producers"],
+        ["Pumpkin", "weight", "Typically 3–8 kg; larger varieties can exceed 50 kg"],
+        ["Pumpkin", "diameter", "Approximately 20–40 cm for medium pumpkins"],
+        ["Pumpkin", "lifespan", "Several months when stored in cool, dry conditions"]
+    ]
+}

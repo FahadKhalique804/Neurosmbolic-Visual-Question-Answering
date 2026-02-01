@@ -1,0 +1,45 @@
+{
+  "object": "Horse",
+  "triplets": [
+    ["Horse",
+     "subclass of", 
+     "Animal"
+    ],
+    ["Horse",
+     "has part",
+      "Legs, Tail, Mane, Hooves"
+    ],
+    ["Horse",
+     "part of", 
+     "Riding Stable, Ranch"
+    ],
+    ["Horse",
+     "used for",
+      "Riding, Racing, Work"
+    ],
+    ["Horse",
+     "material used", 
+     "Biological - Hair, Bone, Muscle"
+    ],
+    ["Horse",
+     "color",
+      "Brown, Black, White, Gray"
+    ],
+    ["Horse",
+     "height",
+      "1.5-1.8 m"
+    ],
+    ["Horse",
+     "weight",
+      "400-600 kg"
+    ],
+    ["Horse", 
+    "lifespan",
+     "25-30 years"
+    ],
+    ["Horse", 
+    "manufacturer", 
+    "Nature"
+]
+  ]
+}

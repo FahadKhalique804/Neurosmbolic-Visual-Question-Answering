@@ -1,0 +1,55 @@
+{
+  "object": "Dessert",
+  "triplets": [
+    [
+      "Dessert",
+      "subclass of",
+      "Sweet food item"
+    ],
+    [
+      "Dessert",
+      "has part",
+      "Sugar content, base ingredient, flavoring"
+    ],
+    [
+      "Dessert",
+      "part of",
+      "Main meal course"
+    ],
+    [
+      "Dessert",
+      "used for",
+      "Consumption after meals for taste and satisfaction"
+    ],
+    [
+      "Dessert",
+      "material used",
+      "Milk, sugar, flour, fruits, or chocolate"
+    ],
+    [
+      "Dessert",
+      "color",
+      "Various colors depending on ingredients"
+    ],
+    [
+      "Dessert",
+      "height",
+      "Usually 5 to 10 centimeters"
+    ],
+    [
+      "Dessert",
+      "weight",
+      "Approximately 100 to 300 grams per serving"
+    ],
+    [
+      "Dessert",
+      "lifespan",
+      "1 to 5 days depending on type"
+    ],
+    [
+      "Dessert",
+      "manufacturer",
+      "Bakeries, confectioners, or chefs"
+    ]
+  ]
+}

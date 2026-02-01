@@ -1,0 +1,70 @@
+{
+    "object": "Cosmetics Brush/Eyeliner Pencil",
+    "triplets": [
+        [
+            "Cosmetics Brush/Eyeliner Pencil",
+            "subclass of",
+            "Beauty Tools used for makeup application"
+        ],
+        [
+            "Cosmetics Brush/Eyeliner Pencil",
+            "used for",
+            "Makeup application on eyes, face, or detailed areas"
+        ],
+        [
+            "Cosmetics Brush/Eyeliner Pencil",
+            "material used",
+            "Wood, Metal, Synthetic bristles, Plastic"
+        ],
+        [
+            "Cosmetics Brush/Eyeliner Pencil",
+            "color",
+            "Varies depending on brand and style"
+        ],
+        [
+            "Cosmetics Brush/Eyeliner Pencil",
+            "manufacturer",
+            "Various manufacturers"
+        ],
+        [
+            "Cosmetics Brush/Eyeliner Pencil",
+            "has type",
+            "Blending brush, Angled brush, Eyeliner pencil, Precision brush"
+        ],
+        [
+            "Cosmetics Brush/Eyeliner Pencil",
+            "used by",
+            "Makeup artists, General consumers"
+        ],
+        [
+            "Cosmetics Brush/Eyeliner Pencil",
+            "found in",
+            "Makeup kits, Cosmetic bags"
+        ],
+        [
+            "Cosmetics Brush/Eyeliner Pencil",
+            "weight",
+            "Not applicable"
+        ],
+        [
+            "Cosmetics Brush/Eyeliner Pencil",
+            "height",
+            "Not applicable"
+        ],
+        [
+            "Cosmetics Brush/Eyeliner Pencil",
+            "has part",
+            "Bristles, Handle, Tip"
+        ],
+        [
+            "Cosmetics Brush/Eyeliner Pencil",
+            "part of",
+            "Makeup kit, Cosmetics collection"
+        ],
+        [
+            "Cosmetics Brush/Eyeliner Pencil",
+            "lifespan",
+            "Not applicable"
+        ]
+    ]
+}

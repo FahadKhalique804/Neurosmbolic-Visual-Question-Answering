@@ -1,0 +1,55 @@
+{
+    "object": "Ambulance",
+    "triplets": [
+        [
+            "Ambulance",
+            "subclass of",
+            "Specialized emergency vehicle designed for transporting patients and providing pre-hospital medical care"
+        ],
+        [
+            "Ambulance",
+            "used for",
+            "Transporting injured or ill patients, providing emergency medical assistance, and rapid response to accidents"
+        ],
+        [
+            "Ambulance",
+            "material used",
+            "Reinforced metal body, glass windows, interior medical equipment materials like plastics, steel, and aluminum"
+        ],
+        [
+            "Ambulance",
+            "has part",
+            "Siren, stretcher, medical equipment, oxygen cylinders, interior cabinets, emergency lights, radio communication system"
+        ],
+        [
+            "Ambulance",
+            "color",
+            "White, Red, Yellow (varies by region)"
+        ],
+        [
+            "Ambulance",
+            "part of",
+            "Emergency medical services (EMS), hospital response system, disaster response units"
+        ],
+        [
+            "Ambulance",
+            "manufacturer",
+            "Various commercial vehicle manufacturers and emergency vehicle upfitters"
+        ],
+        [
+            "Ambulance",
+            "weight",
+            "2,000–4,500 kg depending on type"
+        ],
+        [
+            "Ambulance",
+            "height",
+            "2–3 meters depending on model"
+        ],
+        [
+            "Ambulance",
+            "lifespan",
+            "Not applicable"
+        ]
+    ]
+}

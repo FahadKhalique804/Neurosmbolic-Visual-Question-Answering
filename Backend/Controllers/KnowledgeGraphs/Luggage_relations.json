@@ -1,0 +1,15 @@
+{
+    "object": "Luggage",
+    "triplets": [
+        ["Luggage", "subclass of", "Travel storage container designed to carry personal belongings"],
+        ["Luggage", "used for", "Transporting clothes and items during travel"],
+        ["Luggage", "material used", "Plastic, fabric, leather, metal frames"],
+        ["Luggage", "has part", "Wheels for easy movement"],
+        ["Luggage", "has part", "Handles and internal compartments"],
+        ["Luggage", "color", "Available in various colors and designs"],
+        ["Luggage", "part of", "Travel accessories and transportation systems"],
+        ["Luggage", "manufacturer", "Various luggage and travel goods manufacturers"],
+        ["Luggage", "weight", "3–7 kilograms when empty"],
+        ["Luggage", "lifespan", "5–10 years depending on usage"]
+    ]
+}

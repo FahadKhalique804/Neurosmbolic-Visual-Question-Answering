@@ -1,0 +1,60 @@
+{
+    "object": "Baseball Bat",
+    "triplets": [
+        [
+            "Baseball Bat",
+            "subclass of",
+            "Sports equipment designed for hitting a baseball in the game of baseball"
+        ],
+        [
+            "Baseball Bat",
+            "used for",
+            "Hitting baseballs in games, practice sessions, and training for baseball or softball"
+        ],
+        [
+            "Baseball Bat",
+            "material used",
+            "Wood (maple, ash, or birch) or metal (aluminum, alloy), with rubber or synthetic grip tape for handle"
+        ],
+        [
+            "Baseball Bat",
+            "has part",
+            "Grip at the handle end to provide better hold and control"
+        ],
+        [
+            "Baseball Bat",
+            "has part",
+            "Barrel, the thicker hitting portion designed to strike the ball"
+        ],
+        [
+            "Baseball Bat",
+            "color",
+            "Varies depending on material, manufacturer, and customization; wooden bats often natural or stained, metal bats can be painted or anodized"
+        ],
+        [
+            "Baseball Bat",
+            "part of",
+            "Baseball games, training sessions, sports equipment collections, and competitive leagues"
+        ],
+        [
+            "Baseball Bat",
+            "manufacturer",
+            "Various sports equipment manufacturers producing wooden, metal, and custom bats"
+        ],
+        [
+            "Baseball Bat",
+            "weight",
+            "Typically 0.9–1.2 kg depending on size, material, and league regulations"
+        ],
+        [
+            "Baseball Bat",
+            "height",
+            "Approximately 70–100 cm in length depending on type and player age group"
+        ],
+        [
+            "Baseball Bat",
+            "lifespan",
+            "Wooden bats can last 1–5 years depending on usage and care; metal bats can last 5–10 years or more with proper maintenance"
+        ]
+    ]
+}

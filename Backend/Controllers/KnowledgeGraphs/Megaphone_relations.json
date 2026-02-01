@@ -1,0 +1,15 @@
+{
+    "object": "Megaphone",
+    "triplets": [
+        ["Megaphone", "subclass of", "Portable sound amplification device"],
+        ["Megaphone", "used for", "Public speaking and crowd control"],
+        ["Megaphone", "material used", "Plastic casing and electronic components"],
+        ["Megaphone", "has part", "Horn-shaped amplifier"],
+        ["Megaphone", "has part", "Handle with controls"],
+        ["Megaphone", "color", "White, red, or black"],
+        ["Megaphone", "part of", "Public address systems"],
+        ["Megaphone", "manufacturer", "Electronics manufacturers"],
+        ["Megaphone", "weight", "1–3 kilograms"],
+        ["Megaphone", "lifespan", "5–10 years"]
+    ]
+}

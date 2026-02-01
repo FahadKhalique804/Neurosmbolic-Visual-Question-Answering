@@ -1,0 +1,50 @@
+{
+    "object": "Side Table",
+    "triplets": [
+        [
+            "Side Table",
+            "subclass of",
+            "Small household furniture used beside beds, sofas, or chairs"
+        ],
+        [
+            "Side Table",
+            "used for",
+            "Holding lamps, books, drinks, decorations, or personal items"
+        ],
+        [
+            "Side Table",
+            "material used",
+            "Wood, metal, plastic, glass"
+        ],
+        [
+            "Side Table",
+            "has part",
+            "Tabletop, legs, drawers (optional)"
+        ],
+        [
+            "Side Table",
+            "color",
+            "Varies"
+        ],
+        [
+            "Side Table",
+            "part of",
+            "Bedroom furniture set, living room furniture"
+        ],
+        [
+            "Side Table",
+            "manufacturer",
+            "IKEA, Ashley, HomeCentre, and others"
+        ],
+        [
+            "Side Table",
+            "weight",
+            "5–15 kg"
+        ],
+        [
+            "Side Table",
+            "height",
+            "40–70 cm"
+        ]
+    ]
+}

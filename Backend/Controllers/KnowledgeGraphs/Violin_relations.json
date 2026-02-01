@@ -1,0 +1,13 @@
+{
+  "object": "Violin",
+  "triplets": [
+    ["Violin", "subclass of", "string instrument"],
+    ["Violin", "used for", "producing musical melodies"],
+    ["Violin", "material used", "wood"],
+    ["Violin", "has part", "strings, bow, body"],
+    ["Violin", "part of", "orchestras and music ensembles"],
+    ["Violin", "manufacturer", "Yamaha, Stradivarius, Stentor"],
+    ["Violin", "weight", "0.4–0.7 kg"],
+    ["Violin", "height", "58–60 cm"]
+  ]
+}

@@ -1,0 +1,55 @@
+{
+    "object": "Balloon",
+    "triplets": [
+        [
+            "Balloon",
+            "subclass of",
+            "Flexible object used as a toy or decoration, capable of being inflated with air or gas"
+        ],
+        [
+            "Balloon",
+            "used for",
+            "Decoration for events and parties, recreational play, promotional displays, and celebrations"
+        ],
+        [
+            "Balloon",
+            "material used",
+            "Rubber, latex, or foil materials that can expand when filled with air, helium, or other gases"
+        ],
+        [
+            "Balloon",
+            "has part",
+            "Valve or neck used for inflating and sealing the balloon"
+        ],
+        [
+            "Balloon",
+            "color",
+            "Available in a wide range of colors, patterns, and printed designs depending on manufacturer"
+        ],
+        [
+            "Balloon",
+            "part of",
+            "Party decorations, celebration setups, event displays, and toy collections"
+        ],
+        [
+            "Balloon",
+            "manufacturer",
+            "Various manufacturers producing party supplies, promotional materials, and novelty items"
+        ],
+        [
+            "Balloon",
+            "weight",
+            "Typically 5–50 grams depending on size, material, and whether inflated"
+        ],
+        [
+            "Balloon",
+            "height",
+            "Typically 20–30 cm when fully inflated, varying with type and intended use"
+        ],
+        [
+            "Balloon",
+            "lifespan",
+            "Short-lived; generally lasts a few hours to several days depending on inflation method, material, and environmental conditions"
+        ]
+    ]
+}

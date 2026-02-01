@@ -1,0 +1,14 @@
+{
+    "object": "Tape",
+    "triplets": [
+        ["Tape","subclass of","Adhesive product"],
+        ["Tape","used for","Sealing, attaching, packaging, decoration"],
+        ["Tape","material used","Plastic, paper, fabric, adhesive"],
+        ["Tape","has part","Roll, adhesive layer, backing"],
+        ["Tape","color","Transparent, white, colored, patterned"],
+        ["Tape","part of","Stationery, household, office supplies"],
+        ["Tape","manufacturer","3M, Scotch, Duck Brand, Tesa"],
+        ["Tape","weight","50–200 grams"],
+        ["Tape","height","2–5 cm roll width"]
+    ]
+}

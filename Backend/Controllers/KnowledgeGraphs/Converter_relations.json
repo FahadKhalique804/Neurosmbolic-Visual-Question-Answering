@@ -1,0 +1,65 @@
+{
+    "object": "Converter",
+    "triplets": [
+        [
+            "Converter",
+            "subclass of",
+            "Electronics device designed to convert voltage, current, or signal types"
+        ],
+        [
+            "Converter",
+            "used for",
+            "Converting voltage, current, or signals between different formats or levels"
+        ],
+        [
+            "Converter",
+            "material used",
+            "Plastic, Metal depending on casing and internal components"
+        ],
+        [
+            "Converter",
+            "has type",
+            "Power converter, Signal converter, Audio converter, Adapter"
+        ],
+        [
+            "Converter",
+            "part of",
+            "Electrical or electronic systems"
+        ],
+        [
+            "Converter",
+            "power source",
+            "Electricity"
+        ],
+        [
+            "Converter",
+            "color",
+            "Varies depending on manufacturer and model"
+        ],
+        [
+            "Converter",
+            "manufacturer",
+            "Various manufacturers"
+        ],
+        [
+            "Converter",
+            "shape",
+            "Rectangular"
+        ],
+        [
+            "Converter",
+            "weight",
+            "Lightweight, varies depending on type and components"
+        ],
+        [
+            "Converter",
+            "height",
+            "Not applicable"
+        ],
+        [
+            "Converter",
+            "lifespan",
+            "Not applicable"
+        ]
+    ]
+}

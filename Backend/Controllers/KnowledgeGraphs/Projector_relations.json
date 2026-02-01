@@ -1,0 +1,14 @@
+{
+    "object": "Projector",
+    "triplets": [
+        ["Projector", "subclass of", "Optical device that projects images or video onto a surface"],
+        ["Projector", "used for", "Presentations, home theater, education, and public displays"],
+        ["Projector", "material used", "Plastic, metal, glass lenses, LCD/DLP chips, and lamps/LEDs"],
+        ["Projector", "has part", "Lens, light source, cooling fan, input ports, and control panel"],
+        ["Projector", "color", "Typically white, black, or silver"],
+        ["Projector", "part of", "Audiovisual systems, classrooms, conference rooms, and home entertainment"],
+        ["Projector", "manufacturer", "Epson, BenQ, Sony, Optoma, and other AV companies"],
+        ["Projector", "weight", "Approximately 2–10 kg depending on type"],
+        ["Projector", "lifespan", "Lamp: 2000–5000 hours; overall device: 5–10 years"]
+    ]
+}

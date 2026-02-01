@@ -1,0 +1,80 @@
+{
+    "object": "Bus",
+    "triplets": [
+        [
+            "Bus",
+            "subclass of",
+            "Vehicle designed to carry multiple passengers along fixed routes or for private transport services"
+        ],
+        [
+            "Bus",
+            "used for",
+            "Public transportation, charter services, school transport, and private group travel"
+        ],
+        [
+            "Bus",
+            "material used",
+            "Metal (steel or aluminum for frame and body), glass (windows), rubber (tires), plastic and fabric for interiors"
+        ],
+        [
+            "Bus",
+            "has part",
+            "Engine for propulsion"
+        ],
+        [
+            "Bus",
+            "has part",
+            "Wheels and tires"
+        ],
+        [
+            "Bus",
+            "has part",
+            "Seats for passengers"
+        ],
+        [
+            "Bus",
+            "has part",
+            "Doors for entry and exit"
+        ],
+        [
+            "Bus",
+            "has part",
+            "Windows"
+        ],
+        [
+            "Bus",
+            "has part",
+            "Steering and control systems"
+        ],
+        [
+            "Bus",
+            "color",
+            "Varies depending on operator, commonly white, yellow, red, blue, or a combination"
+        ],
+        [
+            "Bus",
+            "part of",
+            "Public transportation systems, private transport fleets, and school transportation networks"
+        ],
+        [
+            "Bus",
+            "manufacturer",
+            "Various manufacturers producing buses, coaches, and minibuses"
+        ],
+        [
+            "Bus",
+            "weight",
+            "Typically 5,000–15,000 kg depending on size and type"
+        ],
+        [
+            "Bus",
+            "height",
+            "Approximately 3–4 meters depending on model and design"
+        ],
+        [
+            "Bus",
+            "lifespan",
+            "Typically 10–20 years depending on maintenance, usage, and type"
+        ]
+    ]
+}
