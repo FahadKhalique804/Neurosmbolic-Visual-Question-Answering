@@ -20,10 +20,27 @@ An intelligent assistive application that enables visually impaired users to und
 - **Neuro-Symbolic Reasoning**: Uses a hybrid approach (CFG -> Regex -> ML) for robust question answering.
 - **Explainable AI**: Provides transparency into how the answer was derived.
 
+### 🧠 AI Capabilities
+
+- **Neuro-Symbolic VQA:** Combines neural perception (vision + NLP) with symbolic reasoning.
+- **Chain-of-Thought Reasoning:** Logical steps are applied internally to improve multi-hop reasoning.
+- **Scene Graph Generation:** Converts detected objects into structured symbolic representations.
+- **Robotic Command Grounding (Extensible):** Architecture supports grounding answers into executable commands for assistive robots.
+
+---
+
 ## 🛠️ Tech Stack
 
-- **Backend**: Python, Flask, OpenCV, YOLO (Ultralytics), NLTK, Scikit-Learn.
-- **Frontend**: Flutter (Mobile/Desktop), Dart.
+- **Backend:** Python (Flask / FastAPI)
+- **Computer Vision:** OpenCV, Object Detection Models (YOLO / Faster R-CNN)
+- **NLP:** Transformer-based Question Parsing
+- **Reasoning Engine:** Symbolic Logic Rules, CFG-based Parsing
+- **AI Architecture:** Neuro-Symbolic Framework with Chain-of-Thought
+- **Frontend:** Flutter (Mobile/Desktop)
+- **Speech:** Speech-to-Text (Whisper), Text-to-Speech
+- **Database:** SQLite / MySQL (for logs & history)
+
+---
 
 ## ⚙️ Prerequisites
 
