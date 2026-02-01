@@ -81,55 +81,55 @@ pip install -r requirements.txt
 # Start the server
 python app.py
 
-### 2. Frontend Setup
-```bash
-# From project root
-cd frontend
+2. Frontend Setup
+Bash# From project root (if not already there)
+cd ../frontend
 
-# Install dependencies
+# Install Flutter dependencies
 flutter pub get
 
-# Run the app (choose target: chrome, windows, android, etc.)
-flutter run -d chrome
-# or: flutter run -d windows
-# or: flutter run    # for connected device
+# Run the app – choose your target platform
+flutter run -d chrome             # Web/browser
+# or
+flutter run -d windows            # Desktop
+# or
+flutter run                       # Android/iOS device (if connected)
 
-##📂 Project Structure
-neurosymbolic-visual-question-answering/
+📂 Project Structure
+textneurosymbolic-visual-question-answering/
 ├── backend/
-│   ├── Controllers/          # Question, Image & Reasoning Handlers
-│   ├── Models/               # CFG, Scene Graph, Logic Models
-│   ├── Services/             # NLP, Vision, Speech Processing
-│   ├── app.py                # Main API Server (Flask/FastAPI)
+│   ├── Controllers/       # API handlers: question, image, answer
+│   ├── Models/            # Scene graph, logic rules, CFG parser
+│   ├── Services/          # Vision, NLP, speech, reasoning modules
+│   ├── app.py             # Main API server (Flask or FastAPI)
 │   ├── requirements.txt
 │   └── ...
 ├── frontend/
 │   ├── lib/
-│   │   ├── screens/          # UI Screens (capture, question, result, settings…)
-│   │   ├── services/         # API client, speech recognition/synthesis
-│   │   ├── widgets/          # Reusable components
+│   │   ├── screens/       # UI: camera, question input, results, settings
+│   │   ├── services/      # API client, speech STT/TTS
+│   │   ├── widgets/       # Reusable Flutter components
 │   │   └── main.dart
 │   ├── pubspec.yaml
 │   └── ...
 ├── README.md
 └── LICENSE
+🎯 Use Cases
 
-##🎯 Use Cases #Accessibility #AssistiveTech
+Daily assistance for visually impaired users (indoor/outdoor scene understanding)
+Educational showcase of neuro-symbolic AI principles
+Foundation for assistive robotics and embodied AI
+Research platform for explainable VQA in accessibility
 
-Assist visually impaired users in understanding indoor and outdoor scenes.
-Educational demonstration of Neuro-Symbolic AI.
-Foundation for assistive robotics and embodied AI systems.
-Research-oriented VQA with explainability.
+#Accessibility #AssistiveTech
+🤝 Contributing
 
-##🤝 Contributing
-
-Fork the repository.
+Fork the repository
 Create your feature branchBashgit checkout -b feature/amazing-feature
 Commit your changesBashgit commit -m 'Add some amazing feature'
 Push to the branchBashgit push origin feature/amazing-feature
-Open a Pull Request.
+Open a Pull Request
 
-We welcome contributions — bug fixes, new features, documentation, or model improvements!
-
-##📄 License
+We warmly welcome contributions — bug fixes, new features, better reasoning accuracy, multilingual support, documentation, or model optimizations!
+📄 License
 Distributed under the MIT License.
