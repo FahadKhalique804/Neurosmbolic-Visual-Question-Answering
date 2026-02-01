@@ -61,28 +61,6 @@ An intelligent assistive application that enables visually impaired users to und
     python download.py
     ```
 
-### ⚠️ Critical Configuration (Must Read)
-
-The codebase currently contains **hardcoded paths** that match the original developer's machine. You **must** update these paths to point to the correct locations on your system for the application to work.
-
-Please open and edit the following files:
-
-1.  **`Backend/Controllers/ObjectDetectionHandler.py`**
-    -   Locate line ~5: `model_path=r'D:\PyCharm Project\NS_VQA\modelsNSVQA\last.pt'`
-    -   Change this path to point to your `last.pt` model file (located in `Backend/modelsNSVQA/last.pt`).
-    -   *Example*: `model_path=r'absolute/path/to/your/Backend/modelsNSVQA/last.pt'`
-
-2.  **`Backend/Controllers/model_store.py`**
-    -   Update paths for `relation_classifier_fahad.pkl` and `vectorizer_fahad.pkl`.
-
-3.  **`Backend/Controllers/ML_Answer.py`**
-    -   Update `KG_FOLDER`, `model_path`, and `vectorizer_path` variables in the `__init__` method and the `__main__` block.
-
-4.  **`Backend/Controllers/SceneGraphHandler.py`**
-    -   If you run this file directly for testing, update the `model_path` in the `if __name__ == "__main__":` block.
-
----
-
 ### 2. Frontend Setup
 
 1.  **Navigate to the Frontend directory:**
